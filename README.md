@@ -15,7 +15,7 @@
 - Letícia Abreu de Araújo Marques
 - Luís Gustavo da Silva Gomes
 - Paolla Gabriele dos Santos Costa
-- Willian Gonçalves 
+- Willian Gonçalves Monteiro
 
 ## Sobre o projeto
 
