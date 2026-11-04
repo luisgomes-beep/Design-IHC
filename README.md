@@ -10,12 +10,12 @@
 
 ## Integrantes da equipe
 
-- Integrante 1 — Nome completo
-- Integrante 2 — Nome completo
-- Integrante 3 — Nome completo
-- Integrante 4 — Nome completo
-- Integrante 5 — Nome completo
-- Integrante 6 — Nome completo
+- Ana Vitória Farias Barroso
+- Jucilla kétura Souza Sousa
+- Letícia Abreu de Araújo Marques
+- Luís Gustavo da Silva Gomes
+- Paolla Gabriele dos Santos Costa
+- Willian Gonçalves 
 
 ## Sobre o projeto
 
