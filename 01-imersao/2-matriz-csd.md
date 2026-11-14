@@ -1,14 +1,14 @@
 # 2. Matriz CSD – Camp Food
 
-## 2.1. Introdução
+## 1. Introdução
 A Matriz CSD (Certezas, Suposições e Dúvidas) é uma ferramenta utilizada para organizar as informações levantadas durante a investigação de um problema. No projeto Camp Food, sua aplicação permite reunir os conhecimentos obtidos pela equipe, identificar hipóteses que ainda precisam ser verificadas e destacar questões que necessitam de maior investigação. Dessa maneira, a ferramenta contribui para orientar as decisões das próximas etapas do desenvolvimento do sistema.
 
-### 2.1.1. Contextualização
+### 1.1. Contextualização
 No contexto do Camp Food, a equipe identificou a necessidade de compreender melhor a realidade dos vendedores que comercializam produtos no hall da Universidade Federal do Amazonas (UFAM). O levantamento inicial revelou aspectos relacionados à divulgação dos produtos, ao atendimento dos compradores, ao controle da disponibilidade dos itens e às limitações dos dispositivos utilizados pelo cliente.
 
 A partir desse cenário, a Matriz CSD foi aplicada para analisar essas informações de maneira estruturada, distinguindo os aspectos já confirmados daqueles que ainda representam possibilidades ou questionamentos. Essa análise possibilita reconhecer os pontos que precisam ser aprofundados e direcionar a pesquisa complementar, contribuindo para que as decisões sobre o aplicativo estejam alinhadas às necessidades identificadas.
 
-### 2.1.2. Importância para o projeto
+### 1.2. Importância para o projeto
 
 A Matriz CSD desempenhou um papel importante no desenvolvimento do Camp Food, pois permitiu visualizar os conhecimentos já adquiridos e identificar pontos que precisavam ser aprofundados.
 
