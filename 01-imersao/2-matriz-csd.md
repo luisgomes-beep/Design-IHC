@@ -2,7 +2,7 @@
 
 ## 2.1. Introdução
 A Matriz CSD (Certezas, Suposições e Dúvidas) foi elaborada durante a etapa de imersão do projeto CampFood, após a realização do briefing inicial com o cliente. Sua construção teve como finalidade organizar as informações levantadas, identificar os conhecimentos já existentes sobre o contexto das vendas e reconhecer os aspectos
-que ainda precisam ser investigados.
+que ainda precisavam ser investigados.
 
 ### 2.1.1. Contextualização
 A compreensão das necessidades envolvidas no projeto Camp Food exigiu uma análise cuidadosa das informações reunidas. Nesse sentido, a equipe utilizou a Matriz CSD como instrumento de apoio para examinar os dados disponíveis e distinguir os conhecimentos já confirmados das percepções que ainda precisavam ser verificadas.
