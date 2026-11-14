@@ -1,6 +1,6 @@
 # 2. Matriz CSD – Camp Food
 
-## 2.1 Introdução
+## 2.1. Introdução
 
 ### 2.1.1. Contextualização
 
