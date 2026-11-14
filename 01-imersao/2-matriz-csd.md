@@ -1,13 +1,12 @@
 # 2. Matriz CSD – Camp Food
 
 ## 2.1. Introdução
-A Matriz CSD (Certezas, Suposições e Dúvidas) foi elaborada durante a etapa de imersão do projeto CampFood, após a realização do briefing inicial com o cliente. Sua construção teve como finalidade organizar as informações levantadas, identificar os conhecimentos já existentes sobre o contexto das vendas e reconhecer os aspectos
-que ainda precisavam ser investigados.
+A Matriz CSD (Certezas, Suposições e Dúvidas) é uma ferramenta utilizada para organizar as informações levantadas durante a investigação de um problema. No projeto Camp Food, sua aplicação permite reunir os conhecimentos obtidos pela equipe, identificar hipóteses que ainda precisam ser verificadas e destacar questões que necessitam de maior investigação. Dessa maneira, a ferramenta contribui para orientar as decisões das próximas etapas do desenvolvimento do sistema.
 
 ### 2.1.1. Contextualização
-A compreensão das necessidades envolvidas no projeto Camp Food exigiu uma análise cuidadosa das informações reunidas. Nesse sentido, a equipe utilizou a Matriz CSD como instrumento de apoio para examinar os dados disponíveis e distinguir os conhecimentos já confirmados das percepções que ainda precisavam ser verificadas.
+No contexto do Camp Food, a equipe identificou a necessidade de compreender melhor a realidade dos vendedores que comercializam produtos no hall da Universidade Federal do Amazonas (UFAM). O levantamento inicial revelou aspectos relacionados à divulgação dos produtos, ao atendimento dos compradores, ao controle da disponibilidade dos itens e às limitações dos dispositivos utilizados pela cliente.
 
-Essa organização permitiu visualizar com maior clareza os aspectos que já apresentavam evidências, as possibilidades consideradas pela equipe e os questionamentos que permaneciam em aberto. Dessa forma, a matriz contribuiu para direcionar as próximas etapas do projeto, auxiliando na definição dos pontos que necessitavam de maior investigação antes da tomada de decisões sobre o sistema.
+A partir desse cenário, a Matriz CSD foi aplicada para analisar essas informações de maneira estruturada, distinguindo os aspectos já confirmados daqueles que ainda representam possibilidades ou questionamentos. Essa análise possibilita reconhecer os pontos que precisam ser aprofundados e direcionar a pesquisa complementar, contribuindo para que as decisões sobre o aplicativo estejam alinhadas às necessidades identificadas.
 
 ### 2.1.2. Importância para o projeto
 
