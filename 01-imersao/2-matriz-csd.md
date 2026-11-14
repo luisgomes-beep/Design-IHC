@@ -14,3 +14,27 @@ Essa organização permitiu visualizar com maior clareza os aspectos que já apr
 A Matriz CSD desempenhou um papel importante no desenvolvimento do Camp Food, pois permitiu visualizar os conhecimentos já adquiridos e identificar pontos que precisavam ser aprofundados.
 
 Além disso, possibilitou direcionar a pesquisa complementar, auxiliando a equipe na compreensão das dificuldades enfrentadas pelos vendedores e compradores e na identificação de oportunidades para a solução proposta.
+
+## 2. Metodologia de construção
+
+A construção da Matriz CSD envolveu a análise e a organização das informações reunidas durante a etapa inicial do projeto. Para isso, a equipe seguiu um processo dividido em três etapas: levantamento dos dados disponíveis, organização das informações e definição dos critérios de classificação. Esse procedimento permitiu estruturar os conhecimentos obtidos e identificar quais aspectos ainda precisavam ser investigados.
+
+### 2.1. Levantamento das informações
+
+A elaboração da matriz foi realizada a partir das informações obtidas no briefing com o cliente, considerando o contexto atual das vendas, as dificuldades enfrentadas durante o atendimento, as necessidades identificadas e as expectativas relacionadas à utilização de um aplicativo próprio.
+
+Também foram consideradas as informações referentes ao processo de divulgação dos produtos, às formas de pagamento e à disponibilidade dos itens comercializados.
+
+### 2.2. Organização das informações
+
+Após o levantamento, as informações foram distribuídas em três categorias, conforme a proposta da ferramenta:
+
+- **Certezas:** informações sustentadas por evidências disponíveis.
+- **Suposições:** hipóteses consideradas plausíveis pela equipe, mas que ainda precisam ser confirmadas.
+- **Dúvidas:** questões que permanecem sem resposta e necessitam de investigação.
+
+### 2.3. Critérios de classificação
+
+A classificação das informações considerou a existência de evidências e o grau de conhecimento da equipe sobre cada aspecto do problema.
+
+As certezas foram relacionadas às informações já identificadas no contexto das vendas. As suposições representaram possíveis benefícios e funcionalidades do aplicativo. Já as dúvidas foram formuladas para orientar investigações posteriores sobre o funcionamento e as necessidades da solução.
