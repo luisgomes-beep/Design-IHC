@@ -37,3 +37,56 @@ Após o levantamento, as informações foram distribuídas em três categorias, 
 A classificação das informações considerou a existência de evidências e o grau de conhecimento da equipe sobre cada aspecto do problema.
 
 As certezas foram relacionadas às informações já identificadas no contexto das vendas. As suposições representaram possíveis benefícios e funcionalidades do aplicativo. Já as dúvidas foram formuladas para orientar investigações posteriores sobre o funcionamento e as necessidades da solução.
+
+## 3. Apresentação da Matriz CSD
+Após o levantamento e a organização das informações, a equipe estruturou a Matriz CSD com o objetivo de apresentar os principais conhecimentos reunidos sobre o contexto do Camp Food. A ferramenta foi dividida em três categorias: Certezas, Suposições e Dúvidas, permitindo visualizar de forma organizada os aspectos já identificados, as hipóteses levantadas e os pontos que ainda precisam ser esclarecidos.
+
+### 3.1. Representação visual
+
+A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Food.
+
+![imagem da matriz]
+
+### 3.2. Certezas
+
+As certezas correspondem às informações sustentadas pelas evidências disponíveis durante o levantamento inicial.
+
+No contexto do Camp Food, foram identificados os seguintes aspectos:
+
+- As vendas serão realizadas no hall da UFAM, com maior movimento entre 13h e 14h.
+- Pix e dinheiro foram registrados como formas de pagamento disponíveis.
+- Os compradores poderão consultar a quantidade disponível e o preço dos produtos.
+- O aplicativo deverá oferecer facilidade de uso em relação ao processo atual de comunicação pelo WhatsApp.
+- O cliente realizará o pedido e a vendedora ficará responsável pelo preparo.
+- A vendedora também receberá notificações sobre novos pedidos.
+- Existem situações em que os clientes procuram produtos que já estão esgotados.
+
+Essas informações ajudam a compreender o funcionamento atual das vendas e os principais aspectos envolvidos na experiência de compra.
+
+### 3.3. Suposições
+
+As suposições representam hipóteses formuladas pela equipe sobre possíveis características e benefícios da solução proposta.
+
+Foram levantadas as seguintes hipóteses:
+
+- A utilização de um aplicativo próprio poderá proporcionar maior autonomia na administração das vendas.
+- A atualização do estoque no aplicativo poderá diminuir pedidos de produtos indisponíveis.
+- As notificações de novos pedidos poderão ajudar a vendedora a acompanhar as solicitações com mais rapidez.
+- Uma interface direta e familiar poderá tornar o aplicativo mais fácil de utilizar.
+- Um catálogo simples, com preços visíveis, poderá reduzir perguntas repetidas e agilizar o atendimento.
+
+Essas hipóteses representam possibilidades de melhoria que deverão ser analisadas e confrontadas com as necessidades dos usuários durante as próximas etapas do projeto.
+
+### 3.4. Dúvidas
+
+As dúvidas correspondem às questões que ainda não possuem respostas suficientes e que precisam ser investigadas para orientar as decisões de design.
+
+Foram identificadas as seguintes questões:
+
+- Haverá necessidade de outras formas de pagamento além de Pix e dinheiro?
+- Como os clientes preferirão acompanhar o pedido: confirmação, preparo ou retirada?
+- Como funcionarão cancelamentos, alterações e pedidos de produtos que acabarem durante a compra?
+- Qual será o limite de armazenamento considerado aceitável para o vendedor?
+- Como a disponibilidade dos produtos será atualizada: automaticamente, manualmente ou das duas formas?
+
+Essas perguntas permitem identificar aspectos que ainda precisam ser compreendidos antes da definição das funcionalidades e características da interface.
