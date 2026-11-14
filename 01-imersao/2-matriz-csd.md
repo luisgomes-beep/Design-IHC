@@ -8,3 +8,9 @@ que ainda precisavam ser investigados.
 A compreensão das necessidades envolvidas no projeto Camp Food exigiu uma análise cuidadosa das informações reunidas. Nesse sentido, a equipe utilizou a Matriz CSD como instrumento de apoio para examinar os dados disponíveis e distinguir os conhecimentos já confirmados das percepções que ainda precisavam ser verificadas.
 
 Essa organização permitiu visualizar com maior clareza os aspectos que já apresentavam evidências, as possibilidades consideradas pela equipe e os questionamentos que permaneciam em aberto. Dessa forma, a matriz contribuiu para direcionar as próximas etapas do projeto, auxiliando na definição dos pontos que necessitavam de maior investigação antes da tomada de decisões sobre o sistema.
+
+### 2.1.2. Importância para o projeto
+
+A Matriz CSD desempenhou um papel importante no desenvolvimento do Camp Food, pois permitiu visualizar os conhecimentos já adquiridos e identificar pontos que precisavam ser aprofundados.
+
+Além disso, possibilitou direcionar a pesquisa complementar, auxiliando a equipe na compreensão das dificuldades enfrentadas pelos vendedores e compradores e na identificação de oportunidades para a solução proposta.
