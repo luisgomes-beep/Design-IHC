@@ -1,4 +1,4 @@
-# 3. Pesquisa com Usuários
+# Pesquisa com Usuários
 
 ## 1. Introdução
 
