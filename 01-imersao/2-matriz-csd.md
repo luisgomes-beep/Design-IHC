@@ -90,3 +90,17 @@ Foram identificadas as seguintes questões:
 - Como a disponibilidade dos produtos será atualizada: automaticamente, manualmente ou das duas formas?
 
 Essas perguntas permitem identificar aspectos que ainda precisam ser compreendidos antes da definição das funcionalidades e características da interface.
+
+## 4. Análise dos resultados
+
+### 4.1. Principais problemas identificados
+
+A análise da matriz evidencia alguns desafios relacionados ao processo atual de vendas, principalmente no que diz respeito à comunicação com os compradores e ao acompanhamento da disponibilidade dos produtos.
+
+A utilização de diferentes canais de divulgação e atendimento, como grupos de WhatsApp, status, redes sociais e mensagens privadas, pode dificultar a centralização das informações e tornar o atendimento mais trabalhoso.
+
+Outro aspecto relevante é a ocorrência de clientes interessados em produtos que já estão esgotados, demonstrando a importância de mecanismos que facilitem a consulta e a atualização da disponibilidade dos itens.
+
+## 5. Considerações finais
+
+A elaboração da Matriz CSD permitiu organizar as informações iniciais do projeto Camp Food, proporcionando uma compreensão mais estruturada do contexto das vendas e das necessidades apresentadas pela cliente. A separação entre certezas, suposições e dúvidas ajudou a equipe a reconhecer quais aspectos já possuem evidências e quais ainda precisam ser investigados, evitando antecipar decisões sem compreender adequadamente o problema. Dessa maneira, a matriz não apenas registra os conhecimentos adquiridos durante o briefing, mas também estabelece uma direção para as próximas etapas do projeto, contribuindo para o desenvolvimento de uma solução alinhada às necessidades reais dos vendedores e compradores.
