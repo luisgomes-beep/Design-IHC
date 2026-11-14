@@ -1,4 +1,4 @@
-# Pesquisa complementar com Usuários
+# Pesquisa complementar com usuários
 
 ## 1. Introdução
 
