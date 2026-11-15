@@ -1,12 +1,12 @@
-# 1. Personas
+# Personas
 
-## 1.1. Objetivo
+## 1. Objetivo
 
 As personas foram desenvolvidas com base nas informações obtidas durante a pesquisa complementar com os usuários, buscando representar diferentes perfis, necessidades, comportamentos e dificuldades relacionados à compra e venda de alimentos na Universidade Federal do Amazonas (UFAM).
 
 Foram elaboradas três personas utilizando as dimensões da técnica PATHY, contemplando uma pessoa com necessidade de acessibilidade.
 
-## 1.2. Personas desenvolvidas
+## 2. Personas desenvolvidas
 
 ### Persona 01 — Mariana Oliveira
 
@@ -47,7 +47,7 @@ Representa uma estudante universitária com baixa visão, que necessita de recur
 - E1, E2, E3...: Experiências com tecnologia.
 - S1, S2, S3...: Soluções e alternativas utilizadas.
 
-## 1.3. Considerações finais
+## 3. Considerações finais
 
 As três personas representam diferentes perspectivas de utilização do Camp Food, contemplando tanto os vendedores quanto os compradores de alimentos na UFAM.
 A construção das personas permitiu compreender as necessidades dos usuários e orientou as decisões de design do aplicativo, considerando aspectos como praticidade, organização das informações, comunicação e acessibilidade.
