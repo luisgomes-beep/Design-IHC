@@ -1,4 +1,3 @@
-
 # 1. Personas
 
 ## 1.1. Objetivo
