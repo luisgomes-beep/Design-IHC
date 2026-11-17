@@ -1,55 +1,69 @@
 # Mapas de Objetivos — Camp Food
 
-## Apresentação
+Os mapas de objetivos do Camp Food permitem visualizar as metas que os usuários pretendem alcançar ao utilizar o sistema, considerando suas necessidades, dificuldades e expectativas. Essa representação contribui para compreender quais objetivos devem ser contemplados durante o desenvolvimento da plataforma e como eles se relacionam com as funcionalidades propostas.
 
-Os Mapas de Objetivos do Camp Food foram desenvolvidos a partir das personas definidas durante a etapa de ideação do projeto. Sua elaboração busca representar, de maneira visual e hierárquica, os principais objetivos que cada perfil pretende alcançar ao utilizar a plataforma.
-
-A construção dos mapas considera os diferentes papéis presentes no ambiente de comercialização de alimentos no contexto universitário, contemplando tanto as necessidades dos vendedores quanto as dos compradores. Dessa forma, os objetivos são organizados de acordo com as particularidades de cada persona, permitindo compreender suas motivações e as relações entre os resultados que desejam alcançar.
+Inicialmente, é apresentado o mapa geral de objetivos, que reúne uma visão abrangente das metas identificadas para o sistema. Em seguida, os mapas são apresentados individualmente, de acordo com cada persona, permitindo observar com maior clareza os objetivos específicos de cada perfil e suas respectivas necessidades de interação com o Camp Food.
 
 ## 1. Mapa Geral de Objetivos
 
-O mapa geral apresenta uma visão integrada dos objetivos identificados para o Camp Food, reunindo as três personas e suas respectivas finalidades de interação com o sistema.
+O mapa geral apresenta uma visão ampla dos objetivos relacionados ao Camp Food, reunindo as principais necessidades identificadas para os usuários da plataforma. Nele, é possível observar como os objetivos estão organizados hierarquicamente e como se relacionam para atender às diferentes atividades realizadas no sistema.
 
-Essa representação permite observar como os diferentes objetivos se complementam dentro da proposta da plataforma, evidenciando a relação entre a atuação comercial dos vendedores, a experiência de busca e compra dos estudantes e a necessidade de acessibilidade durante a utilização do aplicativo.
+Essa representação permite compreender o propósito geral da plataforma e identificar os objetivos que orientam as interações entre vendedores e compradores no ambiente universitário.
 
-![Mapa Geral de Objetivos — Camp Food](./NOME-DO-MAPA-GERAL.png)
+![Mapa Geral de Objetivos](./Mapas%20de%20Objetivos.png)
+Figura 1 – Mapa Geral de Objetivos do Camp Food.
 
----
+Fonte: Elaborado pelos autores (2026).
 
-## 2. Mapas Individuais por Persona
+As setas representadas no mapa indicam a relação de instrumentalidade entre os objetivos. Elas demonstram que os objetivos específicos, apresentados à esquerda, funcionam como meios para alcançar o objetivo final de cada persona, apresentado à direita. Dessa forma, cada conjunto de objetivos específicos contribui diretamente para a realização da meta principal do respectivo perfil de usuário. 
 
-Após a representação geral, os objetivos são apresentados individualmente, permitindo uma análise mais detalhada das necessidades e finalidades de cada persona. Cada mapa destaca um objetivo final e os objetivos instrumentais relacionados à sua realização.
+Além das relações entre os objetivos de cada persona, as setas externas, localizadas à direita do mapa, representam a interdependência entre os diferentes perfis de usuários. Elas indicam que determinados objetivos estão relacionados e que sua realização pode depender da participação ou das ações de outro perfil dentro do sistema. Essa relação evidencia a conexão entre as atividades de vendedores e compradores, demonstrando que o funcionamento do Camp Food envolve objetivos complementares entre seus usuários.
+
+## 2. Objetivos por Persona
+
+Para facilitar a compreensão das necessidades de cada perfil, os mapas a seguir apresentam os objetivos organizados individualmente por persona. Essa visualização permite analisar cada perspectiva de utilização do Camp Food com mais detalhes, destacando o que cada usuário busca alcançar ao interagir com a plataforma.
 
 ### 2.1 Mariana Oliveira — Usuária Vendedora (UV)
 
-**Objetivo final:** Comercializar seus produtos no ambiente universitário de forma organizada e eficiente.
+Mariana representa os estudantes que comercializam alimentos dentro da universidade. Sua principal necessidade está relacionada à organização das atividades de venda, à divulgação dos produtos e ao acompanhamento da disponibilidade dos itens oferecidos.
 
-O mapa de Mariana representa os objetivos relacionados à sua atuação comercial no Camp Food. Como vendedora, sua interação com a plataforma está voltada à divulgação dos produtos, à organização das informações comerciais, ao controle da disponibilidade e ao atendimento das solicitações dos compradores.
+A visualização de seu mapa permite compreender os objetivos envolvidos na rotina de uma usuária vendedora, considerando atividades como disponibilizar informações dos produtos, manter os dados de disponibilidade atualizados e acompanhar as solicitações de compra recebidas.
 
-A representação busca evidenciar como esses objetivos contribuem para ampliar o alcance de suas vendas e tornar a organização da atividade comercial mais eficiente.
+**Objetivo principal:** Ampliar suas vendas e otimizar o atendimento aos clientes.
 
-![Mapa de Objetivos — Mariana Oliveira](./NOME-MAPA-MARIANA.png)
+![Mapa de Objetivos — Mariana](./mapa%20mariana.png)
+Figura 2 – Mapa de Objetivos da Persona Mariana Oliveira (Usuária Vendedora – UV).
+
+Fonte: Elaborado pelos autores (2026).
 
 ### 2.2 Gabriel Santos — Usuário Comprador (UC)
 
-**Objetivo final:** Encontrar alimentos disponíveis no campus e realizar compras de forma prática e ágil.
+Gabriel representa os estudantes que utilizam a plataforma para encontrar alimentos disponíveis no campus. Suas necessidades estão relacionadas à facilidade de localização dos vendedores, à consulta das informações dos produtos e à possibilidade de realizar compras de maneira prática.
 
-O mapa de Gabriel contempla os objetivos relacionados à experiência de busca e compra de alimentos no ambiente universitário. Sua interação com o Camp Food envolve localizar vendedores, conhecer os produtos oferecidos, consultar informações relevantes e identificar opções disponíveis para compra.
+Seu mapa permite visualizar os objetivos relacionados à busca por opções disponíveis, à consulta de informações importantes, como preços e disponibilidade, e à escolha de produtos que atendam às suas necessidades.
 
-Dessa maneira, o mapa representa os objetivos que orientam sua jornada como comprador, considerando a necessidade de encontrar informações centralizadas e facilitar o processo de escolha.
+**Objetivo principal:** Encontrar alimentos disponíveis e realizar compras sem perder tempo.
 
-![Mapa de Objetivos — Gabriel Santos](./NOME-MAPA-GABRIEL.png)
+![Mapa de Objetivos — Gabriel](./mapa%20gabriel.png)
+Figura 3 – Mapa de Objetivos da Persona Gabriel Santos (Usuário Comprador – UC).
+
+Fonte: Elaborado pelos autores (2026).
 
 ### 2.3 Camila Rodrigues — Usuária Compradora com Acessibilidade (UCA)
 
-**Objetivo final:** Consultar produtos e realizar compras com autonomia e acessibilidade.
+Camila representa uma perspectiva de utilização que considera as necessidades de acessibilidade durante a interação com o Camp Food. Seus objetivos estão relacionados à autonomia, à compreensão das informações e à facilidade de navegação pela plataforma.
 
-O mapa de Camila representa os objetivos relacionados ao acesso inclusivo às funcionalidades do Camp Food. Considerando suas necessidades de acessibilidade visual, a organização dos objetivos busca contemplar uma experiência de navegação que permita consultar informações, identificar produtos e realizar compras com maior autonomia.
+Seu mapa permite observar os aspectos necessários para proporcionar uma experiência mais acessível, considerando recursos como ajustes visuais, identificação adequada das informações e facilidade de consulta dos produtos.
 
-Essa representação reforça a importância de considerar recursos de acessibilidade desde a concepção da plataforma, de modo que a experiência de utilização não seja limitada pelas características da interface.
+**Objetivo principal:** Consultar produtos e realizar compras com autonomia e acessibilidade.
 
-![Mapa de Objetivos — Camila Rodrigues](./NOME-MAPA-CAMILA.png)
+![Mapa de Objetivos — Camila](./mapa%20camila.png)
+Figura 4 – Mapa de Objetivos da Persona Camila Rodrigues (Usuária Compradora com Acessibilidade – UCA).
 
-## Considerações sobre os mapas
+Fonte: Elaborado pelos autores (2026).
 
-Em conjunto, os mapas permitem compreender as diferentes perspectivas de utilização do Camp Food e estabelecer uma base para as próximas etapas do projeto. Os objetivos identificados orientam a análise das tarefas por meio das Análises Hierárquicas de Tarefas (HTAs), garantindo que as atividades representadas posteriormente estejam relacionadas às necessidades e finalidades de cada persona.
+## 3. Relação com as Análises Hierárquicas de Tarefas (HTAs)
+
+Os mapas de objetivos servem como referência para a elaboração das Análises Hierárquicas de Tarefas (HTAs). A partir dos objetivos identificados, são detalhadas as atividades que os usuários precisam realizar para alcançar suas metas, organizando as tarefas principais, suas subtarefas e os respectivos planos de execução.
+
+Dessa maneira, é possível manter uma relação entre as necessidades representadas nos mapas e os fluxos de interação propostos para o Camp Food, contribuindo para uma estrutura mais coerente com os objetivos dos usuários.
