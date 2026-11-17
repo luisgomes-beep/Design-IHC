@@ -25,6 +25,7 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
 Questionário de Caracterização
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b97b8b49-c525-49ac-846a-f333ccd7f367" />
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
 
 ### 2.2. Participantes
 
