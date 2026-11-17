@@ -26,6 +26,8 @@ Questionário de Caracterização
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
 
+[Questionário de Caracterização](https://tally.so/r/8Naxqz)
+
 ### 2.2. Participantes
 
 A pesquisa contou com a participação de quatro estudantes da Universidade Federal do Amazonas (UFAM), com idades entre 18 e 19 anos, matriculados em diferentes cursos e períodos da instituição.
