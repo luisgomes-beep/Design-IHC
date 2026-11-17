@@ -30,7 +30,7 @@ Durante o processo, a vendedora precisa verificar se os dados e as imagens estã
 
 A decomposição da tarefa permite organizar o processo de divulgação em etapas compreensíveis, desde a preparação das informações até sua disponibilização e conferência. Dessa forma, o Camp Food busca facilitar a apresentação dos produtos, oferecer informações mais claras aos compradores e contribuir para uma comunicação mais organizada entre vendedores e estudantes.
 
-HTA 02 — Atualização da Disponibilidade dos Produtos
+## HTA 02 — Atualização da Disponibilidade dos Produtos
 
 **Persona:** Mariana Oliveira — Usuária Vendedora (UV).
 
@@ -60,7 +60,7 @@ Durante a atualização, Mariana precisa considerar a quantidade efetivamente di
 
 A decomposição da tarefa organiza o processo de atualização da disponibilidade, desde a consulta e conferência das quantidades até a atualização e validação das informações. Isso contribui para reduzir divergências entre o que é apresentado no aplicativo e o que a vendedora realmente possui disponível, facilitando o planejamento das compras pelos estudantes.
 
-HTA 03 — Organização e Acompanhamento dos Pedidos
+## HTA 03 — Organização e Acompanhamento dos Pedidos
 
 **Persona:** Mariana Oliveira — Usuária Vendedora (UV).
 
