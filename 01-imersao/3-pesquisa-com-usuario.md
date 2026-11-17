@@ -23,9 +23,8 @@ A pesquisa teve como objetivo identificar:
 Para a coleta de informações, foi utilizado um Questionário de Caracterização – Pesquisa Complementar, composto por perguntas relacionadas à rotina acadêmica, aos hábitos de consumo, às formas de encontrar vendedores e às preferências de utilização de aplicativos.
 
 Questionário de Caracterização
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/b97b8b49-c525-49ac-846a-f333ccd7f367" />
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
 
 ### 2.2. Participantes
 
