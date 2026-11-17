@@ -9,6 +9,8 @@ As Análises Hierárquicas de Tarefas (HTAs) foram elaboradas a partir dos objet
 **Objetivo associado:** Divulgar seus produtos para alcançar os compradores do campus.
 
 ![Mapa de Objetivos e HTA 01 — Mariana](./HTA%2001.png)
+Figura 5 – Mapa de Objetivos e Análise Hierárquica de Tarefas (HTA 01): Divulgação dos Produtos.
+Fonte: Elaborado pelos autores (2026).
 
 ### 1. Propósito da HTA
 
@@ -37,6 +39,8 @@ A decomposição da tarefa permite organizar o processo de divulgação em etapa
 **Objetivo associado:** Manter atualizadas as informações sobre a disponibilidade dos produtos.
 
 ![Mapa de Objetivos e HTA 02 — Mariana](./HTA%2002.png)
+Figura 6 – Mapa de Objetivos e Análise Hierárquica de Tarefas (HTA 02): Atualização da Disponibilidade dos Produtos.
+Fonte: Elaborado pelos autores (2026).
 
 1. Propósito da HTA
 
@@ -67,6 +71,8 @@ A decomposição da tarefa organiza o processo de atualização da disponibilida
 **Objetivo associado:** Organizar e acompanhar as solicitações de compra recebidas.
 
 ![Mapa de Objetivos e HTA 03 — Mariana](./HTA%2003.png)
+Figura 7 – Mapa de Objetivos e Análise Hierárquica de Tarefas (HTA 03): Organização e Acompanhamento dos Pedidos.
+Fonte: Elaborado pelos autores (2026).
 
 1. Propósito da HTA
 
