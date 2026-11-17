@@ -2,13 +2,11 @@
 
 **Persona:** Mariana Oliveira — Usuária Vendedora (UV).
 
-**Objetivo associado ao Mapa de Objetivos:** Divulgar seus produtos para alcançar os compradores do campus.
+**Objetivo associado:** Divulgar seus produtos para alcançar os compradores do campus.
 
-### Representação visual
+### Representação do Mapa de Objetivos e da HTA
 
-| Mapa de Objetivos — Mariana | Diagrama HTA 01 |
-|:---:|:---:|
-| ![HTA 01 — Divulgação dos Produtos](./ideação HTA.png) |
+![Mapa de Objetivos e HTA 01 — Mariana]()
 
 ### 1. Propósito da HTA
 
@@ -18,9 +16,9 @@ Esta HTA representa o processo de divulgação dos produtos realizado pela vende
 
 A tarefa principal consiste em divulgar produtos para alcançar os compradores do campus. Para isso, foi dividida em três etapas:
 
-**Preparar as informações do produto:** envolve identificar o produto que será divulgado e reunir suas imagens e informações disponíveis. Essas atividades podem ser realizadas sem uma ordem obrigatória entre si.
-**Disponibilizar o produto:** consiste em inserir as informações e imagens preparadas no catálogo do Camp Food e, em seguida, publicar o produto para consulta dos compradores.
-**Conferir as informações divulgadas:** envolve verificar se as informações e imagens apresentadas estão corretas e confirmar se a disponibilidade informada corresponde à situação atual do produto.
+**Preparar as informações:** identificar o produto que será divulgado e reunir suas imagens e informações disponíveis.
+**Disponibilizar o produto:** inserir as informações e imagens preparadas no catálogo do Camp Food e publicar o produto para consulta dos compradores.
+**Conferir a divulgação:** verificar se as informações e imagens estão corretas e confirmar se a disponibilidade informada corresponde à situação atual do produto.
 
 ### 3. Decisões envolvidas
 
