@@ -94,7 +94,7 @@ Os participantes demonstraram preferência por aplicativos simples, intuitivos e
 
 Também foram valorizadas instruções claras, imagens dos produtos, avaliações, comentários e acompanhamento das compras. Por outro lado, excesso de anúncios, interfaces complicadas e informações desorganizadas foram apontados como fatores que podem prejudicar a experiência.
 
-### 3.6 Prioridades sugeridas
+### 3.6. Prioridades sugeridas
 
 | Prioridade | O que desenvolver | Motivo observado |
 |---|---|---|
