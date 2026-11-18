@@ -4,8 +4,8 @@
 
 A pesquisa complementar foi realizada com o objetivo de compreender melhor as necessidades, os hábitos e as dificuldades dos estudantes da Universidade Federal do Amazonas (UFAM) em relação à compra de alimentos dentro da universidade. Essa etapa buscou ampliar as informações obtidas anteriormente com a cliente, considerando também a perspectiva dos possíveis compradores do sistema Camp Food.
 
-**Figura 1 - Equipe realizando a Pesquisa Complementar**
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/5c80b18a-7e4f-432e-8c3a-de54d9db5ee9" />
+*Figura 1 - Equipe realizando a Pesquisa Complementar*
 
 ## 1.1. Objetivos da pesquisa
 
@@ -23,9 +23,8 @@ A pesquisa teve como objetivo identificar:
 
 Para a coleta de informações, foi utilizado um Questionário de Caracterização – Pesquisa Complementar, composto por perguntas relacionadas à rotina acadêmica, aos hábitos de consumo, às formas de encontrar vendedores e às preferências de utilização de aplicativos.
 
-**Figura 2 - Questionário de Caracterização**
-
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
+*Figura 2 - Questionário de Caracterização*
 
 [Questionário de Caracterização](https://tally.so/r/8Naxqz)
 
@@ -33,31 +32,31 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
 
 A pesquisa contou com a participação de quatro estudantes da Universidade Federal do Amazonas (UFAM), com idades entre 18 e 19 anos, matriculados em diferentes cursos e períodos da instituição.
 
-**Figura 3 - Participantes 01 e 02 realizando o questionário**
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/53d417df-7969-494b-bef8-517e29cc6756" />
+*Figura 3 - Participantes 01 e 02 realizando o questionário*
 
-**Figura 4 - Participante 03 realizando o questionário**
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/37c58eec-41cc-4596-90f2-ec64020e8ef6" />
+*Figura 4 - Participante 03 realizando o questionário*
 
-**Figura 5 - Participante 04 realizando o questionário**
 <img width="889" alt="immage" src="https://github.com/user-attachments/assets/4eba4359-9b51-41ac-983e-51a5c3fbe939" />
+*Figura 5 - Participante 04 realizando o questionário*
 
 ### 2.3. Análise das respostas
 
 Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitindo identificar características em comum, dificuldades recorrentes e necessidades relacionadas à experiência de compra de alimentos dentro da universidade.
 
-**Figura 6 - Gráfico sobre os turnos dos usuários**
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/ecaf0090-095c-461b-aa03-270e054da3ae" />
+*Figura 6 - Gráfico sobre os turnos dos usuários*
 
  75% estudam em turno integral e 25% à noite
 
- **Figura 7 - Gráfico sobre o estilo de vida dos participantes**
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/14e606dc-952d-4b1c-a7e6-1ec4157d8c63" />
+ *Figura 7 - Gráfico sobre o estilo de vida dos participantes*
 
  O estilo de vida foi dividido igualmente entre espontâneo e apressado.
 
- **Figura 8 - Gráfico sobre o formato de intrução preferido pelos entrevistados**
  <img width="900" alt="image" src="https://github.com/user-attachments/assets/13913701-2311-49ab-9763-c5d416cc75a4" />
+ *Figura 8 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
  
   Quanto à preferência de formato, 75% indicaram instruções explicativas e 25% imagens.
 
