@@ -94,6 +94,16 @@ Os participantes demonstraram preferência por aplicativos simples, intuitivos e
 
 Também foram valorizadas instruções claras, imagens dos produtos, avaliações, comentários e acompanhamento das compras. Por outro lado, excesso de anúncios, interfaces complicadas e informações desorganizadas foram apontados como fatores que podem prejudicar a experiência.
 
+### 3.6 Prioridades sugeridas
+
+| Prioridade | O que desenvolver | Motivo observado |
+|---|---|---|
+| Alta | Catálogo + preço + disponibilidade | Evita deslocamento sem saber o que está disponível. |
+| Alta | Localização do vendedor/ponto de venda | Responde à dificuldade de encontrar o vendedor. |
+| Alta | Contato e confirmação rápidos | Reduz frustração com demora ou falta de resposta. |
+| Média | Fotos, avaliações e detalhes do produto | Ajuda a avaliar qualidade, tamanho e confiança. |
+| Média | Entrega no bloco e opções de pagamento | Atende necessidades citadas pelos participantes. |
+
 ## 4. Requisitos e funcionalidades identificados
 
 A partir da análise das respostas, foram identificadas funcionalidades que podem contribuir para atender às necessidades dos estudantes:
