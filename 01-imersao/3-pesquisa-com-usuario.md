@@ -4,6 +4,7 @@
 
 A pesquisa complementar foi realizada com o objetivo de compreender melhor as necessidades, os hábitos e as dificuldades dos estudantes da Universidade Federal do Amazonas (UFAM) em relação à compra de alimentos dentro da universidade. Essa etapa buscou ampliar as informações obtidas anteriormente com a cliente, considerando também a perspectiva dos possíveis compradores do sistema Camp Food.
 
+**Figura 1 - Equipe realizando a Pesquisa Complementar**
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/5c80b18a-7e4f-432e-8c3a-de54d9db5ee9" />
 
 ## 1.1. Objetivos da pesquisa
@@ -22,7 +23,7 @@ A pesquisa teve como objetivo identificar:
 
 Para a coleta de informações, foi utilizado um Questionário de Caracterização – Pesquisa Complementar, composto por perguntas relacionadas à rotina acadêmica, aos hábitos de consumo, às formas de encontrar vendedores e às preferências de utilização de aplicativos.
 
-**Questionário de Caracterização**
+**Figura 2 - Questionário de Caracterização**
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
 
@@ -32,13 +33,13 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
 
 A pesquisa contou com a participação de quatro estudantes da Universidade Federal do Amazonas (UFAM), com idades entre 18 e 19 anos, matriculados em diferentes cursos e períodos da instituição.
 
-**Participantes 01 e 02**
+**Figura 3 - Participantes 01 e 02 realizando o questionário**
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/53d417df-7969-494b-bef8-517e29cc6756" />
 
-**Participante 03**
+**Figura 4 - Participante 03 realizando o questionário**
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/37c58eec-41cc-4596-90f2-ec64020e8ef6" />
 
-**Participante 04**
+**Figura 5 - Participante 04 realizando o questionário**
 <img width="900" alt="immage" src="https://github.com/user-attachments/assets/4eba4359-9b51-41ac-983e-51a5c3fbe939" />
 
 ### 2.3. Análise das respostas
