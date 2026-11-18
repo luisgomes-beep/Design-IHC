@@ -57,8 +57,8 @@ No contexto do Camp Food, foram identificados os seguintes aspectos:
 - Pix e dinheiro foram registrados como formas de pagamento disponíveis.
 - Os compradores poderão consultar a quantidade disponível e o preço dos produtos.
 - O aplicativo deverá oferecer facilidade de uso em relação ao processo atual de comunicação pelo WhatsApp.
-- O cliente realizará o pedido e a vendedora ficará responsável pelo preparo.
-- A vendedora também receberá notificações sobre novos pedidos.
+- O cliente realizará o pedido e o vendedor ficará responsável pelo preparo.
+- O vendedor também receberá notificações sobre novos pedidos.
 - Existem situações em que os clientes procuram produtos que já estão esgotados.
 
 Essas informações ajudam a compreender o funcionamento atual das vendas e os principais aspectos envolvidos na experiência de compra.
@@ -71,7 +71,7 @@ Foram levantadas as seguintes hipóteses:
 
 - A utilização de um aplicativo próprio poderá proporcionar maior autonomia na administração das vendas.
 - A atualização do estoque no aplicativo poderá diminuir pedidos de produtos indisponíveis.
-- As notificações de novos pedidos poderão ajudar a vendedora a acompanhar as solicitações com mais rapidez.
+- As notificações de novos pedidos poderão ajudar o vendedor a acompanhar as solicitações com mais rapidez.
 - Uma interface direta e familiar poderá tornar o aplicativo mais fácil de utilizar.
 - Um catálogo simples, com preços visíveis, poderá reduzir perguntas repetidas e agilizar o atendimento.
 
