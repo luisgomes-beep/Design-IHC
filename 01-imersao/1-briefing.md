@@ -49,16 +49,16 @@ Não há um parâmetro métrico formal ou quantitativo definido na entrevista. C
 Esta documentação registra a etapa inicial de pesquisa e alinhamento do projeto *Camp Food, que visa o desenvolvimento do aplicativo **Camp Food**. A ferramenta tem como proposta facilitar a divulgação, a comunicação e a compra de produtos comercializados por vendedoras no hall universitário.
 
 **Pesquisa com vendedores do hall universitário**  
-* **Participante:** Uma pessoa que trabalha como vendedora no hall da universidade.  
+* **Participante:** Uma pessoa que trabalha como vendedor no hall da universidade.  
 * **Duração estimada:** 20 minutos.
 
 ---
 
 ## 2.1. Objetivo
-Compreender como as vendedoras organizam suas vendas através da entrevista, divulgam os produtos, informam preços e disponibilidade e utilizam a tecnologia no dia a dia. As respostas contribuirão para identificar necessidades reais e orientar o desenvolvimento do aplicativo **Camp Food**.
+Compreender como os vendedores organizam suas vendas através da entrevista, divulgam os produtos, informam preços e disponibilidade e utilizam a tecnologia no dia a dia. As respostas contribuirão para identificar necessidades reais e orientar o desenvolvimento do aplicativo **Camp Food**.
 
 ## 2.2. Apresentação Inicial
-> "Olá! Somos estudantes e estamos desenvolvendo um projeto chamado **Camp Food**, uma proposta de aplicativo para facilitar a divulgação e a compra de produtos vendidos no hall da universidade. Gostaríamos de conversar brevemente com você sobre sua experiência como vendedora. Não existem respostas certas ou erradas: queremos conhecer sua rotina e suas opiniões. Suas respostas serão utilizadas apenas para fins acadêmicos e sua identidade será preservada. Você aceita participar desta entrevista?"
+> "Olá! Somos estudantes e estamos desenvolvendo um projeto chamado **Camp Food**, uma proposta de aplicativo para facilitar a divulgação e a compra de produtos vendidos no hall da universidade. Gostaríamos de conversar brevemente com você sobre sua experiência como vendedor. Não existem respostas certas ou erradas: queremos conhecer sua rotina e suas opiniões. Suas respostas serão utilizadas apenas para fins acadêmicos e sua identidade será preservada. Você aceita participar desta entrevista?"
 
 ---
 
@@ -107,7 +107,7 @@ Compreender como as vendedoras organizam suas vendas através da entrevista, div
 ## 3. Síntese das Principais Informações Obtidas (Camp Food)
 
 * Demanda ou Necessidade Apresentada:
-  * A vendedora busca ampliar o alcance de suas vendas de forma mais organizada. 
+  * O vendedor busca ampliar o alcance de suas vendas de forma mais organizada. 
   * Necessidade de otimizar o tempo e agilizar o atendimento, já que há dificuldade para responder rapidamente às mensagens dos clientes.
 
 * Como Ocorre Atualmente o Processo de Venda: 
