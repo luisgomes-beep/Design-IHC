@@ -6,7 +6,8 @@ As personas do Camp Food foram elaboradas com base nas informações obtidas dur
 
 ### Persona 01 — Mariana Oliveira
 
-![Persona Mariana]
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/08d24279-a3ec-40ed-90cd-b6e0bc9953ac" />
+
 
 Representa o perfil de uma estudante universitária e vendedora autônoma de doces, que busca conciliar suas atividades acadêmicas com a administração das vendas.
 
@@ -19,7 +20,8 @@ Representa o perfil de uma estudante universitária e vendedora autônoma de doc
 
 ### Persona 02 — Gabriel Santos
 
-![Persona Gabriel]
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/6ef7fc4c-696c-4369-8cac-6a4ac7e37b04" />
+
 
 Representa o estudante universitário que procura praticidade e rapidez para encontrar vendedores, consultar produtos e realizar compras dentro da universidade.
 
@@ -32,7 +34,8 @@ Representa o estudante universitário que procura praticidade e rapidez para enc
 
 ### Persona 03 — Camila Rodrigues
 
-![Persona Camila]
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/18e7db4d-af3e-4761-ac8e-d7aa0e84f4f7" />
+
 
 Representa uma estudante universitária com baixa visão, que necessita de recursos de acessibilidade para consultar informações e navegar com autonomia no aplicativo.
 
