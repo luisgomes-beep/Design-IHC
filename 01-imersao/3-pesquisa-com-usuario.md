@@ -32,7 +32,15 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
 
 A pesquisa contou com a participação de quatro estudantes da Universidade Federal do Amazonas (UFAM), com idades entre 18 e 19 anos, matriculados em diferentes cursos e períodos da instituição.
 
-![foto dos participantes]
+Participantes 01 e 02
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/53d417df-7969-494b-bef8-517e29cc6756" />
+
+Participante 03
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/37c58eec-41cc-4596-90f2-ec64020e8ef6" />
+
+Participante 04
+<img width="694" alt="immage" src="https://github.com/user-attachments/assets/4eba4359-9b51-41ac-983e-51a5c3fbe939" />
+
 
 ### 2.3. Análise das respostas
 
