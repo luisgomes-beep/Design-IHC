@@ -115,7 +115,7 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 <table>
   <tr>
     <td align="center" width="33%">
-     <img src="https://github.com/user-attachments/assets/6121c0bb-f880-4456-ba80-a3224a30f949" 
+     <img src="https://github.com/user-attachments/assets/a0303a73-dbdf-4894-982c-537a06b0b2d7" 
  width="300">
      <br>
      <em>Figura 3 - Questionário</em>
