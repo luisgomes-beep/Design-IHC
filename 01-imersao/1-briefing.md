@@ -38,7 +38,7 @@ O cliente realiza a venda de doces no hall da universidade e utiliza principalme
 | **Controle de Estoque & Qualidade** | Disponibilidade em tempo real, data de fabricação e data de validade |
 
 ## 1.8. Mapeamento Complementar
-* **Fontes de Informações:** Síntese das respostas obtidas através da entrevista de campo realizada com a vendedora (Camp Food).
+* **Fontes de Informações:** Síntese das respostas obtidas através da entrevista de campo realizada com o vendedor (Camp Food).
 * **Integrações:** Não há integrações técnicas definidas no momento. A investigar possíveis ferramentas de automação leve ou avisos automáticos de estoque para otimizar a comunicação com compradores (atualmente realizada via WhatsApp e redes sociais).
 * **Padrão Prévio de Interface:** Não há padrão de interface prévio mencionado; a vendedora espera um design novo e diferente do convencional.
 * **Contato Técnico:** Não informado durante a entrevista.
@@ -98,16 +98,27 @@ Compreender como os vendedores organizam suas vendas através da entrevista, div
 ---
 
 ## 2.5. Identificação e Registro da Entrevista
-### Identificação
+
 <img width="891" height="231" alt="image" src="https://github.com/user-attachments/assets/fa104930-99bd-44ad-ae00-2ae31c04da40" />
+*Figura 1 - Identificação*
 
-
-### Registro da entrevista
 * <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7b8df600-eb4d-4bd7-a55f-7efcd623772e" />
+*Figura 2 - Registro da entrevista*
 
 ---
 
-## 3. Síntese das Principais Informações Obtidas (Camp Food)
+## 3. Questionário sobre o aplicativo 
+
+
+
+
+
+
+
+
+
+---
+## 4. Síntese das Principais Informações Obtidas (Camp Food)
 
 * Demanda ou Necessidade Apresentada:
   * O vendedor busca ampliar o alcance de suas vendas de forma mais organizada. 
