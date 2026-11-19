@@ -50,7 +50,28 @@ A pesquisa contou com a participação de quatro estudantes da Universidade Fede
 
 Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitindo identificar características em comum, dificuldades recorrentes e necessidades relacionadas à experiência de compra de alimentos dentro da universidade.
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/39f99efe-66b4-412b-8816-31cd635eb53a" />
+<table>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/be451d0c-48f8-49eb-bb07-3b7819cdfb71"
+ width="250">
+     <br>
+     <em>Figura 6 - Questionário de Caracterização</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f6e4ca9f-4fdc-4064-993d-871fec050e1f"
+ width="250">
+      <br>
+      <em>Figura 7 - Identificação</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/aad5ced7-25f2-4f53-975e-a6a6a3f2b76c"
+ width="250">
+      <br>
+      <em>Figura 7 - Perfil do participante</em>
+    </td>   
+  </tr>
+</table>
 
 *Figura 6 - Respostas do participante 01*
 
