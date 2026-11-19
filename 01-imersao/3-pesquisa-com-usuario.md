@@ -24,9 +24,28 @@ A pesquisa teve como objetivo identificar:
 
 Para a coleta de informações, foi utilizado um Questionário de Caracterização – Pesquisa Complementar, composto por perguntas relacionadas à rotina acadêmica, aos hábitos de consumo, às formas de encontrar vendedores e às preferências de utilização de aplicativos.
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/b70bf959-00c6-4915-89d0-b8444700a15e" />
-
-*Figura 2 - Questionário de Caracterização*
+<table>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/user-attachments/assets/be451d0c-48f8-49eb-bb07-3b7819cdfb71"
+ width="250">
+     <br>
+     <em>Figura 2 - Questionário de Caracterização</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/f6e4ca9f-4fdc-4064-993d-871fec050e1f"
+ width="250">
+      <br>
+      <em>Figura 3 - Identificação</em>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/aad5ced7-25f2-4f53-975e-a6a6a3f2b76c"
+ width="250">
+      <br>
+      <em>Figura 4 - Perfil do participante</em>
+    </td>   
+  </tr>
+</table>
 
 [Questionário de Caracterização](https://tally.so/r/8Naxqz)
 
@@ -36,68 +55,45 @@ A pesquisa contou com a participação de quatro estudantes da Universidade Fede
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/53d417df-7969-494b-bef8-517e29cc6756" />
 
-*Figura 3 - Participantes 01 e 02 realizando o questionário*
+*Figura 5 - Participantes 01 e 02 realizando o questionário*
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/37c58eec-41cc-4596-90f2-ec64020e8ef6" />
 
-*Figura 4 - Participante 03 realizando o questionário*
+*Figura 6 - Participante 03 realizando o questionário*
 
 <img width="889" alt="immage" src="https://github.com/user-attachments/assets/4eba4359-9b51-41ac-983e-51a5c3fbe939" />
 
-*Figura 5 - Participante 04 realizando o questionário*
+*Figura 7 - Participante 04 realizando o questionário*
 
 ### 2.3. Análise das respostas
 
 Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitindo identificar características em comum, dificuldades recorrentes e necessidades relacionadas à experiência de compra de alimentos dentro da universidade.
 
-<table>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/user-attachments/assets/be451d0c-48f8-49eb-bb07-3b7819cdfb71"
- width="250">
-     <br>
-     <em>Figura 6 - Questionário de Caracterização</em>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f6e4ca9f-4fdc-4064-993d-871fec050e1f"
- width="250">
-      <br>
-      <em>Figura 7 - Identificação</em>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/aad5ced7-25f2-4f53-975e-a6a6a3f2b76c"
- width="250">
-      <br>
-      <em>Figura 7 - Perfil do participante</em>
-    </td>   
-  </tr>
-</table>
-
-*Figura 6 - Respostas do participante 01*
+*Figura 8 - Respostas do participante 01*
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/497c7b61-7c0c-4d36-a003-326d756822ef" />
 
-*Figura 7 - Respostas do participante 02*
+*Figura 9 - Respostas do participante 02*
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/67a08156-ea37-4464-b66f-c9751ca8981d" />
 
-*Figura 8 - Respostas do participante 03*
+*Figura 10 - Respostas do participante 03*
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/0abb98ac-f69e-435b-87ac-64323aff43ba" />
 
-*Figura 9 - Respostas do participante 04*
+*Figura 11 - Respostas do participante 04*
 
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/14e606dc-952d-4b1c-a7e6-1ec4157d8c63" />
 
- *Figura 10 - Gráfico sobre o estilo de vida dos participantes*
+ *Figura 12 - Gráfico sobre o estilo de vida dos participantes*
  
   O estilo de vida foi dividido igualmente entre espontâneo e apressado.
  
 
  <img width="900" alt="image" src="https://github.com/user-attachments/assets/13913701-2311-49ab-9763-c5d416cc75a4" />
  
- *Figura 11 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
+ *Figura 13 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
  
   Quanto à preferência de formato, 75% indicaram instruções explicativas e 25% imagens.
 
