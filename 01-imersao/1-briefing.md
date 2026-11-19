@@ -100,10 +100,12 @@ Compreender como os vendedores organizam suas vendas através da entrevista, div
 
 ## 2.5. Identificação e Registro da Entrevista
 
-<img width="891" height="231" alt="image" src="https://github.com/user-attachments/assets/fa104930-99bd-44ad-ae00-2ae31c04da40" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/fa104930-99bd-44ad-ae00-2ae31c04da40" />
+
 *Figura 1 - Identificação*
 
-* <img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/7b8df600-eb4d-4bd7-a55f-7efcd623772e" />
+* <img width="900" alt="image" src="https://github.com/user-attachments/assets/7b8df600-eb4d-4bd7-a55f-7efcd623772e" />
+
 *Figura 2 - Registro da entrevista*
 
 ---
