@@ -140,6 +140,12 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 ---
 ## 4. Síntese das Principais Informações Obtidas (Camp Food)
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/eb77cf65-eaeb-4801-a061-203f6791601c" />
+
+*Figura 6 - Evidência de resposta do cliente*
+
+---
+
 * Demanda ou Necessidade Apresentada:
   * O vendedor busca ampliar o alcance de suas vendas de forma mais organizada. 
   * Necessidade de otimizar o tempo e agilizar o atendimento, já que há dificuldade para responder rapidamente às mensagens dos clientes.
