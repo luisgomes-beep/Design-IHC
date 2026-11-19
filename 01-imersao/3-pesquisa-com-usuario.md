@@ -33,13 +33,13 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
      <em>Figura 2 - Questionário de Caracterização</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f6e4ca9f-4fdc-4064-993d-871fec050e1f"
+      <img src="https://github.com/user-attachments/assets/d306a2ef-6214-45dd-b8b7-e30dfaf535c7" 
  width="250">
       <br>
       <em>Figura 3 - Identificação</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/aad5ced7-25f2-4f53-975e-a6a6a3f2b76c"
+      <img src="https://github.com/user-attachments/assets/e2efcd6f-e6ab-4cd9-92ed-9df1e78ee6c1"
  width="250">
       <br>
       <em>Figura 4 - Perfil do participante</em>
