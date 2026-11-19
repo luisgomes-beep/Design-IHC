@@ -57,13 +57,19 @@ A pesquisa contou com a participação de quatro estudantes da Universidade Fede
 
 *Figura 5 - Participantes 01 e 02 realizando o questionário*
 
+---
+
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/37c58eec-41cc-4596-90f2-ec64020e8ef6" />
 
 *Figura 6 - Participante 03 realizando o questionário*
 
+---
+
 <img width="889" alt="immage" src="https://github.com/user-attachments/assets/4eba4359-9b51-41ac-983e-51a5c3fbe939" />
 
 *Figura 7 - Participante 04 realizando o questionário*
+
+---
 
 ### 2.3. Análise das respostas
 
@@ -73,13 +79,19 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
 
 *Figura 8 - Respostas do participante 01*
 
+---
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/497c7b61-7c0c-4d36-a003-326d756822ef" />
 
 *Figura 9 - Respostas do participante 02*
 
+---
+
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/67a08156-ea37-4464-b66f-c9751ca8981d" />
 
 *Figura 10 - Respostas do participante 03*
+
+---
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/0abb98ac-f69e-435b-87ac-64323aff43ba" />
 
