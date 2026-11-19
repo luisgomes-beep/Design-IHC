@@ -1,14 +1,14 @@
 # 1. Briefing - Alinhamento Cliente (Camp Food)
 
 ## 1.1. Funcionalidade Esperada
-* **Propósito Central:** Aplicativo voltado para auxiliar a venda de doces, permitindo ampliar e organizar o alcance das vendas.
+* **Propósito Central:** Aplicativo voltado para auxiliar a venda de produtos no hall da universidade, permitindo ampliar e organizar o alcance das vendas.
 * **Requisitos Técnicos de Base:** Baixo consumo de memória (armazenamento reduzido) e suporte a funcionamento off-line.
 * **Interface:** Design diferenciado e exclusivo.
 * **Exibição:** Visualização clara das informações dos produtos e disponibilidade atualizada em tempo real.
 * **Comunicação:** Otimização do contato rápido com os compradores (a investigar: automação leve ou avisos de estoque).
 
 ## 1.2. Público-Alvo e Cenário Operacional
-* **Público-Alvo:** Vendedor de doces no campus da Universidade Federal do Amazonas (UFAM) e seus respetivos clientes/compradores.
+* **Público-Alvo:** Vendedor de produtos no campus da Universidade Federal do Amazonas (UFAM) e seus respetivos clientes/compradores.
 * **Modelo de Vendas:** Vendas presenciais no hall da UFAM desde o horário de chegada ao campus, registando maior pico de clientes entre 13h e 14h.
 * **Ambiente Tecnológico:** Uso executado em telemóvel com restrição severa de armazenamento e necessidade constante de operação off-line
 
@@ -46,7 +46,7 @@ Não há um parâmetro métrico formal ou quantitativo definido na entrevista. C
 * Manter o uso fluido da ferramenta no quotidiano sem sobrecarregar a memória do dispositivo.
 
 ## 2. Roteiro Semiestruturado
-Esta documentação registra a etapa inicial de pesquisa e alinhamento do projeto *Camp Food, que visa o desenvolvimento do aplicativo **Camp Food**. A ferramenta tem como proposta facilitar a divulgação, a comunicação e a compra de produtos comercializados por vendedoras no hall universitário.
+Esta documentação registra a etapa inicial de pesquisa e alinhamento do projeto Camp Food, que visa o desenvolvimento do aplicativo **Camp Food**. A ferramenta tem como proposta facilitar a divulgação, a comunicação e a compra de produtos comercializados por vendedoras no hall universitário.
 
 **Pesquisa com vendedores do hall universitário**  
 * **Participante:** Uma pessoa que trabalha como vendedor no hall da universidade.  
