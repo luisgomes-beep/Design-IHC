@@ -1,4 +1,4 @@
-<img width="926" height="1598" alt="099c976f-dda3-49a1-aaa9-9a77e48b0cec" src="https://github.com/user-attachments/assets/c257f83e-d655-4a7f-9262-bcceb58dd9d7" /># 1. Briefing - Alinhamento Cliente (Camp Food)
+# 1. Briefing - Alinhamento Cliente (Camp Food)
 
 ## 1.1. Objetivo
 O briefing teve como objetivo compreender a demanda apresentada pelo cliente, identificar as dificuldades enfrentadas no processo atual de vendas e levantar necessidades que pudessem orientar o desenvolvimento do aplicativo Camp Food.
