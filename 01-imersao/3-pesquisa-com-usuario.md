@@ -70,12 +70,14 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/14e606dc-952d-4b1c-a7e6-1ec4157d8c63" />
 
  *Figura 10 - Gráfico sobre o estilo de vida dos participantes*
+ 
   O estilo de vida foi dividido igualmente entre espontâneo e apressado.
  
 
  <img width="900" alt="image" src="https://github.com/user-attachments/assets/13913701-2311-49ab-9763-c5d416cc75a4" />
  
  *Figura 11 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
+ 
   Quanto à preferência de formato, 75% indicaram instruções explicativas e 25% imagens.
 
 ## 3. Resultados da pesquisa
