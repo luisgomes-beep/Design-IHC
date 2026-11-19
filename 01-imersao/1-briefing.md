@@ -118,7 +118,7 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
      <img src="https://github.com/user-attachments/assets/6121c0bb-f880-4456-ba80-a3224a30f949" 
  width="300">
      <br>
-     <em>Figura 3 - Questionário usado na entrevista</em>
+     <em>Figura 3 - Questionário</em>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/1e1c5698-a85d-49ab-a01d-4a48a1ac9404" 
