@@ -104,7 +104,7 @@ Compreender como os vendedores organizam suas vendas através da entrevista, div
 
 *Figura 1 - Identificação*
 
-* <img width="900" alt="image" src="https://github.com/user-attachments/assets/7b8df600-eb4d-4bd7-a55f-7efcd623772e" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/7b8df600-eb4d-4bd7-a55f-7efcd623772e" />
 
 *Figura 2 - Registro da entrevista*
 
