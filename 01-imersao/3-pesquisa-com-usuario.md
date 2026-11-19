@@ -50,24 +50,32 @@ A pesquisa contou com a participação de quatro estudantes da Universidade Fede
 
 Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitindo identificar características em comum, dificuldades recorrentes e necessidades relacionadas à experiência de compra de alimentos dentro da universidade.
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/ecaf0090-095c-461b-aa03-270e054da3ae" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/39f99efe-66b4-412b-8816-31cd635eb53a" />
 
-*Figura 6 - Gráfico sobre os turnos dos usuários*
+*Figura 6 - Respostas do participante 01*
 
- 75% estudam em turno integral e 25% à noite
- 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/497c7b61-7c0c-4d36-a003-326d756822ef" />
+
+*Figura 7 - Respostas do participante 02*
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/67a08156-ea37-4464-b66f-c9751ca8981d" />
+
+*Figura 8 - Respostas do participante 03*
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/0abb98ac-f69e-435b-87ac-64323aff43ba" />
+
+*Figura 9 - Respostas do participante 04*
+
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/14e606dc-952d-4b1c-a7e6-1ec4157d8c63" />
 
- *Figura 7 - Gráfico sobre o estilo de vida dos participantes*
-
- O estilo de vida foi dividido igualmente entre espontâneo e apressado.
+ *Figura 10 - Gráfico sobre o estilo de vida dos participantes*
+  O estilo de vida foi dividido igualmente entre espontâneo e apressado.
  
 
  <img width="900" alt="image" src="https://github.com/user-attachments/assets/13913701-2311-49ab-9763-c5d416cc75a4" />
  
- *Figura 8 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
- 
+ *Figura 11 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
   Quanto à preferência de formato, 75% indicaram instruções explicativas e 25% imagens.
 
 ## 3. Resultados da pesquisa
