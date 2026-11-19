@@ -20,6 +20,11 @@ A construção da Matriz CSD envolveu a análise e a organização das informaç
 
 ### 2.1. Levantamento das informações
 
+
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/df849639-d505-4909-b83f-7d0adacd682c" />
+
+*Figura 1 - Registro de resposta do cliente*
+
 A elaboração da matriz foi realizada a partir das informações obtidas no briefing com o cliente, considerando o contexto atual das vendas, as dificuldades enfrentadas durante o atendimento, as necessidades identificadas e as expectativas relacionadas à utilização de um aplicativo próprio.
 
 Também foram consideradas as informações referentes ao processo de divulgação dos produtos, às formas de pagamento e à disponibilidade dos itens comercializados.
@@ -46,6 +51,8 @@ Após o levantamento e a organização das informações, a equipe estruturou a 
 A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Food.
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/92ac5fca-f128-4c2c-ab1b-220094590b96" />
+
+*Figura 2 - Matriz CSD do Camp Food*
 
 ### 3.2. Certezas
 
