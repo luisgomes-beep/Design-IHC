@@ -69,6 +69,8 @@ A pesquisa contou com a participação de quatro estudantes da Universidade Fede
 
 Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitindo identificar características em comum, dificuldades recorrentes e necessidades relacionadas à experiência de compra de alimentos dentro da universidade.
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/4efe2581-77de-4450-823c-0dc57f851c0f" />
+
 *Figura 8 - Respostas do participante 01*
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/497c7b61-7c0c-4d36-a003-326d756822ef" />
