@@ -47,6 +47,7 @@ O cliente realiza a venda de doces no hall da universidade e utiliza principalme
 * **Dispositivo e Armazenamento:** Restrição severa de espaço físico de armazenamento no telemóvel.
 * **Conectividade:** Necessidade obrigatória de suporte a funcionamento off-line.
 
+---
 
 ## 2. Roteiro Semiestruturado
 Esta documentação registra a etapa inicial de pesquisa e alinhamento do projeto Camp Food, que visa o desenvolvimento do aplicativo **Camp Food**. A ferramenta tem como proposta facilitar a divulgação, a comunicação e a compra de produtos comercializados por vendedoras no hall universitário.
