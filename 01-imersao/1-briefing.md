@@ -1,4 +1,4 @@
-# 1. Briefing - Alinhamento Cliente (Camp Food)
+<img width="926" height="1598" alt="099c976f-dda3-49a1-aaa9-9a77e48b0cec" src="https://github.com/user-attachments/assets/c257f83e-d655-4a7f-9262-bcceb58dd9d7" /># 1. Briefing - Alinhamento Cliente (Camp Food)
 
 ## 1.1. Objetivo
 O briefing teve como objetivo compreender a demanda apresentada pelo cliente, identificar as dificuldades enfrentadas no processo atual de vendas e levantar necessidades que pudessem orientar o desenvolvimento do aplicativo Camp Food.
@@ -52,14 +52,14 @@ O cliente realiza a venda de doces no hall da universidade e utiliza principalme
 ## 2. Roteiro Semiestruturado
 Esta documentação registra a etapa inicial de pesquisa e alinhamento do projeto Camp Food, que visa o desenvolvimento do aplicativo **Camp Food**. A ferramenta tem como proposta facilitar a divulgação, a comunicação e a compra de produtos comercializados por vendedoras no hall universitário.
 
-**Pesquisa com vendedores do hall universitário**  
+**Pesquisa com vendedor do hall universitário**  
 * **Participante:** Uma pessoa que trabalha como vendedor no hall da universidade.  
 * **Duração estimada:** 20 minutos.
 
 ---
 
 ## 2.1. Objetivo da pesquisa
-Compreender como os vendedores organizam suas vendas através da entrevista, divulgam os produtos, informam preços e disponibilidade e utilizam a tecnologia no dia a dia. As respostas contribuirão para identificar necessidades reais e orientar o desenvolvimento do aplicativo **Camp Food**.
+Compreender como o vendedor organiza suas vendas através da entrevista, divulga os produtos, informa preços e disponibilidade e utiliza a tecnologia no dia a dia. As respostas contribuirão para identificar necessidades reais e orientar o desenvolvimento do aplicativo **Camp Food**.
 
 ## 2.2. Apresentação Inicial
 > "Olá! Somos estudantes e estamos desenvolvendo um projeto chamado **Camp Food**, uma proposta de aplicativo para facilitar a divulgação e a compra de produtos vendidos no hall da universidade. Gostaríamos de conversar brevemente com você sobre sua experiência como vendedor. Não existem respostas certas ou erradas: queremos conhecer sua rotina e suas opiniões. Suas respostas serão utilizadas apenas para fins acadêmicos e sua identidade será preservada. Você aceita participar desta entrevista?"
@@ -112,13 +112,30 @@ Compreender como os vendedores organizam suas vendas através da entrevista, div
 
 ## 3. Questionário sobre o aplicativo 
 
+<table>
+  <tr>
+    <td align="center" width="33%">
+     <img src="https://github.com/user-attachments/assets/6121c0bb-f880-4456-ba80-a3224a30f949" 
+ width="300">
+     <br>
+     <em>Figura 3 - Questionário usado na entrevista</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/1e1c5698-a85d-49ab-a01d-4a48a1ac9404" 
+ width="300">
+      <br>
+      <em>Figura 4 - Perguntas iniciais</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/4bbe6f9c-83c4-4f96-8e53-9d187a73b8b3" 
+ width="300">
+      <br>
+      <em>Figura 5 - Outras perguntas usadas</em>
+    </td>   
+  </tr>
+</table>
 
-
-
-
-
-
-
+[Questionário de Caracterização - Briefing](https://forms.gle/Y2jPLQA9sxzzsrdo9)
 
 ---
 ## 4. Síntese das Principais Informações Obtidas (Camp Food)
