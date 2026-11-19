@@ -85,7 +85,6 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
 
 *Figura 11 - Respostas do participante 04*
 
-´´´
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/14e606dc-952d-4b1c-a7e6-1ec4157d8c63" />
 
@@ -93,7 +92,6 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
  
   O estilo de vida foi dividido igualmente entre espontâneo e apressado.
  
-´´´
 
  <img width="900" alt="image" src="https://github.com/user-attachments/assets/13913701-2311-49ab-9763-c5d416cc75a4" />
  
@@ -101,7 +99,6 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
  
   Quanto à preferência de formato, 75% indicaram instruções explicativas e 25% imagens.
 
-  ´´´
 
 ## 3. Resultados da pesquisa
 
