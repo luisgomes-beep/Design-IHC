@@ -27,19 +27,19 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
 <table>
   <tr>
     <td align="center" width="33%">
-     <img src="https://github.com/user-attachments/assets/be451d0c-48f8-49eb-bb07-3b7819cdfb71"
+     <img src="https://github.com/user-attachments/assets/7354e25d-8e78-4c8a-a7c2-77c9dc5637b6" 
  width="300">
      <br>
      <em>Figura 2 - Questionário de Caracterização</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/d306a2ef-6214-45dd-b8b7-e30dfaf535c7" 
+      <img src="https://github.com/user-attachments/assets/4dd2e1c2-484c-4a7f-b7ac-49be97eb5783"  
  width="300">
       <br>
       <em>Figura 3 - Identificação</em>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e2efcd6f-e6ab-4cd9-92ed-9df1e78ee6c1"
+      <img src="https://github.com/user-attachments/assets/b7552734-c7f1-4be8-8fa3-a0592d90e255" 
  width="300">
       <br>
       <em>Figura 4 - Perfil do participante</em>
