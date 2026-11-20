@@ -32,7 +32,7 @@ A construção da Matriz CSD envolveu a análise e a organização das informaç
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/df849639-d505-4909-b83f-7d0adacd682c" />
 
-*Figura 1 - Registro de resposta do cliente*
+<p align="center"><sub><b>Figura 1.</b> Registro das informações fornecidas pelo cliente durante o levantamento inicial.</sub></p>
 
 A elaboração da matriz foi realizada a partir das informações obtidas no briefing com o cliente, considerando o contexto atual das vendas, as dificuldades enfrentadas durante o atendimento, as necessidades identificadas e as expectativas relacionadas à utilização de um aplicativo próprio.
 
