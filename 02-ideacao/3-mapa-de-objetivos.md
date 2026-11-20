@@ -22,7 +22,9 @@ Essa visão integrada permite compreender que o Camp Food depende da participaç
   <img src="../assets/mapa_geral_de_objetivos.png" alt="Mapa Geral de Objetivos do Camp Food" width="100%">
 </p>
 
-*Figura 1 — Mapa Geral de Objetivos do Camp Food.*
+<p align="center">
+  <sub><b>Figura 1.</b> Mapa Geral de Objetivos do Camp Food.</sub>
+</p>
 
 ## 3.2 Mapas Individuais de Objetivos
 
