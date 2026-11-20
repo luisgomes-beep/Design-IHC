@@ -44,7 +44,7 @@ Essa HTA estabelece o fluxo inicial de utilização do Camp Food e demonstra com
   <img src="../assets/HTA-01...png" alt="HTA 01 — Acesso ao Camp Food" width="100%">
 </p>
 
-*Figura 5 — Análise Hierárquica de Tarefas (HTA 01): Acesso ao Camp Food.*
+<p align="center"><sub><b>Figura 5.</b> Análise Hierárquica de Tarefas (HTA 01): Acesso ao Camp Food.</sub></p>
 
 ## 4.2 HTA 02 — Divulgação dos Produtos
 
@@ -80,7 +80,7 @@ A HTA detalha o objetivo de divulgação em etapas que permitem compreender como
   <img src="../assets/HTA-02...png" alt="HTA 02 — Divulgação dos Produtos" width="100%">
 </p>
 
-*Figura 6 — Análise Hierárquica de Tarefas (HTA 02): Divulgação dos Produtos.*
+<p align="center"><sub><b>Figura 6.</b> Análise Hierárquica de Tarefas (HTA 02): Divulgação dos produtos.</sub></p>
 
 ## 4.3 HTA 03 — Atualização da Disponibilidade dos Produtos
 
@@ -118,7 +118,7 @@ Essa HTA demonstra como a atividade da vendedora está diretamente relacionada �
   <img src="../assets/HTA-03...png" alt="HTA 03 — Atualização da Disponibilidade dos Produtos" width="100%">
 </p>
 
-*Figura 7 — Análise Hierárquica de Tarefas (HTA 03): Atualização da Disponibilidade dos Produtos.*
+<p align="center"><sub><b>Figura 7.</b> Análise Hierárquica de Tarefas (HTA 03): Atualização da disponibilidade dos produtos.</sub></p>
 
 ## 4.4 HTA 04 — Organização e Acompanhamento dos Pedidos
 
@@ -154,7 +154,7 @@ Essa HTA detalha como a vendedora transforma as solicitações recebidas em deci
   <img src="../assets/HTA-04...png" alt="HTA 04 — Organização e Acompanhamento dos Pedidos" width="100%">
 </p>
 
-*Figura 8 — Análise Hierárquica de Tarefas (HTA 04): Organização e Acompanhamento dos Pedidos.*
+<p align="center"><sub><b>Figura 8.</b> Análise Hierárquica de Tarefas (HTA 04): Organização e acompanhamento dos pedidos.</sub></p>
 
 ## 4.5 HTA 05 — Localização de Vendedores e Seleção de Produtos
 
@@ -190,7 +190,7 @@ Essa HTA organiza o início da jornada de compra, permitindo compreender como o 
   <img src="../assets/HTA-05...png" alt="HTA 05 — Localização de Vendedores e Seleção de Produtos" width="100%">
 </p>
 
-*Figura 9 — Análise Hierárquica de Tarefas (HTA 05): Localização de Vendedores e Seleção de Produtos.*
+<p align="center"><sub><b>Figura 9.</b> Análise Hierárquica de Tarefas (HTA 05): Localização de vendedores e seleção de produtos.</sub></p>
 
 ## 4.6 HTA 06 — Consulta de Informações e Decisão de Compra
 
@@ -228,7 +228,7 @@ Essa HTA aprofunda a etapa de avaliação e decisão da jornada de compra, demon
   <img src="../assets/HTA-06...png" alt="HTA 06 — Consulta de Informações e Decisão de Compra" width="100%">
 </p>
 
-*Figura 10 — Análise Hierárquica de Tarefas (HTA 06): Consulta de Informações e Decisão de Compra.*
+<p align="center"><sub><b>Figura 10.</b> Análise Hierárquica de Tarefas (HTA 06): Consulta de informações e decisão de compra.</sub></p>
 
 ## 4.7 HTA 07 — Consulta e Compra com Acessibilidade
 
@@ -266,7 +266,7 @@ Essa HTA amplia a análise da jornada de compra ao considerar que diferentes usu
        width="100%">
 </p>
 
-*Figura 11 — Análise Hierárquica de Tarefas (HTA 07): Consulta e Compra com Acessibilidade.*
+<p align="center"><sub><b>Figura 11.</b> Análise Hierárquica de Tarefas (HTA 07): Consulta e compra com autonomia e acessibilidade.</sub></p>
 
 ## 4.8 Considerações sobre as HTAs
 
