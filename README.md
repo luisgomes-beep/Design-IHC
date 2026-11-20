@@ -151,7 +151,7 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 
 ## 🤖 Declaração de uso de Inteligência Artificial
 
-Ferramentas de Inteligência Artificial poderão ser utilizadas como apoio à organização da documentação, revisão textual e estruturação dos conteúdos. Caso sejam utilizadas, as ferramentas e suas respectivas aplicações serão informadas de forma transparente. Todo o material será revisado e validado pelos integrantes da equipe, que serão responsáveis pelo conteúdo final apresentado.
+blah blah blah
 
 ---
 
