@@ -8,6 +8,8 @@
        width="100%">
 </p>
 
+# 1. Briefing — Alinhamento com o Cliente
+
 ## 1.1. Objetivo
 O briefing teve como objetivo compreender a demanda apresentada pelo cliente, identificar as dificuldades enfrentadas no processo atual de vendas e levantar necessidades que pudessem orientar o desenvolvimento do aplicativo Camp Food.
 
