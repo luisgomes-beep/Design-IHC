@@ -1,59 +1,97 @@
-# Design de IHC — TP2
+<p align="center">
+  <img src="assets/banner.svg" alt="Camp Food" width="520">
+</p>
 
-## Interação Humano-Computador
+<h1 align="center">Design de IHC — TP2</h1>
 
-**Universidade Federal do Amazonas (UFAM)**
+<p align="center">
+  <b>Design de um aplicativo a partir de uma demanda real</b><br>
+  Interação Humano-Computador · Universidade Federal do Amazonas (UFAM)
+</p>
 
-**Disciplina:** Interação Humano-Computador (IHC)  
-**Professor:** Dr. Andrey Rodrigues  
-**Projeto:** Design de um aplicativo a partir de uma demanda real
+<p align="center">
+  <img src="https://img.shields.io/badge/UFAM-IHC-2f4b8f?style=for-the-badge" alt="UFAM IHC">
+  <img src="https://img.shields.io/badge/App-Camp%20Food-6597d6?style=for-the-badge" alt="Camp Food">
+  <img src="https://img.shields.io/badge/Status-em%20desenvolvimento-8fc06a?style=for-the-badge" alt="Em desenvolvimento">
+  <img src="https://img.shields.io/badge/Entrega-23%2F11%2F2026-2f4b8f?style=for-the-badge" alt="Entrega 23/11/2026">
+</p>
 
-## Integrantes da equipe
+<p align="center">
+  <a href="#-sobre-o-projeto">Sobre</a> ·
+  <a href="#-etapas-do-projeto">Etapas</a> ·
+  <a href="#-métodos-utilizados">Métodos</a> ·
+  <a href="#-equipe">Equipe</a> ·
+  <a href="#-organização-do-repositório">Estrutura</a>
+</p>
 
-- Ana Vitória Farias Barroso
-- Jucilla kétura Souza Sousa
-- Letícia Abreu de Araújo Marques
-- Luís Gustavo da Silva Gomes
-- Paolla Gabriele dos Santos Costa
-- Willian Gonçalves Monteiro
+---
 
-## Sobre o projeto
+## 🍬 Sobre o projeto
 
 Este repositório reúne a documentação do Trabalho Prático 2 (TP2) da disciplina de Interação Humano-Computador. O objetivo é desenvolver o design de um aplicativo a partir de uma demanda real, investigando o problema, as necessidades dos usuários e as possibilidades de solução.
 
-O projeto será desenvolvido por meio das etapas de imersão, ideação e prototipação, utilizando métodos e técnicas de Design de Interação para transformar as informações coletadas em propostas de interface coerentes com os objetivos e as necessidades dos usuários.
+O projeto é desenvolvido por meio das etapas de **imersão**, **ideação** e **prototipação**, utilizando métodos e técnicas de Design de Interação para transformar as informações coletadas em propostas de interface coerentes com os objetivos e as necessidades dos usuários.
 
-**Sistema ou aplicativo:** A definir.
+| | |
+|---|---|
+| 📱 **Aplicativo** | Camp Food |
+| 🎓 **Disciplina** | Interação Humano-Computador (IHC) |
+| 👨‍🏫 **Professor** | Dr. Andrey Rodrigues |
+| 🏫 **Instituição** | Universidade Federal do Amazonas (UFAM) |
+| 📅 **Entrega** | 23 de novembro de 2026, até às 23h50 |
 
-## Etapas do projeto
+---
 
-### 1. Imersão
+## 🗺️ Etapas do projeto
+
+```mermaid
+flowchart LR
+    A["🔍 1. Imersão<br/>entender o problema"] --> B["💡 2. Ideação<br/>definir objetivos e interações"] --> C["✏️ 3. Prototipação<br/>esboçar as telas"]
+    style A fill:#e8f0fd,stroke:#2f4b8f,color:#2f4b8f
+    style B fill:#e8f0fd,stroke:#2f4b8f,color:#2f4b8f
+    style C fill:#e8f0fd,stroke:#2f4b8f,color:#2f4b8f
+```
+
+### 🔍 1. Imersão
 
 Etapa destinada à compreensão do problema, do contexto e das necessidades dos usuários.
 
-- [Briefing com o cliente](01-imersao/1-briefing.md)
-- [Matriz CSD — Certezas, Suposições e Dúvidas](01-imersao/2-matriz-csd.md)
-- [Pesquisa complementar com usuários](01-imersao/3-pesquisa-com-usuario.md)
+| Documento | Status |
+|---|:---:|
+| [Briefing com o cliente](01-imersao/1-briefing.md) | ✅ Concluído |
+| [Matriz CSD — Certezas, Suposições e Dúvidas](01-imersao/2-matriz-csd.md) | ✅ Concluído |
+| [Pesquisa complementar com usuários](01-imersao/3-pesquisa-com-usuario.md) | ✅ Concluído |
 
-### 2. Ideação
+### 💡 2. Ideação
 
 Etapa destinada à organização das informações obtidas e à definição dos objetivos e das interações dos usuários.
 
-- [Personas — Técnica PATHY](02-ideacao/1-personas.md)
-- [Metamensagem](02-ideacao/2-metamensagem.md)
-- [Mapa de Objetivos](02-ideacao/3-mapa-de-objetivos.md)
-- [HTAs — Análise Hierárquica de Tarefas](02-ideacao/4-htas.md)
-- [Diagramas MoLIC](02-ideacao/5-molic.md)
+| Documento | Status |
+|---|:---:|
+| [Personas — Técnica PATHY](02-ideacao/1-personas.md) | ✅ Concluído |
+| [Metamensagem](02-ideacao/2-metamensagem.md) | 🚧 Em elaboração |
+| [Mapa de Objetivos](02-ideacao/3-mapa-de-objetivos.md) | ✅ Concluído |
+| [HTAs — Análise Hierárquica de Tarefas](02-ideacao/4-htas.md) | ✅ Concluído |
+| [Diagramas MoLIC](02-ideacao/5-molic.md) | 🚧 Em elaboração |
 
-### 3. Prototipação
+### ✏️ 3. Prototipação
 
 Etapa destinada à elaboração de esboços de baixa fidelidade das telas do aplicativo, considerando as tarefas e os modelos de interação definidos anteriormente.
 
-- [Sketches — Protótipos de Baixa Fidelidade](03-prototipacao/1-sketches.md)
+| Documento | Status |
+|---|:---:|
+| [Sketches — Protótipos de Baixa Fidelidade](03-prototipacao/1-sketches.md) | 🚧 Em elaboração |
 
-## Avaliações e métodos utilizados
+---
 
-Ao longo do projeto, serão utilizados métodos de investigação e modelagem de interação definidos no enunciado do TP2, incluindo:
+## 🧪 Métodos utilizados
+
+Ao longo do projeto são utilizados métodos de investigação e modelagem de interação definidos no enunciado do TP2:
+
+<details>
+<summary><b>Ver lista de métodos</b></summary>
+
+<br>
 
 - Briefing com o cliente;
 - Matriz CSD;
@@ -65,25 +103,49 @@ Ao longo do projeto, serão utilizados métodos de investigação e modelagem de
 - Modelagem da interação por meio de diagramas MoLIC;
 - Elaboração de sketches de baixa fidelidade.
 
-Os resultados e as evidências de cada etapa serão documentados nos arquivos correspondentes deste repositório.
+Os resultados e as evidências de cada etapa são documentados nos arquivos correspondentes deste repositório.
 
-## Tecnologias e ferramentas
+</details>
 
-As ferramentas serão registradas conforme forem utilizadas pela equipe durante o desenvolvimento do trabalho.
+## 🧰 Tecnologias e ferramentas
 
-- GitHub — organização e documentação do projeto;
-- Markdown — elaboração dos documentos;
-- Ferramentas de diagramas e prototipação — a definir conforme as necessidades do projeto.
+As ferramentas são registradas conforme forem utilizadas pela equipe durante o desenvolvimento do trabalho.
 
-## Declaração de uso de Inteligência Artificial
+- **GitHub** — organização e documentação do projeto;
+- **Markdown** — elaboração dos documentos;
+- **Ferramentas de diagramas e prototipação** — a definir conforme as necessidades do projeto.
+
+---
+
+## 👥 Equipe
+
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Ana Vitória Farias Barroso</b></td>
+    <td align="center" width="33%"><b>Jucilla Kétura Souza Sousa</b></td>
+    <td align="center" width="33%"><b>Letícia Abreu de Araújo Marques</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><b>Luís Gustavo da Silva Gomes</b></td>
+    <td align="center" width="33%"><b>Paolla Gabriele dos Santos Costa</b></td>
+    <td align="center" width="33%"><b>Willian Gonçalves Monteiro</b></td>
+  </tr>
+</table>
+
+---
+
+## 🤖 Declaração de uso de Inteligência Artificial
 
 Ferramentas de Inteligência Artificial poderão ser utilizadas como apoio à organização da documentação, revisão textual e estruturação dos conteúdos. Caso sejam utilizadas, as ferramentas e suas respectivas aplicações serão informadas de forma transparente. Todo o material será revisado e validado pelos integrantes da equipe, que serão responsáveis pelo conteúdo final apresentado.
 
-## Organização do repositório
+---
+
+## 📂 Organização do repositório
 
 ```text
 Design-IHC/
 ├── README.md
+├── assets/                  # banner e identidade visual
 ├── 01-imersao/
 │   ├── 1-briefing.md
 │   ├── 2-matriz-csd.md
@@ -93,13 +155,16 @@ Design-IHC/
 │   ├── 2-metamensagem.md
 │   ├── 3-mapa-de-objetivos.md
 │   ├── 4-htas.md
-│   └── 5-molic.md
+│   ├── 5-molic.md
+│   └── *.png                # mapas de objetivos e HTAs
 └── 03-prototipacao/
     └── 1-sketches.md
 ```
 
-## Informações gerais
+---
 
-**Entrega:** 23 de novembro de 2026, até às 23h50.
-
-Este repositório será atualizado ao longo do desenvolvimento do trabalho, registrando as etapas, os resultados e as decisões de design tomadas pela equipe.
+<p align="center">
+  Este repositório é atualizado ao longo do desenvolvimento do trabalho, registrando as etapas,<br>
+  os resultados e as decisões de design tomadas pela equipe.<br><br>
+  <sub>Feito com 💙 pela equipe Camp Food · UFAM · 2026</sub>
+</p>

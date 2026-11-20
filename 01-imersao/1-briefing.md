@@ -1,3 +1,7 @@
+<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Briefing</p>
+
+---
+
 # 1. Briefing - Alinhamento Cliente (Camp Food)
 
 ## 1.1. Objetivo
@@ -16,11 +20,11 @@ O cliente realiza a venda de doces no hall da universidade e utiliza principalme
 * **Comunicação:** Otimização do contato rápido com os compradores (a investigar: automação leve ou avisos de estoque).
 
 ## 1.4. Público-Alvo e Cenário Operacional
-* **Público-Alvo:** Vendedor de produtos no campus da Universidade Federal do Amazonas (UFAM) e seus respetivos clientes/compradores.
-* **Modelo de Vendas:** Vendas presenciais no hall da UFAM desde o horário de chegada ao campus, registando maior pico de clientes entre 13h e 14h.
-* **Ambiente Tecnológico:** Uso executado em telemóvel com restrição severa de armazenamento e necessidade constante de operação off-line
+* **Público-Alvo:** Vendedor de produtos no campus da Universidade Federal do Amazonas (UFAM) e seus respectivos clientes/compradores.
+* **Modelo de Vendas:** Vendas presenciais no hall da UFAM desde o horário de chegada ao campus, registrando maior pico de clientes entre 13h e 14h.
+* **Ambiente Tecnológico:** Uso executado em celular com restrição severa de armazenamento e necessidade constante de operação off-line
 
- ## 1.5. Problemas Identificados
+## 1.5. Problemas Identificados
 * **Gargalo no Atendimento:** Grande dificuldade para responder rapidamente às mensagens recebidas dos clientes.
 * **Divulgação Descentralizada:** Divulgação manual de preços e disponibilidade por meio de múltiplos canais (grupos de WhatsApp, status, redes sociais e mensagens privadas).
 * **Experiência do Cliente:** Ocorrências pontuais de clientes à procura de produtos que já se esgotaram.
@@ -44,7 +48,7 @@ O cliente realiza a venda de doces no hall da universidade e utiliza principalme
 * **Contato Técnico:** Não informado durante a entrevista.
 
 ## 1.9. Restrições de Acesso
-* **Dispositivo e Armazenamento:** Restrição severa de espaço físico de armazenamento no telemóvel.
+* **Dispositivo e Armazenamento:** Restrição severa de espaço físico de armazenamento no celular.
 * **Conectividade:** Necessidade obrigatória de suporte a funcionamento off-line.
 
 ---
@@ -177,3 +181,7 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 * Questões que Ainda Precisam ser Investigadas: 
   * Aprofundar como otimizar a comunicação rápida com os compradores (possíveis ferramentas de automação leve ou avisos de estoque).  
   * Testar a viabilidade técnica e a arquitetura das funções off-line no aplicativo.
+
+---
+
+<p align="center">[🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Matriz CSD](2-matriz-csd.md) ➡️</p>

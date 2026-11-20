@@ -1,3 +1,7 @@
+<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Pesquisa com usuários</p>
+
+---
+
 # Pesquisa complementar com usuários
 
 ## 1. Introdução
@@ -182,3 +186,7 @@ Esses aspectos servirão de base para as próximas etapas do projeto, especialme
 ## 6. Considerações finais
 
 A pesquisa complementar permitiu conhecer melhor as experiências e expectativas dos estudantes em relação à compra de alimentos dentro da UFAM. As respostas evidenciaram oportunidades de melhoria no processo atual de compra e forneceram informações importantes para orientar o desenvolvimento do Camp Food, aproximando a proposta do sistema das necessidades identificadas entre os possíveis usuários.
+
+---
+
+<p align="center">⬅️ [Matriz CSD](2-matriz-csd.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Personas](../02-ideacao/1-personas.md) ➡️</p>
