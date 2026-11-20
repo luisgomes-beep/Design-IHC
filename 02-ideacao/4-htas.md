@@ -114,7 +114,9 @@ Outro aspecto importante envolve o funcionamento da atualização em situações
 
 Essa HTA demonstra como a atividade da vendedora está diretamente relacionada às informações consultadas pelos compradores. Ao organizar a verificação e a atualização da disponibilidade, a análise contribui para reduzir incertezas durante a jornada de compra e fortalecer a comunicação entre os participantes da plataforma.
 
-![HTA 03 — Atualização da Disponibilidade](./HTA-03...png)
+<p align="center">
+  <img src="../assets/HTA-03...png" alt="HTA 03 — Atualização da Disponibilidade dos Produtos" width="100%">
+</p>
 
 *Figura 7 — Análise Hierárquica de Tarefas (HTA 03): Atualização da Disponibilidade dos Produtos.*
 
