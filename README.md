@@ -46,6 +46,10 @@ O projeto é desenvolvido por meio das etapas de **imersão**, **ideação** e *
   <img src="assets/etapas-diagrama.svg" alt="Etapas do projeto: Imersão, Ideação e Prototipação" width="750">
 </p>
 
+<p align="center">
+  <img src="assets/etapas-diagrama.svg" alt="Diagrama das três etapas do projeto: Imersão, Ideação e Prototipação" width="750">
+</p>
+
 ### 🔍 Etapa 1
 
 Etapa destinada à compreensão do problema, do contexto e das necessidades dos usuários.
