@@ -40,7 +40,9 @@ A validação das informações também representa uma condição importante par
 
 Essa HTA estabelece o fluxo inicial de utilização do Camp Food e demonstra como diferentes perfis podem acessar o mesmo ambiente. Sua importância está em organizar o primeiro contato do usuário com a plataforma, oferecendo caminhos distintos de entrada sem separar a experiência de utilização do sistema.
 
-![HTA 01 — Acesso ao Camp Food](./HTA-01...png)
+<p align="center">
+  <img src="../assets/HTA-01...png" alt="HTA 01 — Acesso ao Camp Food" width="100%">
+</p>
 
 *Figura 5 — Análise Hierárquica de Tarefas (HTA 01): Acesso ao Camp Food.*
 
