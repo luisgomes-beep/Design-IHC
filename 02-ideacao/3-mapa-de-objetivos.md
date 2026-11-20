@@ -36,7 +36,7 @@ Diante dessas necessidades, seu objetivo principal consiste em **ampliar suas ve
 
 A representação demonstra como esses objetivos contribuem para uma experiência de venda mais estruturada. A possibilidade de centralizar as informações dos produtos e manter os compradores atualizados é importante para reduzir dificuldades de comunicação e evitar situações em que os interessados não tenham conhecimento sobre a disponibilidade dos alimentos. Portanto, os objetivos dessa persona estão diretamente relacionados à organização das atividades de venda e ao aprimoramento da interação com os compradores.
 
-![Mapa de Objetivos — Mariana Oliveira](./mapa%20mariana.png)
+![Mapa de Objetivos — Mariana Oliveira](../assets/mapa_mariana.png)
 
 *Figura 2 — Mapa de Objetivos de Mariana Oliveira (Usuária Vendedora).*
 
