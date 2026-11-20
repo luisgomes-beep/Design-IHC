@@ -42,13 +42,9 @@ O projeto é desenvolvido por meio das etapas de **imersão**, **ideação** e *
 
 ## 🗺️ Etapas do projeto
 
-```mermaid
-flowchart LR
-    A["🔍 1. Imersão<br/>entender o problema"] --> B["💡 2. Ideação<br/>definir objetivos e interações"] --> C["✏️ 3. Prototipação<br/>esboçar as telas"]
-    style A fill:#e8f0fd,stroke:#2f4b8f,color:#2f4b8f
-    style B fill:#e8f0fd,stroke:#2f4b8f,color:#2f4b8f
-    style C fill:#e8f0fd,stroke:#2f4b8f,color:#2f4b8f
-```
+<p align="center">
+  <img src="assets/etapas-diagrama.svg" alt="Etapas do projeto: Imersão, Ideação e Prototipação" width="750">
+</p>
 
 ### 🔍 Etapa 1
 
