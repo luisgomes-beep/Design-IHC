@@ -7,6 +7,8 @@
        width="100%">
 </p>
 
+# 3. Pesquisa Complementar com Usuários
+
 ## 1. Introdução
 
 A pesquisa complementar foi realizada com o objetivo de compreender melhor as necessidades, os hábitos e as dificuldades dos estudantes da Universidade Federal do Amazonas (UFAM) em relação à compra de alimentos dentro da universidade. Essa etapa buscou ampliar as informações obtidas anteriormente com a cliente, considerando também a perspectiva dos possíveis compradores do sistema Camp Food.
