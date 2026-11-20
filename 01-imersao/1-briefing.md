@@ -190,4 +190,4 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 
 ---
 
-<p align="center">[🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Matriz CSD](2-matriz-csd.md) ➡️</p>
+<p align="center"><a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="2-matriz-csd.md">Matriz CSD</a> ➡️</p>

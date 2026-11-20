@@ -5,6 +5,8 @@
   Metamensagem
 </p>
 
+<p align="center"><img src="../assets/banner-metamensagem.gif" alt="Banner animado — Metamensagem: o designer envia a mensagem e o usuário a compreende" width="100%"></p>
+
 ---
 
 # 2. Metamensagem
@@ -59,10 +61,10 @@ Dessa maneira, o Camp Food busca manter uma experiência coerente com sua propos
 ---
 
 <p align="center">
-  ⬅️ [Personas](1-personas.md)
+  ⬅️ <a href="1-personas.md">Personas</a>
   &nbsp;·&nbsp;
-  [🏠 Voltar ao início](../README.md)
+  <a href="../README.md">🏠 Voltar ao início</a>
   &nbsp;·&nbsp;
-  [Mapa de Objetivos](3-mapa-de-objetivos.md) ➡️
+  <a href="3-mapa-de-objetivos.md">Mapa de Objetivos</a> ➡️
 </p>
 

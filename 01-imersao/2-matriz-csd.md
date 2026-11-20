@@ -123,4 +123,4 @@ A elaboração da Matriz CSD permitiu organizar as informações iniciais do pro
 
 ---
 
-<p align="center">⬅️ [Briefing](1-briefing.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Pesquisa com usuários](3-pesquisa-com-usuario.md) ➡️</p>
+<p align="center">⬅️ <a href="1-briefing.md">Briefing</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="3-pesquisa-com-usuario.md">Pesquisa com usuários</a> ➡️</p>

@@ -1,5 +1,7 @@
 <p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 2 · Ideação</b> &nbsp;›&nbsp; Personas</p>
 
+<p align="center"><img src="../assets/banner-personas.svg" alt="Banner — Personas" width="100%"></p>
+
 ---
 
 # Personas
@@ -45,4 +47,4 @@ A construção das personas permitiu compreender as necessidades dos usuários e
 
 ---
 
-<p align="center">⬅️ [Pesquisa com usuários](../01-imersao/3-pesquisa-com-usuario.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Metamensagem](2-metamensagem.md) ➡️</p>
+<p align="center">⬅️ <a href="../01-imersao/3-pesquisa-com-usuario.md">Pesquisa com usuários</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="2-metamensagem.md">Metamensagem</a> ➡️</p>

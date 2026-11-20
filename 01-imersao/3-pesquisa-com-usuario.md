@@ -194,4 +194,4 @@ A pesquisa complementar permitiu conhecer melhor as experiências e expectativas
 
 ---
 
-<p align="center">⬅️ [Matriz CSD](2-matriz-csd.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Personas](../02-ideacao/1-personas.md) ➡️</p>
+<p align="center">⬅️ <a href="2-matriz-csd.md">Matriz CSD</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="../02-ideacao/1-personas.md">Personas</a> ➡️</p>

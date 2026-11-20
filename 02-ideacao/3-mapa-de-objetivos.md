@@ -1,5 +1,7 @@
 <p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 2 · Ideação</b> &nbsp;›&nbsp; Mapa de Objetivos</p>
 
+<p align="center"><img src="../assets/banner-mapa-objetivos.svg" alt="Banner — Mapa de Objetivos" width="100%"></p>
+
 ---
 
 # 3. Mapas de Objetivos
@@ -84,4 +86,4 @@ Enquanto os objetivos de Mariana estão concentrados na divulgação e na organi
 
 ---
 
-<p align="center">⬅️ [Metamensagem](2-metamensagem.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [HTAs](4-htas.md) ➡️</p>
+<p align="center">⬅️ <a href="2-metamensagem.md">Metamensagem</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="4-htas.md">HTAs</a> ➡️</p>
