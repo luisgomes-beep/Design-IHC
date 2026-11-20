@@ -186,7 +186,9 @@ A análise considera as informações de localização apresentadas pela platafo
 
 Essa HTA organiza o início da jornada de compra, permitindo compreender como o usuário descobre vendedores e identifica produtos de interesse. Sua contribuição está em estruturar a navegação entre as opções disponíveis e preparar a continuidade da consulta, que será aprofundada na análise seguinte.
 
-![HTA 05 — Localização de Vendedores e Seleção de Produtos](./HTA-05...png)
+<p align="center">
+  <img src="../assets/HTA-05...png" alt="HTA 05 — Localização de Vendedores e Seleção de Produtos" width="100%">
+</p>
 
 *Figura 9 — Análise Hierárquica de Tarefas (HTA 05): Localização de Vendedores e Seleção de Produtos.*
 
