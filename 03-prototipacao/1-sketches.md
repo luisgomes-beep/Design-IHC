@@ -4,16 +4,12 @@
 
 # 1. Sketches — Protótipos de Baixa Fidelidade
 
-> [!NOTE]
-> 🚧 **Documento em elaboração.** Esboços das telas do Camp Food, considerando as tarefas (HTAs) e os modelos de interação (MoLIC).
 
-## Estrutura prevista
-
-- [ ] Introdução e método de elaboração
-- [ ] Sketches das telas do perfil vendedor
-- [ ] Sketches das telas do perfil comprador
-- [ ] Considerações de acessibilidade
-- [ ] Relação das telas com as HTAs
+-  Introdução e método de elaboração
+-  Sketches das telas do perfil vendedor
+-  Sketches das telas do perfil comprador
+-  Considerações de acessibilidade
+-  Relação das telas com as HTAs
 
 ---
 
