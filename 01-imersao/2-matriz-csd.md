@@ -23,11 +23,11 @@ A Matriz CSD desempenhou um papel importante no desenvolvimento do Camp Food, po
 
 Além disso, possibilitou direcionar a pesquisa complementar, auxiliando a equipe na compreensão das dificuldades enfrentadas pelos vendedores e compradores e na identificação de oportunidades para a solução proposta.
 
-## 2.4. Metodologia de construção
+## 3. Metodologia de construção
 
 A construção da Matriz CSD envolveu a análise e a organização das informações reunidas durante a etapa inicial do projeto. Para isso, a equipe seguiu um processo dividido em três etapas: levantamento dos dados disponíveis, organização das informações e definição dos critérios de classificação. Esse procedimento permitiu estruturar os conhecimentos obtidos e identificar quais aspectos ainda precisavam ser investigados.
 
-### 2.5. Levantamento das informações
+### 3.1. Levantamento das informações
 
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/df849639-d505-4909-b83f-7d0adacd682c" />
@@ -38,7 +38,7 @@ A elaboração da matriz foi realizada a partir das informações obtidas no bri
 
 Também foram consideradas as informações referentes ao processo de divulgação dos produtos, às formas de pagamento e à disponibilidade dos itens comercializados.
 
-### 2.6. Organização das informações
+### 3.2. Organização das informações
 
 Após o levantamento, as informações foram distribuídas em três categorias, conforme a proposta da ferramenta:
 
@@ -46,16 +46,16 @@ Após o levantamento, as informações foram distribuídas em três categorias, 
 - **Suposições:** hipóteses consideradas plausíveis pela equipe, mas que ainda precisam ser confirmadas.
 - **Dúvidas:** questões que permanecem sem resposta e necessitam de investigação.
 
-### 2.7. Critérios de classificação
+### 3.3. Critérios de classificação
 
 A classificação das informações considerou a existência de evidências e o grau de conhecimento da equipe sobre cada aspecto do problema.
 
 As certezas foram relacionadas às informações já identificadas no contexto das vendas. As suposições representaram possíveis benefícios e funcionalidades do aplicativo. Já as dúvidas foram formuladas para orientar investigações posteriores sobre o funcionamento e as necessidades da solução.
 
-## 2.8. Apresentação da Matriz CSD
+## 3.4. Apresentação da Matriz CSD
 Após o levantamento e a organização das informações, a equipe estruturou a Matriz CSD com o objetivo de apresentar os principais conhecimentos reunidos sobre o contexto do Camp Food. A ferramenta foi dividida em três categorias: Certezas, Suposições e Dúvidas, permitindo visualizar de forma organizada os aspectos já identificados, as hipóteses levantadas e os pontos que ainda precisam ser esclarecidos.
 
-### 2.9. Representação visual
+### 3.5. Representação visual
 
 A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Food.
 
@@ -63,7 +63,7 @@ A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Fo
 
 <p align="center"><sub><b>Figura 2.</b> Matriz CSD do Camp Food, organizada em certezas, suposições e dúvidas.</sub></p>
 
-### Certezas
+### 3.6. Certezas
 
 As certezas correspondem às informações sustentadas pelas evidências disponíveis durante o levantamento inicial.
 
@@ -79,7 +79,7 @@ No contexto do Camp Food, foram identificados os seguintes aspectos:
 
 Essas informações ajudam a compreender o funcionamento atual das vendas e os principais aspectos envolvidos na experiência de compra.
 
-### Suposições
+### 3.7. Suposições
 
 As suposições representam hipóteses formuladas pela equipe sobre possíveis características e benefícios da solução proposta.
 
@@ -93,7 +93,7 @@ Foram levantadas as seguintes hipóteses:
 
 Essas hipóteses representam possibilidades de melhoria que deverão ser analisadas e confrontadas com as necessidades dos usuários durante as próximas etapas do projeto.
 
-### Dúvidas
+### 3.8. Dúvidas
 
 As dúvidas correspondem às questões que ainda não possuem respostas suficientes e que precisam ser investigadas para orientar as decisões de design.
 
@@ -107,9 +107,9 @@ Foram identificadas as seguintes questões:
 
 Essas perguntas permitem identificar aspectos que ainda precisam ser compreendidos antes da definição das funcionalidades e características da interface.
 
-## 3 Análise dos resultados
+## 4 Análise dos resultados
 
-### 3.1. Principais problemas identificados
+### 4.1. Principais problemas identificados
 
 A análise da matriz evidencia alguns desafios relacionados ao processo atual de vendas, principalmente no que diz respeito à comunicação com os compradores e ao acompanhamento da disponibilidade dos produtos.
 
@@ -117,7 +117,7 @@ A utilização de diferentes canais de divulgação e atendimento, como grupos d
 
 Outro aspecto relevante é a ocorrência de clientes interessados em produtos que já estão esgotados, demonstrando a importância de mecanismos que facilitem a consulta e a atualização da disponibilidade dos itens.
 
-## 4. Considerações finais
+## 5. Considerações finais
 
 A elaboração da Matriz CSD permitiu organizar as informações iniciais do projeto Camp Food, proporcionando uma compreensão mais estruturada do contexto das vendas e das necessidades apresentadas pela cliente. A separação entre certezas, suposições e dúvidas ajudou a equipe a reconhecer quais aspectos já possuem evidências e quais ainda precisam ser investigados, evitando antecipar decisões sem compreender adequadamente o problema. Dessa maneira, a matriz não apenas registra os conhecimentos adquiridos durante o briefing, mas também estabelece uma direção para as próximas etapas do projeto, contribuindo para o desenvolvimento de uma solução alinhada às necessidades reais dos vendedores e compradores.
 
