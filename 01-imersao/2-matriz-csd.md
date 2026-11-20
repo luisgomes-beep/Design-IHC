@@ -1,3 +1,7 @@
+<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Matriz CSD</p>
+
+---
+
 # Matriz CSD – Camp Food
 
 ## 1. Introdução
@@ -111,3 +115,7 @@ Outro aspecto relevante é a ocorrência de clientes interessados em produtos qu
 ## 5. Considerações finais
 
 A elaboração da Matriz CSD permitiu organizar as informações iniciais do projeto Camp Food, proporcionando uma compreensão mais estruturada do contexto das vendas e das necessidades apresentadas pela cliente. A separação entre certezas, suposições e dúvidas ajudou a equipe a reconhecer quais aspectos já possuem evidências e quais ainda precisam ser investigados, evitando antecipar decisões sem compreender adequadamente o problema. Dessa maneira, a matriz não apenas registra os conhecimentos adquiridos durante o briefing, mas também estabelece uma direção para as próximas etapas do projeto, contribuindo para o desenvolvimento de uma solução alinhada às necessidades reais dos vendedores e compradores.
+
+---
+
+<p align="center">⬅️ [Briefing](1-briefing.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [Pesquisa com usuários](3-pesquisa-com-usuario.md) ➡️</p>

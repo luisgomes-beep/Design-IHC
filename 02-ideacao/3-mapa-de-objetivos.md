@@ -1,4 +1,8 @@
-# 3. MAPAS DE OBJETIVOS
+<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 2 · Ideação</b> &nbsp;›&nbsp; Mapa de Objetivos</p>
+
+---
+
+# 3. Mapas de Objetivos
 
 A elaboração dos Mapas de Objetivos corresponde a uma etapa importante do processo de ideação do Camp Food, pois permite organizar e representar as principais metas que os diferentes perfis de usuários desejam alcançar ao utilizar a plataforma. A partir da metamensagem e das personas definidas anteriormente, foram identificadas necessidades específicas e compartilhadas, considerando o contexto de comercialização e aquisição de alimentos no ambiente universitário.
 
@@ -67,3 +71,7 @@ Ressalta-se que essa persona possui caráter hipotético e foi desenvolvida como
 A construção dos mapas permitiu organizar as necessidades dos diferentes perfis de usuários e compreender como elas se relacionam dentro da proposta do Camp Food. Embora cada persona apresente objetivos próprios, suas experiências estão conectadas pela utilização de uma mesma plataforma, na qual vendedores e compradores participam de etapas complementares da comercialização de alimentos.
 
 Enquanto os objetivos de Mariana estão concentrados na divulgação e na organização das vendas, os de Gabriel estão relacionados à busca por produtos e à realização de compras. Já os objetivos de Camila acrescentam a perspectiva da acessibilidade, destacando a necessidade de proporcionar condições adequadas de nave
+
+---
+
+<p align="center">⬅️ [Metamensagem](2-metamensagem.md) &nbsp;·&nbsp; [🏠 Voltar ao início](../README.md) &nbsp;·&nbsp; [HTAs](4-htas.md) ➡️</p>
