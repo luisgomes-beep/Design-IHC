@@ -7,6 +7,8 @@
        width="100%">
 </p>
 
+# 2. Matriz CSD — Certezas, Suposições e Dúvidas
+
 ## 1. Introdução
 A Matriz CSD (Certezas, Suposições e Dúvidas) é uma ferramenta utilizada para organizar as informações levantadas durante a investigação de um problema. No projeto Camp Food, sua aplicação permite reunir os conhecimentos obtidos pela equipe, identificar hipóteses que ainda precisam ser verificadas e destacar questões que necessitam de maior investigação. Dessa maneira, a ferramenta contribui para orientar as decisões das próximas etapas do desenvolvimento do sistema.
 
