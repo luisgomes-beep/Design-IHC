@@ -18,7 +18,9 @@ A organização geral evidencia a relação complementar entre vendedores e comp
 
 Essa visão integrada permite compreender que o Camp Food depende da participação de diferentes usuários para cumprir sua finalidade: aproximar vendedores e compradores do ambiente universitário, centralizando informações sobre produtos e facilitando a interação entre as partes. Assim, o mapa geral funciona como uma referência para compreender a estrutura de objetivos que orienta o desenvolvimento da solução.
 
-![Mapa Geral de Objetivos](../assets/mapa_geral_de_objetivos.png)
+<p align="center">
+  <img src="../assets/mapa_geral_de_objetivos.png" alt="Mapa Geral de Objetivos do Camp Food" width="100%">
+</p>
 
 *Figura 1 — Mapa Geral de Objetivos do Camp Food.*
 
@@ -36,7 +38,9 @@ Diante dessas necessidades, seu objetivo principal consiste em **ampliar suas ve
 
 A representação demonstra como esses objetivos contribuem para uma experiência de venda mais estruturada. A possibilidade de centralizar as informações dos produtos e manter os compradores atualizados é importante para reduzir dificuldades de comunicação e evitar situações em que os interessados não tenham conhecimento sobre a disponibilidade dos alimentos. Portanto, os objetivos dessa persona estão diretamente relacionados à organização das atividades de venda e ao aprimoramento da interação com os compradores.
 
-![Mapa de Objetivos — Mariana Oliveira](../assets/mapa_mariana.png)
+<p align="center">
+  <img src="../assets/mapa%20mariana.png" alt="Mapa de Objetivos de Mariana Oliveira" width="100%">
+</p>
 
 *Figura 2 — Mapa de Objetivos de Mariana Oliveira (Usuária Vendedora).*
 
@@ -48,7 +52,9 @@ Seu objetivo principal é **encontrar alimentos disponíveis e realizar compras 
 
 A organização desses objetivos evidencia a importância de reunir informações que normalmente podem estar dispersas em diferentes canais de comunicação. Ao facilitar a busca por vendedores e a consulta dos produtos, o Camp Food busca tornar a jornada de compra mais prática e reduzir deslocamentos desnecessários, contribuindo para que o usuário tenha melhores condições de decidir sobre uma compra antes de entrar em contato com o vendedor.
 
-![Mapa de Objetivos — Gabriel Santos](./mapa%20gabriel.png)
+<p align="center">
+  <img src="../assets/mapa%20gabriel.png" alt="Mapa de Objetivos de Gabriel Santos" width="100%">
+</p>
 
 *Figura 3 — Mapa de Objetivos de Gabriel Santos (Usuário Comprador).*
 
@@ -62,7 +68,9 @@ A inclusão dessa perspectiva amplia a compreensão das necessidades que devem s
 
 Ressalta-se que essa persona possui caráter hipotético e foi desenvolvida como referência para orientar a análise de acessibilidade, não representando um perfil validado diretamente pelas entrevistas realizadas.
 
-![Mapa de Objetivos — Camila Rodrigues](./mapa%20camila.png)
+<p align="center">
+  <img src="../assets/mapa%20camila.png" alt="Mapa de Objetivos de Camila Rodrigues" width="100%">
+</p>
 
 *Figura 4 — Mapa de Objetivos de Camila Rodrigues (Usuária Compradora com Necessidades de Acessibilidade).*
 
