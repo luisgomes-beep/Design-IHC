@@ -150,7 +150,9 @@ O encaminhamento posterior da solicitação também precisa ser definido pela eq
 
 Essa HTA detalha como a vendedora transforma as solicitações recebidas em decisões de atendimento e acompanhamento. Sua contribuição está na organização do fluxo de pedidos, facilitando a compreensão das atividades necessárias para gerenciar as solicitações e manter a comunicação entre vendedores e compradores.
 
-![HTA 04 — Organização e Acompanhamento dos Pedidos](./HTA-04...png)
+<p align="center">
+  <img src="../assets/HTA-04...png" alt="HTA 04 — Organização e Acompanhamento dos Pedidos" width="100%">
+</p>
 
 *Figura 8 — Análise Hierárquica de Tarefas (HTA 04): Organização e Acompanhamento dos Pedidos.*
 
