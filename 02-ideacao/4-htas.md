@@ -2,7 +2,7 @@
 
 ---
 
-# 4. Análise Hierárquica de Tarefas (HTAs)
+# 4. Análise Hierárquica de Tarefas (HTAs) 
 
 A Análise Hierárquica de Tarefas (HTA) foi utilizada para aprofundar os objetivos identificados nos Mapas de Objetivos, descrevendo as principais tarefas que os usuários precisam realizar para alcançar os resultados desejados ao utilizar o Camp Food.
 
