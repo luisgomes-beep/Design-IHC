@@ -4,7 +4,7 @@
 
 ---
 
-# Personas     
+# Personas    
 
 As personas do Camp Food foram elaboradas com base nas informações obtidas durante a pesquisa complementar com os usuários, utilizando as dimensões da técnica PATHY. O objetivo é representar diferentes perfis de pessoas envolvidas no contexto de compra e venda de alimentos dentro da Universidade Federal do Amazonas (UFAM), considerando suas características, rotinas, experiências com tecnologia, problemas e possíveis soluções. Foram desenvolvidas três personas que representam perspectivas distintas de utilização do aplicativo, incluindo uma pessoa com necessidade de acessibilidade, permitindo compreender melhor as necessidades dos usuários e orientar o desenvolvimento de uma solução mais prática, intuitiva e inclusiva.
 
