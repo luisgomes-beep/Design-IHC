@@ -86,31 +86,31 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/4efe2581-77de-4450-823c-0dc57f851c0f" />
 
-*Figura 8 - Respostas do participante 01*
+<p align="center"><sub><b>Figura 8.</b> Respostas fornecidas pelo participante 01.</sub></p>
 
 ---
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/497c7b61-7c0c-4d36-a003-326d756822ef" />
 
-*Figura 9 - Respostas do participante 02*
+<p align="center"><sub><b>Figura 9.</b> Respostas fornecidas pelo participante 02.</sub></p>
 
 ---
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/67a08156-ea37-4464-b66f-c9751ca8981d" />
 
-*Figura 10 - Respostas do participante 03*
+<p align="center"><sub><b>Figura 10.</b> Respostas fornecidas pelo participante 03.</sub></p>
 
 ---
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/0abb98ac-f69e-435b-87ac-64323aff43ba" />
 
-*Figura 11 - Respostas do participante 04*
+<p align="center"><sub><b>Figura 11.</b> Respostas fornecidas pelo participante 04.</sub></p>
 
 ---
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/14e606dc-952d-4b1c-a7e6-1ec4157d8c63" />
 
- *Figura 12 - Gráfico sobre o estilo de vida dos participantes*
+<p align="center"><sub><b>Figura 12.</b> Gráfico representativo do estilo de vida dos participantes da pesquisa.</sub></p>
  
   O estilo de vida foi dividido igualmente entre espontâneo e apressado.
  
@@ -118,7 +118,7 @@ Após a coleta, as respostas foram analisadas e agrupadas por assuntos, permitin
 
  <img width="900" alt="image" src="https://github.com/user-attachments/assets/13913701-2311-49ab-9763-c5d416cc75a4" />
  
- *Figura 13 - Gráfico sobre o formato de intrução preferido pelos entrevistados*
+<p align="center"><sub><b>Figura 13.</b> Gráfico sobre a preferência dos participantes pelo formato de instrução.</sub></p>
  
   Quanto à preferência de formato, 75% indicaram instruções explicativas e 25% imagens.
 
