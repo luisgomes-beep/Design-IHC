@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/etapas-diagrama.svg" alt="Diagrama das três etapas do projeto: Imersão, Ideação e Prototipação" width="750">
-</p>
-
-<p align="center">
   <a href="#-sobre-o-projeto">Sobre</a> ·
   <a href="#-etapas-do-projeto">Etapas</a> ·
   <a href="#-métodos-utilizados">Métodos</a> ·
