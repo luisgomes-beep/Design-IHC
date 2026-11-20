@@ -112,11 +112,11 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/fa104930-99bd-44ad-ae00-2ae31c04da40" />
 
-*Figura 1 - Identificação*
+<p align="center"><sub><b>Figura 1.</b> Identificação do cliente participante do briefing.</sub></p>
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/7b8df600-eb4d-4bd7-a55f-7efcd623772e" />
 
-*Figura 2 - Registro da entrevista*
+<p align="center"><sub><b>Figura 2.</b> Registro da entrevista realizada com o cliente.</sub></p>
 
 ---
 
@@ -128,19 +128,19 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
      <img src="https://github.com/user-attachments/assets/a0303a73-dbdf-4894-982c-537a06b0b2d7" 
  width="300">
      <br>
-     <em>Figura 3 - Questionário</em>
+     <p align="center"><sub><b>Figura 3.</b> Questionário de caracterização utilizado no briefing.</sub></p>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/1e1c5698-a85d-49ab-a01d-4a48a1ac9404" 
  width="300">
       <br>
-      <em>Figura 4 - Perguntas iniciais</em>
+      <p align="center"><sub><b>Figura 4.</b> Perguntas iniciais do questionário aplicado ao cliente.</sub></p>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/4bbe6f9c-83c4-4f96-8e53-9d187a73b8b3" 
  width="300">
       <br>
-      <em>Figura 5 - Outras perguntas usadas</em>
+      <p align="center"><sub><b>Figura 5.</b> Perguntas complementares sobre as necessidades e dificuldades do cliente.</sub></p>
     </td>   
   </tr>
 </table>
@@ -152,7 +152,7 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/eb77cf65-eaeb-4801-a061-203f6791601c" />
 
-*Figura 6 - Evidência de resposta do cliente*
+<p align="center"><sub><b>Figura 6.</b> Evidência das respostas fornecidas pelo cliente durante o levantamento inicial.</sub></p>
 
 ---
 
