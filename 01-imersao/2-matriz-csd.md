@@ -61,7 +61,7 @@ A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Fo
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/25b257e7-d27b-487a-9374-fab3e39448fa" />
 
-*Figura 2 - Matriz CSD do Camp Food*
+<p align="center"><sub><b>Figura 2.</b> Matriz CSD do Camp Food, organizada em certezas, suposições e dúvidas.</sub></p>
 
 ### 3.2. Certezas
 
