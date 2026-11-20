@@ -2,8 +2,6 @@
 
 ---
 
-# 1. Briefing - Alinhamento Cliente (Camp Food)
-
 <p align="center">
   <img src="../assets/banner-briefing.png"
        alt="Banner — Briefing"
