@@ -30,7 +30,7 @@ Além disso, o projeto considera a acessibilidade como um aspecto importante da 
 
 ## 2.3. Metamensagem do Camp Food
 
-Caro(a) usuário(a) do Camp Food,
+"Caro(a) usuário(a) do Camp Food,
 
 Entendemos que você faz parte da comunidade acadêmica da Universidade Federal do Amazonas (UFAM) e possui uma rotina universitária movimentada. Seja você um(a) vendedor(a) autônomo(a), que comercializa alimentos no hall da universidade, ou um(a) estudante que busca refeições e lanches de maneira rápida e prática, sabemos que encontrar ou oferecer produtos pode ser um desafio em meio às atividades do dia a dia. Por isso, buscamos proporcionar uma experiência mais organizada, acessível e independente.
 
@@ -40,7 +40,7 @@ Para os(as) compradores(as), o aplicativo oferece um ambiente centralizado para 
 
 Também reconhecemos que cada pessoa possui necessidades diferentes. Por isso, o Camp Food considera recursos de acessibilidade, como ajuste do tamanho das fontes, contraste visual e compatibilidade com leitores de tela, buscando proporcionar uma experiência mais inclusiva e reduzir barreiras durante a utilização da plataforma.
 
-Com o Camp Food, queremos tornar a experiência de comprar e vender alimentos na universidade mais prática, organizada e acessível. Nosso objetivo é aproximar a comunidade acadêmica, facilitar as atividades dos vendedores e permitir que os estudantes encontrem o que procuram com mais autonomia, no seu próprio ritmo.
+Com o Camp Food, queremos tornar a experiência de comprar e vender alimentos na universidade mais prática, organizada e acessível. Nosso objetivo é aproximar a comunidade acadêmica, facilitar as atividades dos vendedores e permitir que os estudantes encontrem o que procuram com mais autonomia, no seu próprio ritmo."
 
 ## 2.4. Relação da Metamensagem com as Personas e os Objetivos
 
