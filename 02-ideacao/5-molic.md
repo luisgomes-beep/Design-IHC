@@ -4,15 +4,11 @@
 
 # 5. Diagramas MoLIC
 
-> [!NOTE]
-> 🚧 **Documento em elaboração.** Modelagem da interação (cenas, falas do usuário e do designer, rupturas de comunicação) a partir das HTAs.
 
-## Estrutura prevista
-
-- [ ] Introdução: o que é a MoLIC
-- [ ] Diagrama de interação do perfil vendedor
-- [ ] Diagrama de interação do perfil comprador
-- [ ] Tratamento de rupturas e decisões de design
+- Introdução: o que é a MoLIC
+- Diagrama de interação do perfil vendedor
+- Diagrama de interação do perfil comprador
+- Tratamento de rupturas e decisões de design
 
 ---
 
