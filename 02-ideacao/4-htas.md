@@ -263,7 +263,6 @@ Essa HTA amplia a análise da jornada de compra ao considerar que diferentes usu
 <p align="center">
   <img src="../assets/HTA-07...png" alt="HTA 07 — Consulta e Compra com Acessibilidade" width="100%">
 </p>
-
 *Figura 11 — Análise Hierárquica de Tarefas (HTA 07): Consulta e Compra com Acessibilidade.*
 
 ## 4.8 Considerações sobre as HTAs
