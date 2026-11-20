@@ -54,31 +54,52 @@ flowchart LR
 
 Etapa destinada à compreensão do problema, do contexto e das necessidades dos usuários.
 
-| Documento | Status |
-|---|:---:|
-| [Briefing com o cliente](01-imersao/1-briefing.md) | 
-| [Matriz CSD — Certezas, Suposições e Dúvidas](01-imersao/2-matriz-csd.md) | 
-| [Pesquisa complementar com usuários](01-imersao/3-pesquisa-com-usuario.md) | 
+<details>
+<summary><b>🔍 Etapa 1 · Imersão — clique para ver os documentos</b></summary>
+
+<br>
+
+| Documento |
+|---|
+| [Briefing com o cliente](01-imersao/1-briefing.md) |
+| [Matriz CSD — Certezas, Suposições e Dúvidas](01-imersao/2-matriz-csd.md) |
+| [Pesquisa complementar com usuários](01-imersao/3-pesquisa-com-usuario.md) |
+
+</details>
 
 ### 💡 2. Ideação
 
 Etapa destinada à organização das informações obtidas e à definição dos objetivos e das interações dos usuários.
 
-| Documento | Status |
-|---|:---:|
-| [Personas — Técnica PATHY](02-ideacao/1-personas.md) | 
-| [Metamensagem](02-ideacao/2-metamensagem.md) | 
-| [Mapa de Objetivos](02-ideacao/3-mapa-de-objetivos.md) | 
+<details>
+<summary><b>💡 Etapa 2 · Ideação — clique para ver os documentos</b></summary>
+
+<br>
+
+| Documento |
+|---|
+| [Personas — Técnica PATHY](02-ideacao/1-personas.md) |
+| [Metamensagem](02-ideacao/2-metamensagem.md) |
+| [Mapa de Objetivos](02-ideacao/3-mapa-de-objetivos.md) |
 | [HTAs — Análise Hierárquica de Tarefas](02-ideacao/4-htas.md) |
 | [Diagramas MoLIC](02-ideacao/5-molic.md) |
+
+</details>
 
 ### ✏️ 3. Prototipação
 
 Etapa destinada à elaboração de esboços de baixa fidelidade das telas do aplicativo, considerando as tarefas e os modelos de interação definidos anteriormente.
 
-| Documento 
-|---|:---:|
+<details>
+<summary><b>✏️ Etapa 3 · Prototipação — clique para ver os documentos</b></summary>
+
+<br>
+
+| Documento |
+|---|
 | [Sketches — Protótipos de Baixa Fidelidade](03-prototipacao/1-sketches.md) |
+
+</details>
 
 ---
 
