@@ -1,8 +1,11 @@
 <p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Pesquisa com usuários</p>
 
 ---
-
-# Pesquisa complementar com usuários
+<p align="center">
+  <img src="../assets/banner-pesquisa-com-usuario.png"
+       alt="Banner — Pesquisa com Usuários"
+       width="100%">
+</p>
 
 ## 1. Introdução
 
