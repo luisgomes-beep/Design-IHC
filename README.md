@@ -40,7 +40,7 @@ O projeto é desenvolvido por meio das etapas de **imersão**, **ideação** e *
 
 ---
 
-## 🗺️ Etapas do projeto
+## 📍 Etapas do projeto
 
 <p align="center">
   <img src="assets/etapas-diagrama.svg" alt="Etapas do projeto: Imersão, Ideação e Prototipação" width="750">
