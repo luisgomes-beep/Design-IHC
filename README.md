@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/UFAM-IHC-2f4b8f?style=for-the-badge" alt="UFAM IHC">
-  <img src="https://img.shields.io/badge/App-Camp%20Food-6597d6?style=for-the-badge" alt="Camp Food">
+  <img src="assets/etapas-diagrama.svg" alt="Diagrama das três etapas do projeto: Imersão, Ideação e Prototipação" width="750">
 </p>
 
 <p align="center">
