@@ -18,7 +18,7 @@ A organização geral evidencia a relação complementar entre vendedores e comp
 
 Essa visão integrada permite compreender que o Camp Food depende da participação de diferentes usuários para cumprir sua finalidade: aproximar vendedores e compradores do ambiente universitário, centralizando informações sobre produtos e facilitando a interação entre as partes. Assim, o mapa geral funciona como uma referência para compreender a estrutura de objetivos que orienta o desenvolvimento da solução.
 
-![Mapa Geral de Objetivos](./mapa_geral_de_objetivos.png)
+![Mapa Geral de Objetivos](../assets/mapa_geral_de_objetivos.png)
 
 *Figura 1 — Mapa Geral de Objetivos do Camp Food.*
 
