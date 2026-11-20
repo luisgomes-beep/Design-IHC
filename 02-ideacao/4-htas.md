@@ -76,7 +76,9 @@ A ausência de uma fotografia também representa uma situação que precisa ser 
 
 A HTA detalha o objetivo de divulgação em etapas que permitem compreender como a vendedora prepara, disponibiliza e revisa as informações dos produtos. Essa organização contribui para estruturar a interação com o catálogo da plataforma e facilitar o acesso dos compradores às opções anunciadas.
 
-![HTA 02 — Divulgação dos Produtos](./HTA-02...png)
+<p align="center">
+  <img src="../assets/HTA-02...png" alt="HTA 02 — Divulgação dos Produtos" width="100%">
+</p>
 
 *Figura 6 — Análise Hierárquica de Tarefas (HTA 02): Divulgação dos Produtos.*
 
