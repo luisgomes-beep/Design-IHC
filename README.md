@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/UFAM-IHC-2f4b8f?style=for-the-badge" alt="UFAM IHC">
   <img src="https://img.shields.io/badge/App-Camp%20Food-6597d6?style=for-the-badge" alt="Camp Food">
-  <img src="https://img.shields.io/badge/Status-em%20desenvolvimento-8fc06a?style=for-the-badge" alt="Em desenvolvimento">
-  <img src="https://img.shields.io/badge/Entrega-23%2F11%2F2026-2f4b8f?style=for-the-badge" alt="Entrega 23/11/2026">
 </p>
 
 <p align="center">
@@ -58,9 +56,9 @@ Etapa destinada à compreensão do problema, do contexto e das necessidades dos 
 
 | Documento | Status |
 |---|:---:|
-| [Briefing com o cliente](01-imersao/1-briefing.md) | ✅ Concluído |
-| [Matriz CSD — Certezas, Suposições e Dúvidas](01-imersao/2-matriz-csd.md) | ✅ Concluído |
-| [Pesquisa complementar com usuários](01-imersao/3-pesquisa-com-usuario.md) | ✅ Concluído |
+| [Briefing com o cliente](01-imersao/1-briefing.md) | 
+| [Matriz CSD — Certezas, Suposições e Dúvidas](01-imersao/2-matriz-csd.md) | 
+| [Pesquisa complementar com usuários](01-imersao/3-pesquisa-com-usuario.md) | 
 
 ### 💡 2. Ideação
 
@@ -68,19 +66,19 @@ Etapa destinada à organização das informações obtidas e à definição dos 
 
 | Documento | Status |
 |---|:---:|
-| [Personas — Técnica PATHY](02-ideacao/1-personas.md) | ✅ Concluído |
-| [Metamensagem](02-ideacao/2-metamensagem.md) | 🚧 Em elaboração |
-| [Mapa de Objetivos](02-ideacao/3-mapa-de-objetivos.md) | ✅ Concluído |
-| [HTAs — Análise Hierárquica de Tarefas](02-ideacao/4-htas.md) | ✅ Concluído |
-| [Diagramas MoLIC](02-ideacao/5-molic.md) | 🚧 Em elaboração |
+| [Personas — Técnica PATHY](02-ideacao/1-personas.md) | 
+| [Metamensagem](02-ideacao/2-metamensagem.md) | 
+| [Mapa de Objetivos](02-ideacao/3-mapa-de-objetivos.md) | 
+| [HTAs — Análise Hierárquica de Tarefas](02-ideacao/4-htas.md) |
+| [Diagramas MoLIC](02-ideacao/5-molic.md) |
 
 ### ✏️ 3. Prototipação
 
 Etapa destinada à elaboração de esboços de baixa fidelidade das telas do aplicativo, considerando as tarefas e os modelos de interação definidos anteriormente.
 
-| Documento | Status |
+| Documento 
 |---|:---:|
-| [Sketches — Protótipos de Baixa Fidelidade](03-prototipacao/1-sketches.md) | 🚧 Em elaboração |
+| [Sketches — Protótipos de Baixa Fidelidade](03-prototipacao/1-sketches.md) |
 
 ---
 
@@ -166,5 +164,5 @@ Design-IHC/
 <p align="center">
   Este repositório é atualizado ao longo do desenvolvimento do trabalho, registrando as etapas,<br>
   os resultados e as decisões de design tomadas pela equipe.<br><br>
-  <sub>Feito com 💙 pela equipe Camp Food · UFAM · 2026</sub>
+  <sub>UFAM · 2026</sub>
 </p>
