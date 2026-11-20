@@ -30,6 +30,8 @@ Mariana representa os estudantes que conciliam a rotina acadêmica com atividade
 
 ---
 
+### 1.3.2. Persona 02
+
 ### Persona 02 — Gabriel Santos
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/6ef7fc4c-696c-4369-8cac-6a4ac7e37b04" />
@@ -39,6 +41,8 @@ Mariana representa os estudantes que conciliam a rotina acadêmica com atividade
 Gabriel representa os estudantes que compram alimentos no ambiente universitário e buscam praticidade durante a rotina acadêmica. Sua principal dificuldade está em localizar vendedores, consultar preços e verificar a disponibilidade dos produtos antes de se deslocar até eles. Por isso, procura uma solução que reúna essas informações em um único ambiente, facilitando a busca por alimentos e tornando o processo de compra mais rápido e conveniente.
 
 ---
+
+### 1.3.3. Persona 03
 
 ### Persona 03 — Camila Rodrigues
 
