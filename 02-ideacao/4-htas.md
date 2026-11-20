@@ -224,7 +224,9 @@ O processo de finalização da compra deve respeitar as funcionalidades efetivam
 
 Essa HTA aprofunda a etapa de avaliação e decisão da jornada de compra, demonstrando como as informações disponibilizadas pelo Camp Food auxiliam o usuário a escolher como prosseguir. Sua contribuição está em organizar a consulta dos dados dos produtos, a verificação de disponibilidade e a possibilidade de esclarecimento de dúvidas, favorecendo uma experiência de compra mais informada.
 
-![HTA 06 — Consulta de Informações e Decisão de Compra](./HTA-06...png)
+<p align="center">
+  <img src="../assets/HTA-06...png" alt="HTA 06 — Consulta de Informações e Decisão de Compra" width="100%">
+</p>
 
 *Figura 10 — Análise Hierárquica de Tarefas (HTA 06): Consulta de Informações e Decisão de Compra.*
 
