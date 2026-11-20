@@ -260,7 +260,9 @@ Uma condição importante está relacionada à disponibilização das informaç�
 
 Essa HTA amplia a análise da jornada de compra ao considerar que diferentes usuários podem necessitar de recursos específicos para interagir com a plataforma. Sua contribuição está em orientar a avaliação da acessibilidade durante todo o processo de descoberta e compra, verificando se as etapas podem ser realizadas com autonomia, sem depender da ajuda de terceiros.
 
-![HTA 07 — Consulta e Compra com Acessibilidade](./HTA-07...png)
+<p align="center">
+  <img src="../assets/HTA-07...png" alt="HTA 07 — Consulta e Compra com Acessibilidade" width="100%">
+</p>
 
 *Figura 11 — Análise Hierárquica de Tarefas (HTA 07): Consulta e Compra com Acessibilidade.*
 
