@@ -15,7 +15,7 @@ A pesquisa complementar foi realizada com o objetivo de compreender melhor as ne
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/5c80b18a-7e4f-432e-8c3a-de54d9db5ee9" />
 
-*Figura 1 - Equipe realizando a Pesquisa Complementar*
+<p align="center"><sub><b>Figura 1.</b> Equipe realizando a pesquisa complementar com os usuários.</sub></p>
 
 ## 1.1. Objetivos da pesquisa
 
@@ -39,19 +39,19 @@ Para a coleta de informações, foi utilizado um Questionário de Caracterizaç�
      <img src="https://github.com/user-attachments/assets/7354e25d-8e78-4c8a-a7c2-77c9dc5637b6" 
  width="300">
      <br>
-     <em>Figura 2 - Questionário de Caracterização</em>
+     <p align="center"><sub><b>Figura 2.</b> Questionário de caracterização dos participantes da pesquisa.</sub></p>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/4dd2e1c2-484c-4a7f-b7ac-49be97eb5783"  
  width="300">
       <br>
-      <em>Figura 3 - Identificação</em>
+      <p align="center"><sub><b>Figura 3.</b> Identificação apresentada no formulário de pesquisa.</sub></p>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/b7552734-c7f1-4be8-8fa3-a0592d90e255" 
  width="300">
       <br>
-      <em>Figura 4 - Perfil do participante</em>
+      <p align="center"><sub><b>Figura 4.</b> Perguntas sobre o perfil dos participantes.</sub></p>
     </td>   
   </tr>
 </table>
