@@ -50,7 +50,7 @@ Após o levantamento e a organização das informações, a equipe estruturou a 
 
 A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Food.
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/92ac5fca-f128-4c2c-ab1b-220094590b96" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/25b257e7-d27b-487a-9374-fab3e39448fa" />
 
 *Figura 2 - Matriz CSD do Camp Food*
 
