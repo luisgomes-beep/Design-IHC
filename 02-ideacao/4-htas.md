@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 2 · Ideação</b> &nbsp;›&nbsp; HTAs</p>
+<p align="center"><a href="../README.md"> Início</a> &nbsp;›&nbsp; <b>Etapa 2 · Ideação</b> &nbsp;›&nbsp; HTAs</p>
 
 <p align="center"><img src="../assets/banner-htas.svg" alt="Banner — HTAs" width="100%"></p>
 
@@ -282,4 +282,4 @@ Dessa maneira, as HTAs estabelecem uma ligação entre os objetivos identificado
 
 ---
 
-<p align="center">⬅️ <a href="3-mapa-de-objetivos.md">Mapa de Objetivos</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="5-molic.md">Diagramas MoLIC</a> ➡️</p>
+<p align="center">⬅️ <a href="3-mapa-de-objetivos.md">Mapa de Objetivos</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="5-molic.md">Diagramas MoLIC</a> ➡️</p>
