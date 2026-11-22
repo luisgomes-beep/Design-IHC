@@ -19,7 +19,7 @@
 
 ---
 
-## 🍬 Sobre o projeto
+## ● Sobre o projeto
 
 Este repositório reúne a documentação do Trabalho Prático 2 (TP2) da disciplina de Interação Humano-Computador. O objetivo é desenvolver o design de um aplicativo a partir de uma demanda real, investigando o problema, as necessidades dos usuários e as possibilidades de solução.
 
@@ -35,19 +35,19 @@ O projeto é desenvolvido por meio das etapas de **imersão**, **ideação** e *
 
 ---
 
-## 📍 Etapas do projeto
+## ● Etapas do projeto
 
 <p align="center">
   <img src="assets/etapas-diagrama.svg" alt="Etapas do projeto: Imersão, Ideação e Prototipação" width="750">
 </p>
 
 
-### 🔍 Etapa 1
+### ◆ Etapa 1
 
 Etapa destinada à compreensão do problema, do contexto e das necessidades dos usuários.
 
 <details>
-<summary><b>🔍 Imersão · clique para ver os documentos</b></summary>
+<summary><b>➤ Imersão · clique para ver os documentos</b></summary>
 
 <br>
 
@@ -59,12 +59,12 @@ Etapa destinada à compreensão do problema, do contexto e das necessidades dos 
 
 </details>
 
-### 💡 Etapa 2
+### ◆ Etapa 2
 
 Etapa destinada à organização das informações obtidas e à definição dos objetivos e das interações dos usuários.
 
 <details>
-<summary><b>💡 Ideação · clique para ver os documentos</b></summary>
+<summary><b>➤ Ideação · clique para ver os documentos</b></summary>
 
 <br>
 
@@ -78,12 +78,12 @@ Etapa destinada à organização das informações obtidas e à definição dos 
 
 </details>
 
-### ✏️ Etapa 3
+### ◆ Etapa 3
 
 Etapa destinada à elaboração de esboços de baixa fidelidade das telas do aplicativo, considerando as tarefas e os modelos de interação definidos anteriormente.
 
 <details>
-<summary><b>✏️ Prototipação · clique para ver os documentos</b></summary>
+<summary><b>➤ Prototipação · clique para ver os documentos</b></summary>
 
 <br>
 
@@ -95,7 +95,7 @@ Etapa destinada à elaboração de esboços de baixa fidelidade das telas do apl
 
 ---
 
-## 🧪 Métodos utilizados
+## ● Métodos utilizados
 
 Ao longo do projeto são utilizados métodos de investigação e modelagem de interação definidos no enunciado do TP2:
 
@@ -118,7 +118,7 @@ Os resultados e as evidências de cada etapa são documentados nos arquivos corr
 
 </details>
 
-## 🧰 Tecnologias e ferramentas
+## ● Tecnologias e ferramentas
 
 As ferramentas são registradas conforme forem utilizadas pela equipe durante o desenvolvimento do trabalho.
 
@@ -128,7 +128,7 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 
 ---
 
-## 👥 Equipe
+## ● Equipe
 
 <table>
   <tr>
@@ -145,13 +145,13 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 
 ---
 
-## 🤖 Declaração de uso de Inteligência Artificial
+## ● Declaração de uso de Inteligência Artificial
 
 blah blah blah
 
 ---
 
-## 📂 Organização do repositório
+## ● Organização do repositório
 
 ```text
 Design-IHC/
