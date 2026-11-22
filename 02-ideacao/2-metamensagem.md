@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="../README.md">🏠 Início</a> &nbsp;›&nbsp;
+  <a href="../README.md"> Início</a> &nbsp;›&nbsp;
   <b>Etapa 2 · Ideação</b> &nbsp;›&nbsp;
   Metamensagem
 </p>
@@ -63,7 +63,7 @@ Dessa maneira, o Camp Food busca manter uma experiência coerente com sua propos
 <p align="center">
   ⬅️ <a href="1-personas.md">Personas</a>
   &nbsp;·&nbsp;
-  <a href="../README.md">🏠 Voltar ao início</a>
+  <a href="../README.md"> Voltar ao início</a>
   &nbsp;·&nbsp;
   <a href="3-mapa-de-objetivos.md">Mapa de Objetivos</a> ➡️
 </p>
