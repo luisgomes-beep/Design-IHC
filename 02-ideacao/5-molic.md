@@ -26,6 +26,9 @@ Para a construção e organização visual dos diagramas, foi utilizada a ferram
 
 ### 5.3.1. MoLIC de visão geral
 
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/33f582b4-b1f1-4631-aa9a-176b8dffec65" />
+
+
 Este diagrama apresenta o fluxo geral de interação do Camp Food, contemplando as principais ações que podem ser realizadas pelos usuários dentro da plataforma. O fluxo começa com o acesso ao sistema, no qual o usuário pode informar seus dados de login ou realizar um cadastro. Caso as informações sejam inválidas, o sistema apresenta uma indicação de erro, permitindo que o usuário tente novamente. Quando o acesso é validado, ele é direcionado ao catálogo de produtos e vendedores.
 
 A cena Catálogo e vendedores funciona como um ponto central de navegação, pois reúne as informações disponíveis na plataforma, como produtos, preços, disponibilidade e vendedores cadastrados. A partir dela, o fluxo pode seguir por diferentes caminhos, de acordo com a ação que o usuário deseja realizar.
