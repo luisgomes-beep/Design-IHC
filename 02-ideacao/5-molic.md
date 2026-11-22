@@ -24,7 +24,7 @@ Para a construção e organização visual dos diagramas, foi utilizada a ferram
 ---
 ## 5.3. Diagramas MoLIC desenvolvidos
 
-### 5.3.1. 
+### 5.3.1. MoLIC de visão geral
 
 O diagrama MoLIC de visão geral apresenta o fluxo geral de interação do Camp Food, contemplando as principais ações que podem ser realizadas pelos usuários dentro da plataforma. O fluxo começa com o acesso ao sistema, no qual o usuário pode informar seus dados de login ou realizar um cadastro. Caso as informações sejam inválidas, o sistema apresenta uma indicação de erro, permitindo que o usuário tente novamente. Quando o acesso é validado, ele é direcionado ao catálogo de produtos e vendedores.
 
