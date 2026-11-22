@@ -27,11 +27,11 @@ O projeto é desenvolvido por meio das etapas de **imersão**, **ideação** e *
 
 | | |
 |---|---|
-| 📱 **Aplicativo** | Camp Food |
-| 🎓 **Disciplina** | Interação Humano-Computador (IHC) |
-| 👨‍🏫 **Professor** | Dr. Andrey Rodrigues |
-| 🏫 **Instituição** | Universidade Federal do Amazonas (UFAM) |
-| 📅 **Entrega** | 23 de novembro de 2026, até às 23h50 |
+|  **Aplicativo** | Camp Food |
+|  **Disciplina** | Interação Humano-Computador (IHC) |
+|  **Professor** | Dr. Andrey Rodrigues |
+|  **Instituição** | Universidade Federal do Amazonas (UFAM) |
+|  **Entrega** | 23 de novembro de 2026, até às 23h50 |
 
 ---
 
