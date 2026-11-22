@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 3 · Prototipação</b> &nbsp;›&nbsp; Sketches</p>
+<p align="center"><a href="../README.md"> Início</a> &nbsp;›&nbsp; <b>Etapa 3 · Prototipação</b> &nbsp;›&nbsp; Sketches</p>
 
 <p align="center"><img src="../assets/banner-prototipacao.svg" alt="Banner — Sketches (Prototipação)" width="100%"></p>
 
@@ -15,4 +15,4 @@
 
 ---
 
-<p align="center">⬅️ <a href="../02-ideacao/5-molic.md">Diagramas MoLIC</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a></p>
+<p align="center">⬅️ <a href="../02-ideacao/5-molic.md">Diagramas MoLIC</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a></p>
