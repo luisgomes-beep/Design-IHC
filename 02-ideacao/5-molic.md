@@ -35,7 +35,9 @@ Já no fluxo relacionado à compra, o usuário parte do catálogo para consultar
 
 O diagrama também considera a possibilidade de o usuário desistir da compra ou retornar à etapa anterior. Essa transição permite que ele volte ao catálogo sem precisar reiniciar todo o processo de acesso, podendo consultar outros produtos ou vendedores antes de tomar uma decisão.
 
- 
+
+
+   
 
 
 
