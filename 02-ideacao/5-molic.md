@@ -39,7 +39,7 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
    
 
-
+![Diagrama MoLIC: visão geral](NOME-DO-ARQUIVO.png)
 
 
 
