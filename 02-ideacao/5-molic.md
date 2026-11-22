@@ -45,5 +45,18 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
 ### 5.3.2. MoLIC : Acesso e autenticação
 
+O fluxo começa quando o usuário inicia o acesso ao sistema. Nessa primeira cena, ele encontra as opções de login e cadastro, podendo informar seu login e senha caso já possua uma conta ou escolher a opção de cadastro para criar um novo acesso. Essa etapa é importante porque permite que o usuário entre na plataforma e tenha acesso às funcionalidades disponíveis. A transição acontece quando o usuário realiza a ação de autenticar ou cadastrar seus dados. Essas informações são encaminhadas para o sistema, que fica responsável por verificar se os dados informados são válidos.
+
+Após a tentativa de acesso, o sistema realiza a validação das informações fornecidas pelo usuário. Esse momento é representado pelo quadrado preto no diagrama, indicando uma etapa de processamento do sistema, na qual os dados são verificados antes de permitir a continuidade da interação. Existem dois possíveis caminhos a partir dessa etapa. Caso os dados sejam inválidos, o sistema retorna o fluxo para a cena de acesso, permitindo que o usuário tente novamente, corrija as informações ou realize o cadastro. Dessa forma, o usuário não consegue avançar enquanto o acesso não for validado. Por outro lado, quando os dados são reconhecidos como válidos, o sistema permite que o usuário continue para a próxima cena.
+
+Depois que o acesso é validado, o usuário é direcionado para o catálogo de vendedores. Nessa cena, ele pode visualizar a lista de vendedores disponíveis na plataforma, além de consultar informações sobre os produtos oferecidos, seus respectivos preços e a disponibilidade. Essa etapa representa o início da utilização das principais funcionalidades do CAMP FOOD, pois permite que o usuário conheça as opções de alimentação disponíveis e comece a procurar aquilo que deseja comprar.
+
+De modo geral, esse fluxo organiza as primeiras etapas de utilização do CAMP FOOD, garantindo que o usuário passe pela autenticação antes de acessar o catálogo de vendedores. A possibilidade de retornar à tela de acesso quando os dados são inválidos também evita que o usuário avance sem uma autenticação válida. Assim, o diagrama apresenta o caminho inicial que conecta o acesso à plataforma com a consulta aos produtos e vendedores disponíveis.
+
+
+
+imagemmmm
+<p align="center"><sub><b>Figura 2.</b> MoLIC: Acesso e autenticação.</sub></p>
+
 
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
