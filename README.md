@@ -95,7 +95,7 @@ Etapa destinada à elaboração de esboços de baixa fidelidade das telas do apl
 
 ---
 
-## ● Métodos utilizados
+## ➤ Métodos utilizados
 
 Ao longo do projeto são utilizados métodos de investigação e modelagem de interação definidos no enunciado do TP2:
 
