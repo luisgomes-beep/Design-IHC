@@ -59,4 +59,34 @@ imagemmmm
 <p align="center"><sub><b>Figura 2.</b> MoLIC: Acesso e autenticação.</sub></p>
 
 
+
+
+### 5.3.3. MoLIC : Fluxo da Vendedora
+
+
+O fluxo inicia na cena do catálogo de vendedores, que apresenta a lista de vendedores disponíveis na plataforma, juntamente com seus produtos, preços e disponibilidade. A partir dessa tela, a vendedora pode iniciar o gerenciamento de seus produtos e pedidos, selecionando a opção correspondente. Essa ação representa a transição para a área de gerenciamento, permitindo que a vendedora tenha acesso às ferramentas necessárias para administrar suas vendas dentro da plataforma.
+
+Após a solicitação de gerenciamento, o sistema realiza o processamento da ação e apresenta o painel de gestão de vendas. Essa etapa é representada pelo quadrado preto no diagrama e indica uma resposta do sistema à solicitação feita pela vendedora. Nessa cena, a vendedora tem acesso ao painel de gerenciamento, onde pode visualizar e administrar informações relacionadas aos produtos, ao estoque e às solicitações recebidas. Esse espaço permite que ela acompanhe suas vendas e realize as alterações necessárias para manter as informações da loja atualizadas.
+
+A partir dessa tela, a vendedora pode realizar duas ações relacionadas: atualizar o estoque dos produtos e confirmar um pedido. Essas ações dão continuidade ao fluxo de interação e permitem que as informações sejam encaminhadas para processamento pelo sistema.
+
+Depois que a vendedora realiza a atualização do estoque e confirma o pedido, o sistema processa essas informações para registrar as alterações realizadas. Essa etapa é representada por outro quadrado preto no diagrama. Quando o processamento é concluído, o sistema envia uma resposta indicando que os dados foram atualizados. Essa resposta permite que a interação avance para a próxima cena.
+
+Após o processamento das informações, a vendedora é direcionada para a cena de atualização confirmada, na qual o sistema apresenta uma mensagem informando que as alterações foram realizadas com sucesso.Essa etapa é importante porque fornece um retorno à vendedora, permitindo que ela saiba que a atualização do estoque e a confirmação do pedido foram registradas pelo sistema. Por fim, a vendedora realiza a ação de encerrar a interação. Essa transição leva ao estado final do diagrama, representado pelo círculo duplo, indicando que o fluxo de interação foi concluído.
+
+De maneira geral, esse fluxo permite que a vendedora tenha controle sobre suas atividades dentro do CAMP FOOD, facilitando o gerenciamento dos produtos, do estoque e dos pedidos recebidos. Além disso, a mensagem de confirmação serve como um retorno do sistema, garantindo que a vendedora tenha conhecimento de que as alterações solicitadas foram processadas.
+
+
+
+imagemmmmmm
+<p align="center"><sub><b>Figura 3.</b> MoLIC: Fluxo da vendedora - Gestão de Vendas.</sub></p>
+
+
+
+
+
+
+
+
+
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
