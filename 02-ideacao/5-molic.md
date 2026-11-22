@@ -40,6 +40,10 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
 <p align="center"><sub><b>Figura 1.</b> MoLIC geral.</sub></p>
 ---
+
+
+
+
 ### 5.3.2. MoLIC : Acesso e autenticação
 
 
