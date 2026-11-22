@@ -19,6 +19,9 @@ A elaboração dos diagramas MoLIC foi realizada com base nas HTAs e nos mapas d
 Para a construção e organização visual dos diagramas, foi utilizada a ferramenta draw.io, que permitiu estruturar as interações de maneira clara e facilitar a visualização das conversas entre os usuários e o sistema.
 
 
+
+
+---
 ## 5.3. Diagramas MoLIC desenvolvidos
 
 
