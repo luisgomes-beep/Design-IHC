@@ -24,6 +24,15 @@ Para a construção e organização visual dos diagramas, foi utilizada a ferram
 ---
 ## 5.3. Diagramas MoLIC desenvolvidos
 
+O diagrama MoLIC de visão geral apresenta o fluxo geral de interação do Camp Food, contemplando as principais ações que podem ser realizadas pelos usuários dentro da plataforma. O fluxo começa com o acesso ao sistema, no qual o usuário pode informar seus dados de login ou realizar um cadastro. Caso as informações sejam inválidas, o sistema apresenta uma indicação de erro, permitindo que o usuário tente novamente. Quando o acesso é validado, ele é direcionado ao catálogo de produtos e vendedores.
+
+A cena Catálogo e vendedores funciona como um ponto central de navegação, pois reúne as informações disponíveis na plataforma, como produtos, preços, disponibilidade e vendedores cadastrados. A partir dela, o fluxo pode seguir por diferentes caminhos, de acordo com a ação que o usuário deseja realizar.
+No caminho relacionado ao perfil da vendedora, o usuário pode acessar a cena Gestão de vendas, que reúne as opções de gerenciamento de produtos, estoque e solicitações recebidas. Nessa etapa, a vendedora pode atualizar as informações do estoque ou confirmar um pedido. Após realizar uma dessas ações, os dados são processados e o sistema apresenta a cena Atualização confirmada, exibindo uma mensagem para informar que a operação foi concluída. Em seguida, a vendedora pode encerrar essa interação.
+
+Já no fluxo relacionado à compra, o usuário parte do catálogo para consultar um produto ou vendedor específico. Essa ação leva à cena Detalhes e compra, na qual são apresentadas informações como descrição, preço e localização, além da possibilidade de utilizar o chat e confirmar o pedido. Caso decida prosseguir com a compra, o sistema registra o pedido e direciona o usuário para a cena Pedido confirmado, que apresenta uma mensagem de confirmação e um resumo da solicitação realizada. Depois disso, o usuário pode sair e finalizar o fluxo.
+
+O diagrama também considera a possibilidade de o usuário desistir da compra ou retornar à etapa anterior. Essa transição permite que ele volte ao catálogo sem precisar reiniciar todo o processo de acesso, podendo consultar outros produtos ou vendedores antes de tomar uma decisão.
+
 
 
 
