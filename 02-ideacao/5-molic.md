@@ -39,4 +39,6 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/33f582b4-b1f1-4631-aa9a-176b8dffec65" />
 
 
+
+
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
