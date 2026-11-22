@@ -100,7 +100,7 @@ Etapa destinada à elaboração de esboços de baixa fidelidade das telas do apl
 Ao longo do projeto são utilizados métodos de investigação e modelagem de interação definidos no enunciado do TP2:
 
 <details>
-<summary><b>Ver lista de métodos</b></summary>
+<summary><b>●Ver lista de métodos</b></summary>
 
 <br>
 
