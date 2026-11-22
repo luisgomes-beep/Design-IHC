@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Matriz CSD</p>
+<p align="center"><a href="../README.md"> Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Matriz CSD</p>
 
 ---
 <p align="center">
@@ -123,4 +123,4 @@ A elaboração da Matriz CSD permitiu organizar as informações iniciais do pro
 
 ---
 
-<p align="center">⬅️ <a href="1-briefing.md">Briefing</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="3-pesquisa-com-usuario.md">Pesquisa com usuários</a> ➡️</p>
+<p align="center">⬅️ <a href="1-briefing.md">Briefing</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="3-pesquisa-com-usuario.md">Pesquisa com usuários</a> ➡️</p>
