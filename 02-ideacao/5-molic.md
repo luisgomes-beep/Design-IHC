@@ -40,6 +40,7 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
 <p align="center"><sub><b>Figura 1.</b> MoLIC geral.</sub></p>
 ---
+### 5.3.2. MoLIC : Acesso e autenticação
 
 
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
