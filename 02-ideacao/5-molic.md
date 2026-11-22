@@ -38,7 +38,7 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/33f582b4-b1f1-4631-aa9a-176b8dffec65" />
 
-<p align="center"><sub><b>Figura 6.</b> Análise Hierárquica de Tarefas (HTA 02): Divulgação dos produtos.</sub></p>
+<p align="center"><sub><b>Figura 1.</b> MoLIC geral.</sub></p>
 ---
 
 
