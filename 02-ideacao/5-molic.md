@@ -38,7 +38,7 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
 
 
-![Diagrama MoLIC: visão geral](./Molic%20visão%20geral.drawio.png)
+imagem
 
 
 
