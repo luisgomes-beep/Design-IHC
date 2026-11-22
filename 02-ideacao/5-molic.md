@@ -12,6 +12,7 @@ MoLIC é uma linguagem que os designers de IHC podem utilizar para modelar a int
 
 ---
 
-## 5.2. 
+## 5.2. Metodologia de construção
+---
 
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
