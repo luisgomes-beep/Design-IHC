@@ -11,6 +11,10 @@
 A construção das personas do Camp Food foi realizada com base nas informações obtidas durante o briefing com a cliente e a pesquisa complementar com estudantes
 da Universidade Federal do Amazonas (UFAM). O objetivo foi representar os diferentes perfis de usuários que podem utilizar o sistema, considerando suas características, necessidades, dificuldades e experiências relacionadas à compra e venda de alimentos no ambiente universitário.
 
+
+
+  <img width="900" alt="image" src="https://github.com/user-attachments/assets/cc27b03e-7ad2-4fa5-b39d-fad3957a8d6e" />
+
 ## 1.2. Metodologia de construção
 
 Para a elaboração das personas, foi utilizada a técnica PATHY, considerando as informações coletadas nas etapas anteriores do projeto.
