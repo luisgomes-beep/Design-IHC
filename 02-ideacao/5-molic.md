@@ -5,9 +5,10 @@
 ---
 
 # 5. Diagramas MoLIC
+
 ## 5.1. Introdução
 
-### MoLIC é uma linguagem que os designers de IHC podem utilizar para modelar a interação dos usuários com sistemas computacionais, seguindo a metáfora de interação como conversa. Modelar a interação na MoLIC é modelar a conversa entre o usuário e o preposto (porta-voz) do entre o usuário e o preposto (porta-voz) do designer cristalizado na interface.
+MoLIC é uma linguagem que os designers de IHC podem utilizar para modelar a interação dos usuários com sistemas computacionais, seguindo a metáfora de interação como conversa. Modelar a interação na MoLIC é modelar a conversa entre o usuário e o preposto (porta-voz) do entre o usuário e o preposto (porta-voz) do designer cristalizado na interface.
 ---
 
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
