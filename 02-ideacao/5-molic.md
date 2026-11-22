@@ -24,6 +24,9 @@ Para a construção e organização visual dos diagramas, foi utilizada a ferram
 ---
 ## 5.3. Diagramas MoLIC desenvolvidos
 
+## 5.3.1 MoLIC: visão geral
+
+
 
 
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
