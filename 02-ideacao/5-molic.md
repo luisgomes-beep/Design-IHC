@@ -13,7 +13,7 @@ MoLIC é uma linguagem que os designers de IHC podem utilizar para modelar a int
 ---
 
 ## 5.2. Metodologia de construção
----
+
 A elaboração dos diagramas MoLIC foi realizada com base nas HTAs e nos mapas de objetivos dos usuários, que serviram como referência para compreender melhor as necessidades, os objetivos e as atividades que cada perfil de usuário pretende realizar dentro do Camp Food. A partir dessas informações, foi possível organizar e representar os caminhos de interação entre os usuários e o sistema, considerando as diferentes ações e possibilidades de navegação na plataforma.
 
 Para a construção e organização visual dos diagramas, foi utilizada a ferramenta draw.io, que permitiu estruturar as interações de maneira clara e facilitar a visualização das conversas entre os usuários e o sistema.
