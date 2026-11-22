@@ -1,4 +1,4 @@
-<p align="center"><a href="../README.md">🏠 Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Pesquisa com usuários</p>
+<p align="center"><a href="../README.md"> Início</a> &nbsp;›&nbsp; <b>Etapa 1 · Imersão</b> &nbsp;›&nbsp; Pesquisa com usuários</p>
 
 ---
 <p align="center">
@@ -194,4 +194,4 @@ A pesquisa complementar permitiu conhecer melhor as experiências e expectativas
 
 ---
 
-<p align="center">⬅️ <a href="2-matriz-csd.md">Matriz CSD</a> &nbsp;·&nbsp; <a href="../README.md">🏠 Voltar ao início</a> &nbsp;·&nbsp; <a href="../02-ideacao/1-personas.md">Personas</a> ➡️</p>
+<p align="center">⬅️ <a href="2-matriz-csd.md">Matriz CSD</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../02-ideacao/1-personas.md">Personas</a> ➡️</p>
