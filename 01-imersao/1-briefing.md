@@ -156,6 +156,9 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
 
 <img width="1080" height="1475" alt="image" src="https://github.com/user-attachments/assets/f5ec45a4-c74e-4f99-8efa-377a7c576d92" />
 
+<p align="center"><sub><b>Figura 7.</b> Síntese das respostas obtidas durante a entrevista.</sub></p>
+
+
 ---
 
 * Demanda ou Necessidade Apresentada:
