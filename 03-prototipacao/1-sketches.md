@@ -65,12 +65,11 @@ O esboço apresenta informações como:
 
   **Alternativa A**
 
-
+  image
   
   **Alternativa B**
 
-
-image
+  image
 
 ---
 
