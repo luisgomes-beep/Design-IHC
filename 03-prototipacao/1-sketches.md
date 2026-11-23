@@ -108,11 +108,14 @@ Foram elaboradas duas alternativas para a apresentação das informações de um
 
 - **Alternativa A:** reúne as informações e as ações em uma única página, incluindo preço, disponibilidade, descrição, vendedor e realização do pedido.
 
-  image
+ <img width="1484" height="993" alt="WhatsApp Image 2026-11-23 at 10 09 47 (1)" src="https://github.com/user-attachments/assets/2c7db9e6-c305-4d85-9f12-24c4a5336aec" />
+ <p align="center"><sub><b>Figura 8.</b> Sketches - etalhe-A: Página única</sub></p>
+
   
 - **Alternativa B:** utiliza um resumo fixo e abas para separar as informações do produto e do vendedor, buscando organizar melhor o conteúdo.
 
-image
+<img width="1252" height="657" alt="Captura de tela 2026-11-23 121131" src="https://github.com/user-attachments/assets/b4bb5955-05c8-4180-91ec-b6d8d21f9865" />
+ <p align="center"><sub><b>Figura 9.</b> Sketches -Detalhe-B: Resumo fixo e abas.</sub></p>
 
 As interfaces também apresentam recursos para selecionar a quantidade desejada e realizar pedidos.
 
