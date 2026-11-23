@@ -147,7 +147,13 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 
 ## ● Declaração de uso de Inteligência Artificial
 
-blah blah blah
+Declaramos que, durante o desenvolvimento desse trabalho, foram utilizadas ferramentas de Inteligência Artificial (IA) como recurso de apoio, com a finalidade de auxiliar na organização e no aprimoramento do conteúdo apresentado.
+
+A utilização ocorreu de forma complementar, principalmente para revisão ortográfica e gramatical, correção e aprimoramento de textos, sugestões de ajustes em banners e elementos visuais, além de apoio na organização das ideias e revisão geral do material.
+
+Ressaltamos que as ferramentas de IA não substituíram o processo de pesquisa, análise, discussão e tomada de decisões do grupo. Todo o conteúdo gerado ou sugerido foi avaliado, revisado e adaptado pelos integrantes, que permanecem responsáveis pela versão final do trabalho.
+
+Dessa forma, a Inteligência Artificial foi utilizada como ferramenta auxiliar, contribuindo para a qualidade da apresentação e organização do trabalho, sem comprometer a autoria e a responsabilidade acadêmica dos participantes.
 
 ---
 
