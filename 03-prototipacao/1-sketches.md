@@ -46,7 +46,9 @@ Foram desenvolvidas duas propostas para o gerenciamento dos produtos:
 
 - **Alternativa A:** apresenta a lista de produtos e os formulários de cadastro e edição em telas separadas.
   
-  image
+  <img width="1209" height="882" alt="WhatsApp Image 2026-11-23 at 10 09 47" src="https://github.com/user-attachments/assets/0967943b-bbb8-4486-b84b-7b5ca50eb40a" />
+    <p align="center"><sub><b>Figura 3.</b> Sketches - Produtos-A: Lista e formulários em telas separadas.</sub></p>
+
   
 - **Alternativa B:** utiliza abas, grade de produtos e painel de edição, concentrando diferentes funcionalidades em uma mesma área.
 
