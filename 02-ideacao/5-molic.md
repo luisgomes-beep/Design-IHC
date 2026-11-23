@@ -72,7 +72,7 @@ A partir dessa tela, a vendedora pode realizar duas ações relacionadas: atuali
 
 Depois que a vendedora realiza a atualização do estoque e confirma o pedido, o sistema processa essas informações para registrar as alterações realizadas. Essa etapa é representada por outro quadrado preto no diagrama. Quando o processamento é concluído, o sistema envia uma resposta indicando que os dados foram atualizados. Essa resposta permite que a interação avance para a próxima cena.
 
-Após o processamento das informações, a vendedora é direcionada para a cena de atualização confirmada, na qual o sistema apresenta uma mensagem informando que as alterações foram realizadas com sucesso.Essa etapa é importante porque fornece um retorno à vendedora, permitindo que ela saiba que a atualização do estoque e a confirmação do pedido foram registradas pelo sistema. Por fim, a vendedora realiza a ação de encerrar a interação. Essa transição leva ao estado final do diagrama, representado pelo círculo duplo, indicando que o fluxo de interação foi concluído.
+Após o processamento das informações, a vendedora é direcionada para a cena de atualização confirmada, na qual o sistema apresenta uma mensagem informando que as alterações foram realizadas com sucesso.Essa etapa é importante porque fornece um retorno à vendedora, permitindo que ela saiba que a atualização do estoque e a confirmação do pedido foram registradas pelo sistema. Por fim, a vendedora realiza a ação de encerrar a interação. Essa transição leva ao estado final do diagrama. 
 
 De maneira geral, esse fluxo permite que a vendedora tenha controle sobre suas atividades dentro do CAMP FOOD, facilitando o gerenciamento dos produtos, do estoque e dos pedidos recebidos. Além disso, a mensagem de confirmação serve como um retorno do sistema, garantindo que a vendedora tenha conhecimento de que as alterações solicitadas foram processadas.
 
@@ -83,9 +83,22 @@ imagemmmmmm
 
 
 
+### 5.3.4. MoLIC : Fluxo do Comprador
 
 
+O fluxo começa na cena do catálogo de vendedores, onde o usuário pode visualizar a lista de vendedores disponíveis na plataforma, além de consultar os produtos, preços e sua disponibilidade. A partir dessas informações, o comprador pode escolher um produto e consultar mais detalhes sobre ele e sobre o vendedor responsável pela venda. Essa funciona como o ponto inicial da busca do usuário, permitindo que ele conheça as opções disponíveis antes de decidir o que deseja comprar. Após o usuário selecionar a opção de consultar um produto e vendedor, o sistema realiza o processamento dessa solicitação. Essa etapa tem como função apresentar as informações solicitadas, encaminhando o usuário para a próxima cena.
 
+Nessa cena, o comprador tem acesso a informações mais específicas sobre o produto e o vendedor, como descrição, preço, localização e chat. Também é apresentada a opção de confirmar o pedido, permitindo que o usuário dê continuidade à compra. Essa etapa oferece ao comprador as informações necessárias para avaliar o produto antes de realizar o pedido. Caso decida continuar, ele pode selecionar a opção de confirmação da compra. Além disso, o diagrama apresenta uma alternativa para essa cena: o usuário pode desistir ou voltar ao catálogo. Dessa forma, o comprador pode continuar procurando outros produtos ou vendedores sem precisar concluir a compra atual.
+
+Quando o comprador decide confirmar a compra, o sistema recebe essa solicitação e realiza o processamento do pedido. Após o processamento, o sistema registra o pedido e encaminha o usuário para a cena de confirmação. Essa transição representa a resposta do sistema à ação realizada pelo comprador, indicando que a solicitação foi registrada.
+
+Depois que o pedido é registrado, o comprador é direcionado para a cena de pedido confirmado. Nessa etapa, o sistema apresenta uma mensagem de confirmação acompanhada de um resumo do pedido, permitindo que o usuário tenha um retorno sobre a compra realizada.  Por fim, o usuário pode selecionar a opção de sair, encerrando o fluxo de interação. 
+
+esse fluxo permite que o comprador utilize o CAMP FOOD para pesquisar vendedores, consultar produtos e realizar pedidos de forma organizada. A possibilidade de visualizar os detalhes antes da compra ajuda na tomada de decisão, enquanto a opção de desistir ou voltar ao catálogo oferece mais liberdade durante a navegação. Por fim, a confirmação do pedido fornece um retorno ao usuário sobre a conclusão da solicitação.
+
+
+imagemmmm
+<p align="center"><sub><b>Figura 4.</b> MoLIC: Fluxo do Comprador - Consultar a compra.</sub></p>
 
 
 
