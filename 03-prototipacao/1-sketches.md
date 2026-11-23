@@ -27,13 +27,14 @@ Foram elaboradas duas alternativas para a tela de acesso:
 
     <img width="1149" height="862" alt="WhatsApp Image 2026-11-23 at 10 09 47" src="https://github.com/user-attachments/assets/7c658c63-e3cc-418e-9df4-bd78f9fb9dd2" />
     
-    <p align="center"><sub><b>Figura 1.</b> Sketches- Acesso e criar contas em abas .</sub></p>
+    <p align="center"><sub><b>Figura 1.</b> Sketches - Acesso-A: Entrar e criar contas em abas.</sub></p>
 
 
     
 
 - **Alternativa B:** organiza o acesso e o cadastro em caminhos separados, oferecendo uma escolha inicial ao usuário.
-imagem
+<img width="944" height="655" alt="WhatsApp Image 2026-11-23 at 10 19 57" src="https://github.com/user-attachments/assets/478847a2-1842-45fc-a41f-d7cc6da41b9c" />
+<p align="center"><sub><b>Figura 1.</b> Sketches - acessar-B: Caminhos separados .</sub></p>
 
 As propostas buscam facilitar a identificação das opções de acesso e tornar o processo de autenticação mais simples.
 
