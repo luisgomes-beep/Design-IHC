@@ -62,6 +62,8 @@ De modo geral, esse fluxo organiza as primeiras etapas de utilização do CAMP F
 
 <p align="center"><sub><b>Figura 2.</b> MoLIC: Acesso e autenticação.</sub></p>
 
+[MoLIC: Acesso e autenticação. - draw.io](https://drive.google.com/file/d/1pn6FBPpNuAs02sHDi5h20OwmIoQhwfYr/view?usp=sharing)
+
 
 
 
