@@ -81,9 +81,11 @@ Após o processamento das informações, a vendedora é direcionada para a cena 
 De maneira geral, esse fluxo permite que a vendedora tenha controle sobre suas atividades dentro do CAMP FOOD, facilitando o gerenciamento dos produtos, do estoque e dos pedidos recebidos. Além disso, a mensagem de confirmação serve como um retorno do sistema, garantindo que a vendedora tenha conhecimento de que as alterações solicitadas foram processadas.
 
 
+<img width="3393" height="795" alt="molic drawio" src="https://github.com/user-attachments/assets/25e07cbb-52dc-4156-91dc-9752ba5e898f" />
 
-imagemmmmmm
 <p align="center"><sub><b>Figura 3.</b> MoLIC: Fluxo da vendedora - Gestão de Vendas.</sub></p>
+
+[MoLIC: Fluxo da Vendedora - draw.io](https://drive.google.com/file/d/1pn6FBPpNuAs02sHDi5h20OwmIoQhwfYr/view?usp=sharing)
 
 
 
