@@ -29,7 +29,8 @@ Foram elaboradas duas alternativas para a tela de acesso:
 
 - **Alternativa B:** organiza o acesso e o cadastro em caminhos separados, oferecendo uma escolha inicial ao usuário.
 
-  image
+  <img width="1149" height="862" alt="WhatsApp Image 2026-11-23 at 10 09 47" src="https://github.com/user-attachments/assets/7c658c63-e3cc-418e-9df4-bd78f9fb9dd2" />
+
 
 As propostas buscam facilitar a identificação das opções de acesso e tornar o processo de autenticação mais simples.
 
