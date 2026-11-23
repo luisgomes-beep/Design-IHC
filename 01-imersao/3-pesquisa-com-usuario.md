@@ -186,7 +186,7 @@ A partir da análise das respostas, foram identificadas funcionalidades que pode
 
 Os resultados da pesquisa complementar ampliaram a compreensão da equipe sobre o público comprador do Camp Food. As informações obtidas evidenciaram que a solução deve considerar não apenas a divulgação dos produtos, mas também a facilidade de localização dos vendedores, a consulta à disponibilidade dos alimentos e a agilidade na comunicação.
 
-Esses aspectos servirão de base para as próximas etapas do projeto, especialmente na elaboração das personas, na definição dos objetivos do sistema e na identificação de funcionalidades prioritárias.
+Esses aspectos serviram de base para as próximas etapas do projeto, especialmente na elaboração das personas, na definição dos objetivos do sistema e na identificação de funcionalidades prioritárias.
 
 ## 8. Considerações finais
 
