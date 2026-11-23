@@ -61,7 +61,7 @@ O esboço apresenta informações como:
 - Quantidades dos itens;
 - Situação do pedido;
 - Opções para confirmar o atendimento ou informar a impossibilidade de atendê-lo.
-
+---
  - **Alternativa A:**
   image
   
