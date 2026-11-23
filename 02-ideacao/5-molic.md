@@ -105,8 +105,10 @@ Depois que o pedido é registrado, o comprador é direcionado para a cena de ped
 esse fluxo permite que o comprador utilize o CAMP FOOD para pesquisar vendedores, consultar produtos e realizar pedidos de forma organizada. A possibilidade de visualizar os detalhes antes da compra ajuda na tomada de decisão, enquanto a opção de desistir ou voltar ao catálogo oferece mais liberdade durante a navegação. Por fim, a confirmação do pedido fornece um retorno ao usuário sobre a conclusão da solicitação.
 
 
-imagemmmm
+<img width="3228" height="927" alt="molic drawio (1)" src="https://github.com/user-attachments/assets/03390086-8316-445c-bb88-02de8d2ae4ea" />
+
 <p align="center"><sub><b>Figura 4.</b> MoLIC: Fluxo do Comprador - Consultar a compra.</sub></p>
+https://drive.google.com/file/d/16XwfPN5qItE314XTDhTTYp6WUD2S4bC8/view?usp=sharing
 
 
 
