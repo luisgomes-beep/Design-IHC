@@ -124,8 +124,9 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 
 - **GitHub** — organização e documentação do projeto;
 - **Markdown** — elaboração dos documentos;
-- **Ferramentas de diagramas e prototipação** — a definir conforme as necessidades do projeto.
-
+- **Draw.io** — criação de diagramas, fluxogramas e representações visuais;
+- **Canva** — elaboração e edição de banners e materiais visuais;
+- **ChatGPT** — ferramenta de apoio para revisão ortográfica e gramatical, aprimoramento de textos, organização de ideias, sugestões de ajustes visuais e suporte durante o desenvolvimento do projeto.
 ---
 
 ## ● Equipe
