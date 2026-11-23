@@ -71,7 +71,8 @@ O esboço apresenta informações como:
 - Opções para confirmar o atendimento ou informar a impossibilidade de atendê-lo.
 ---
  - **Alternativa A:**
-<img width="913" height="884" alt="WhatsApp Image 2026-11-23 at 10 10 00" src="https://github.com/user-attachments/assets/3f54552e-2251-4d2f-ae59-a6a9651346ff" />
+<img width="1265" height="1600" alt="WhatsApp Image 2026-11-23 at 11 39 22" src="https://github.com/user-attachments/assets/85c2fa1f-2521-4cf4-b227-6ac453abaecd" />
+
  <p align="center"><sub><b>Figura 5.</b> Sketches - pedidos-A: Pedidos Recebidos</sub></p>
   
  - **Alternativa B:**
