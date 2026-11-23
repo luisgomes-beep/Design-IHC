@@ -88,7 +88,9 @@ Foram elaboradas duas alternativas para a navegação e descoberta de produtos:
 
 - **Alternativa A:** organiza a exploração em duas etapas, primeiro apresentando a lista de vendedores e depois os produtos disponíveis de cada vendedor.
 
-  image
+  <img width="1092" height="734" alt="WhatsApp Image 2026-11-23 at 10 10 01" src="https://github.com/user-attachments/assets/bebb687b-0d2b-4aa5-9833-5decf948758c" />
+   <p align="center"><sub><b>Figura 6.</b> Sketches - explorar A: Vendedores e produtos e duas etapas</sub></p>
+
   
 - **Alternativa B:** apresenta uma lista única expansível, permitindo visualizar vendedores e acessar seus produtos dentro da mesma estrutura.
 
