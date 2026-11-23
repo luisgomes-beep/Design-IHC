@@ -75,8 +75,7 @@ O esboço apresenta informações como:
 
  <p align="center"><sub><b>Figura 5.</b> Sketches - pedidos-A: Pedidos Recebidos</sub></p>
   
- - **Alternativa B:**
-  image
+
   
 ---
 
