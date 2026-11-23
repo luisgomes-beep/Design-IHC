@@ -63,6 +63,8 @@ A seguir, apresenta-se a Matriz CSD elaborada pela equipe para o projeto Camp Fo
 
 <p align="center"><sub><b>Figura 2.</b> Matriz CSD do Camp Food, organizada em certezas, suposições e dúvidas.</sub></p>
 
+[MATRIZ CSD: - Canva](https://canva.link/u7qjy919yb9fxng)
+
 ### 3.6. Certezas
 
 As certezas correspondem às informações sustentadas pelas evidências disponíveis durante o levantamento inicial.
