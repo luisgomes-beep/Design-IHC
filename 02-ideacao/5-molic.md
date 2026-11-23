@@ -41,7 +41,7 @@ O diagrama também considera a possibilidade de o usuário desistir da compra ou
 
 [MoLIC Geral - draw.io](https://drive.google.com/file/d/1u6z7g64PHZ-KXQ4l9CtHR6zHCivfZNO-/view?usp=sharing)
 
-
+---
 
 
 
@@ -65,7 +65,7 @@ De modo geral, esse fluxo organiza as primeiras etapas de utilização do CAMP F
 [MoLIC: Acesso e autenticação. - draw.io](https://drive.google.com/file/d/1pn6FBPpNuAs02sHDi5h20OwmIoQhwfYr/view?usp=sharing)
 
 
-
+---
 
 ### 5.3.3. MoLIC : Fluxo da Vendedora
 
@@ -90,7 +90,7 @@ De maneira geral, esse fluxo permite que a vendedora tenha controle sobre suas a
 [MoLIC: Fluxo da Vendedora - draw.io](https://drive.google.com/file/d/1pn6FBPpNuAs02sHDi5h20OwmIoQhwfYr/view?usp=sharing)
 
 
-
+---
 ### 5.3.4. MoLIC : Fluxo do Comprador
 
 
