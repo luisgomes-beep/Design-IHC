@@ -94,7 +94,7 @@ Foram elaboradas duas alternativas para a navegação e descoberta de produtos:
   
 - **Alternativa B:** apresenta uma lista única expansível, permitindo visualizar vendedores e acessar seus produtos dentro da mesma estrutura.
 
- <img width="702" height="780" alt="Captura de tela 2026-11-23 120145" src="https://github.com/user-attachments/assets/cd0854d0-8ea7-471d-abc0-eac8ceff115a" />
+<img width="1062" height="748" alt="Captura de tela 2026-11-23 120829" src="https://github.com/user-attachments/assets/c481b764-d780-43b2-8833-6cc81bea1be1" />
  <p align="center"><sub><b>Figura 7.</b> Sketches - explorar -B: lista única expansível</sub></p>
 
 
