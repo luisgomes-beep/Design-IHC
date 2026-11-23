@@ -26,7 +26,8 @@ Foram elaboradas duas alternativas para a tela de acesso:
 - **Alternativa A:** apresenta as opções de entrar e criar conta em abas, permitindo alternar entre os formulários na mesma interface.
 
   image
-  
+  <img width="900" alt="image" src="https://github.com/user-attachments/assets/bcdb3e00-0f9e-4555-8e90-3b9474239d83" />
+
 - **Alternativa B:** organiza o acesso e o cadastro em caminhos separados, oferecendo uma escolha inicial ao usuário.
 
   image
