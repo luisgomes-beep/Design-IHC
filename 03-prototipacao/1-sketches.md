@@ -53,7 +53,7 @@ Foram desenvolvidas duas propostas para o gerenciamento dos produtos:
 - **Alternativa B:** utiliza abas, grade de produtos e painel de edição, concentrando diferentes funcionalidades em uma mesma área.
 
   <img width="1173" height="716" alt="Captura de tela 2026-11-23 104437" src="https://github.com/user-attachments/assets/c62a59e6-9a82-4605-a30d-f47841e8d932" />
- <p align="center"><sub><b>Figura 3.</b> Sketches - Produtos-B: Abas, grade e painel de edição</sub></p>
+ <p align="center"><sub><b>Figura 4.</b> Sketches - Produtos-B: Abas, grade e painel de edição</sub></p>
  
 As alternativas permitem analisar diferentes formas de cadastrar produtos, editar informações e atualizar a disponibilidade do estoque.
 
@@ -71,7 +71,8 @@ O esboço apresenta informações como:
 - Opções para confirmar o atendimento ou informar a impossibilidade de atendê-lo.
 ---
  - **Alternativa A:**
-  image
+<img width="913" height="884" alt="WhatsApp Image 2026-11-23 at 10 10 00" src="https://github.com/user-attachments/assets/3f54552e-2251-4d2f-ae59-a6a9651346ff" />
+ <p align="center"><sub><b>Figura 5.</b> Sketches - pedidos-A: Pedidos Recebidos</sub></p>
   
  - **Alternativa B:**
   image
