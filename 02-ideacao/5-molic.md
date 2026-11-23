@@ -111,6 +111,10 @@ esse fluxo permite que o comprador utilize o CAMP FOOD para pesquisar vendedores
 
 [MoLIC: Fluxo do Comprador - draw.io](https://drive.google.com/file/d/16XwfPN5qItE314XTDhTTYp6WUD2S4bC8/view?usp=sharing)
 
+---
+# 6. Considerações finais
+
+
 
 
 <p align="center">⬅️ <a href="4-htas.md">HTAs</a> &nbsp;·&nbsp; <a href="../README.md"> Voltar ao início</a> &nbsp;·&nbsp; <a href="../03-prototipacao/1-sketches.md">Sketches</a> ➡️</p>
