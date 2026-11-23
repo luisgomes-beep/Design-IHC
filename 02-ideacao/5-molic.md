@@ -113,7 +113,7 @@ esse fluxo permite que o comprador utilize o CAMP FOOD para pesquisar vendedores
 
 ---
 # 6. Considerações finais
-
+A construção dos diagramas MoLIC foi importante para compreender e organizar como será a interação dos usuários com o CAMP FOOD. Durante esse processo, foi possível representar os principais caminhos que compradores e vendedores poderão seguir dentro da plataforma, considerando suas ações e as respostas esperadas do sistema. A partir dos diagramas, conseguimos visualizar melhor cada etapa da interação, desde o acesso à plataforma até o gerenciamento de vendas e a realização de compras.
 
 
 
