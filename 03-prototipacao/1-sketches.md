@@ -94,7 +94,9 @@ Foram elaboradas duas alternativas para a navegação e descoberta de produtos:
   
 - **Alternativa B:** apresenta uma lista única expansível, permitindo visualizar vendedores e acessar seus produtos dentro da mesma estrutura.
 
-  image
+ <img width="702" height="780" alt="Captura de tela 2026-11-23 120145" src="https://github.com/user-attachments/assets/cd0854d0-8ea7-471d-abc0-eac8ceff115a" />
+ <p align="center"><sub><b>Figura 7.</b> Sketches - explorar -B: lista única expansível</sub></p>
+
 
 As propostas buscam facilitar a localização de vendedores e produtos disponíveis no ambiente universitário.
 
