@@ -24,7 +24,12 @@ O desenvolvimento foi realizado por meio da criação de esboços das principais
 Foram elaboradas duas alternativas para a tela de acesso:
 
 - **Alternativa A:** apresenta as opções de entrar e criar conta em abas, permitindo alternar entre os formulários na mesma interface.
+
+  image
+  
 - **Alternativa B:** organiza o acesso e o cadastro em caminhos separados, oferecendo uma escolha inicial ao usuário.
+
+  image
 
 As propostas buscam facilitar a identificação das opções de acesso e tornar o processo de autenticação mais simples.
 
@@ -35,8 +40,13 @@ As propostas buscam facilitar a identificação das opções de acesso e tornar 
 Foram desenvolvidas duas propostas para o gerenciamento dos produtos:
 
 - **Alternativa A:** apresenta a lista de produtos e os formulários de cadastro e edição em telas separadas.
+  
+  image
+  
 - **Alternativa B:** utiliza abas, grade de produtos e painel de edição, concentrando diferentes funcionalidades em uma mesma área.
 
+  image
+ 
 As alternativas permitem analisar diferentes formas de cadastrar produtos, editar informações e atualizar a disponibilidade do estoque.
 
 ---
@@ -54,6 +64,8 @@ O esboço apresenta informações como:
 
 A proposta busca facilitar a visualização e o gerenciamento das solicitações.
 
+image
+
 ---
 
 ## 3. Sketches — Perfil Comprador
@@ -63,7 +75,12 @@ A proposta busca facilitar a visualização e o gerenciamento das solicitações
 Foram elaboradas duas alternativas para a navegação e descoberta de produtos:
 
 - **Alternativa A:** organiza a exploração em duas etapas, primeiro apresentando a lista de vendedores e depois os produtos disponíveis de cada vendedor.
+
+  image
+  
 - **Alternativa B:** apresenta uma lista única expansível, permitindo visualizar vendedores e acessar seus produtos dentro da mesma estrutura.
+
+  image
 
 As propostas buscam facilitar a localização de vendedores e produtos disponíveis no ambiente universitário.
 
@@ -74,7 +91,12 @@ As propostas buscam facilitar a localização de vendedores e produtos disponív
 Foram elaboradas duas alternativas para a apresentação das informações de um produto:
 
 - **Alternativa A:** reúne as informações e as ações em uma única página, incluindo preço, disponibilidade, descrição, vendedor e realização do pedido.
+
+  image
+  
 - **Alternativa B:** utiliza um resumo fixo e abas para separar as informações do produto e do vendedor, buscando organizar melhor o conteúdo.
+
+image
 
 As interfaces também apresentam recursos para selecionar a quantidade desejada e realizar pedidos.
 
