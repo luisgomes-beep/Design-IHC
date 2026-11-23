@@ -62,7 +62,12 @@ O esboço apresenta informações como:
 - Situação do pedido;
 - Opções para confirmar o atendimento ou informar a impossibilidade de atendê-lo.
 
-A proposta busca facilitar a visualização e o gerenciamento das solicitações.
+- **Alternativa A**
+
+
+  
+- **Alternativa B**
+
 
 image
 
