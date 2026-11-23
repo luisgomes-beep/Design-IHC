@@ -63,11 +63,11 @@ O esboço apresenta informações como:
 - Opções para confirmar o atendimento ou informar a impossibilidade de atendê-lo.
 
 
-  **Alternativa A**
+  - **Alternativa A**
 
   image
   
-  **Alternativa B**
+  - **Alternativa B**
 
   image
 
