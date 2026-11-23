@@ -57,7 +57,8 @@ De modo geral, esse fluxo organiza as primeiras etapas de utilização do CAMP F
 
 
 
-<img width="736" height="414" alt="#banner #discord #ayaoosawa" src="https://github.com/user-attachments/assets/f62153b1-7709-4aff-9d76-b5e452304d0c" />
+<img width="10000" height="1193" alt="drawio" src="https://github.com/user-attachments/assets/3ae417b0-c016-4448-8e13-985726d0bf87" />
+
 
 <p align="center"><sub><b>Figura 2.</b> MoLIC: Acesso e autenticação.</sub></p>
 
