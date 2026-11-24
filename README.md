@@ -126,7 +126,9 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 - **Markdown** — elaboração dos documentos;
 - **Draw.io** — criação de diagramas, fluxogramas e representações visuais;
 - **Canva** — elaboração e edição de banners e materiais visuais;
-- **ChatGPT** — ferramenta de apoio para revisão ortográfica e gramatical, aprimoramento de textos, organização de ideias, sugestões de ajustes visuais e suporte durante o desenvolvimento do projeto.
+- **ChatGPT** — ferramenta de apoio para revisão ortográfica e gramatical, aprimoramento de textos, organização de ideias, sugestões de ajustes visuais e suporte durante o desenvolvimento do projeto;
+- **Balsamiq** — elaboração dos sketches.
+- **Krita** — Criação de elementos estéticos e animação de dos mesmos.
 ---
 
 ## ● Equipe
@@ -174,7 +176,6 @@ Design-IHC/
 │   ├── 3-mapa-de-objetivos.md
 │   ├── 4-htas.md
 │   ├── 5-molic.md
-│   └── *.png                # mapas de objetivos e HTAs
 └── 03-prototipacao/
     └── 1-sketches.md
 ```
