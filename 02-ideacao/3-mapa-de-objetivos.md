@@ -49,7 +49,8 @@ O mapa demonstra que essas funcionalidades são compartilhadas pelas três perso
 
 
 <img width="4320" height="2430" alt="Mapa acessar" src="https://github.com/user-attachments/assets/057e6082-4c0b-4314-b56f-8e6aa06b5311" />
-*Figura 2 — Mapa de Objetivos de Acesso e Login do Camp Food, contemplando as três personas.*
+
+*Figura 2 — Mapa de Objetivos de Acesso e Login do Camp Food,contemplando as três personas.*
 
 ### 3.2.2 Mariana Oliveira — Usuária Vendedora (UV)
 
