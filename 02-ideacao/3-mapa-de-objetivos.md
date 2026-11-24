@@ -80,8 +80,11 @@ A organização desses objetivos evidencia a importância de reunir informaçõe
 
 *Figura 4 — Mapa de Objetivos de Gabriel Santos (Usuário Comprador).*
 
-### 3.2.4<img width="4320" height="2430" alt="Mapa acessar" src="https://github.com/user-attachments/assets/bfafb6b7-5fa7-42b5-857c-8fa536da896a" />
- Camila Rodrigues — Usuária Compradora com Necessidades de Acessibilidade (UCA)
+### 3.2.4 Camila Rodrigues — Usuária Compradora com Necessidades de Acessibilidade (UCA)
+
+<img width="4320" height="2430" alt="Mapa acessar" src="https://github.com/user-attachments/assets/bfafb6b7-5fa7-42b5-857c-8fa536da896a" />
+ 
+ *Figura 5 — Mapa de Objetivos de Camila Rodrigues (Usuária Compradora com Necessidades de Acessibilidade).*
 
 Camila Rodrigues representa o perfil de usuária compradora utilizado para orientar a consideração de requisitos de acessibilidade no Camp Food. Sua persona foi elaborada considerando possíveis barreiras encontradas durante a utilização de plataformas digitais, especialmente aquelas relacionadas à visualização de informações, à identificação de elementos da interface e à navegação autônoma.
 
