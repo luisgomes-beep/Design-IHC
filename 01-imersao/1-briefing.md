@@ -170,7 +170,7 @@ Compreender como o vendedor organiza suas vendas através da entrevista, divulga
   * Ocorrências pontuais de clientes procurarem produtos que já haviam acabado.
 
 * Necessidades e Prioridades Mencionadas:  
-  * Acredita que um aplicativo ajudaria a aumentar e organizar o alcance das vendas).  
+  * Acredita que um aplicativo ajudaria a aumentar e organizar o alcance das vendas.  
   * O aplicativo ideal para seu uso precisa ter baixo consumo de memória (espaço de armazenamento), funções off-line e um design diferente.
 
 * Restrições:  

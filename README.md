@@ -128,7 +128,7 @@ As ferramentas são registradas conforme forem utilizadas pela equipe durante o 
 - **Canva** — elaboração e edição de banners e materiais visuais;
 - **ChatGPT** — ferramenta de apoio para revisão ortográfica e gramatical, aprimoramento de textos, organização de ideias, sugestões de ajustes visuais e suporte durante o desenvolvimento do projeto;
 - **Balsamiq** — elaboração dos sketches.
-- **Krita** — Criação de elementos estéticos e animação de dos mesmos.
+- **Krita** — Criação de elementos estéticos e animação dos mesmos.
 ---
 
 ## ● Equipe

@@ -108,7 +108,7 @@ Foram elaboradas duas alternativas para a apresentação das informações de um
 - **Alternativa A:** reúne as informações e as ações em uma única página, incluindo preço, disponibilidade, descrição, vendedor e realização do pedido.
 
  <img width="1484" height="993" alt="WhatsApp Image 2026-11-23 at 10 09 47 (1)" src="https://github.com/user-attachments/assets/2c7db9e6-c305-4d85-9f12-24c4a5336aec" />
- <p align="center"><sub><b>Figura 8.</b> Sketches - etalhe-A: Página única</sub></p>
+ <p align="center"><sub><b>Figura 8.</b> Sketches - Detalhe-A: Página única</sub></p>
 
   
 - **Alternativa B:** utiliza um resumo fixo e abas para separar as informações do produto e do vendedor, buscando organizar melhor o conteúdo.
