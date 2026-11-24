@@ -50,7 +50,7 @@ O mapa demonstra que essas funcionalidades são compartilhadas pelas três perso
 
 <img width="4320" height="2430" alt="Mapa acessar" src="https://github.com/user-attachments/assets/057e6082-4c0b-4314-b56f-8e6aa06b5311" />
 
-*Figura 2 — Mapa de Objetivos de Acesso e Login do Camp Food,contemplando as três personas.*
+*Figura 2 — Mapa de Objetivos de Acesso e Login do Camp Food, contemplando as três personas.*
 
 ### 3.2.2 Mariana Oliveira — Usuária Vendedora (UV)
 
@@ -64,7 +64,7 @@ A representação demonstra como esses objetivos contribuem para uma experiênci
   <img src="../assets/mapa%20mariana.png" alt="Mapa de Objetivos de Mariana Oliveira" width="100%">
 </p>
 
-*Figura  3— Mapa de Objetivos de Mariana Oliveira (Usuária Vendedora).*
+*Figura 3 — Mapa de Objetivos de Mariana Oliveira (Usuária Vendedora).*
 
 ### 3.2.3 Gabriel Santos — Usuário Comprador (UC)
 
@@ -101,7 +101,7 @@ Ressalta-se que essa persona possui caráter hipotético e foi desenvolvida como
 
 A construção dos mapas permitiu organizar as necessidades dos diferentes perfis de usuários e compreender como elas se relacionam dentro da proposta do Camp Food. Embora cada persona apresente objetivos próprios, suas experiências estão conectadas pela utilização de uma mesma plataforma, na qual vendedores e compradores participam de etapas complementares da comercialização de alimentos.
 
-Enquanto os objetivos de Mariana estão concentrados na divulgação e na organização das vendas, os de Gabriel estão relacionados à busca por produtos e à realização de compras. Já os objetivos de Camila acrescentam a perspectiva da acessibilidade, destacando a necessidade de proporcionar condições adequadas de nave
+Enquanto os objetivos de Mariana estão concentrados na divulgação e na organização das vendas, os de Gabriel estão relacionados à busca por produtos e à realização de compras. Já os objetivos de Camila acrescentam a perspectiva da acessibilidade, destacando a necessidade de proporcionar condições adequadas de navegação e de acesso às informações, de modo que todos possam utilizar a plataforma com autonomia.
 
 ---
 

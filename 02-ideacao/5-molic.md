@@ -78,7 +78,7 @@ A partir dessa tela, a vendedora pode realizar duas ações relacionadas: atuali
 
 Depois que a vendedora realiza a atualização do estoque e confirma o pedido, o sistema processa essas informações para registrar as alterações realizadas. Essa etapa é representada por outro quadrado preto no diagrama. Quando o processamento é concluído, o sistema envia uma resposta indicando que os dados foram atualizados. Essa resposta permite que a interação avance para a próxima cena.
 
-Após o processamento das informações, a vendedora é direcionada para a cena de atualização confirmada, na qual o sistema apresenta uma mensagem informando que as alterações foram realizadas com sucesso.Essa etapa é importante porque fornece um retorno à vendedora, permitindo que ela saiba que a atualização do estoque e a confirmação do pedido foram registradas pelo sistema. Por fim, a vendedora realiza a ação de encerrar a interação. Essa transição leva ao estado final do diagrama. 
+Após o processamento das informações, a vendedora é direcionada para a cena de atualização confirmada, na qual o sistema apresenta uma mensagem informando que as alterações foram realizadas com sucesso. Essa etapa é importante porque fornece um retorno à vendedora, permitindo que ela saiba que a atualização do estoque e a confirmação do pedido foram registradas pelo sistema. Por fim, a vendedora realiza a ação de encerrar a interação. Essa transição leva ao estado final do diagrama. 
 
 De maneira geral, esse fluxo permite que a vendedora tenha controle sobre suas atividades dentro do CAMP FOOD, facilitando o gerenciamento dos produtos, do estoque e dos pedidos recebidos. Além disso, a mensagem de confirmação serve como um retorno do sistema, garantindo que a vendedora tenha conhecimento de que as alterações solicitadas foram processadas.
 
@@ -102,7 +102,7 @@ Quando o comprador decide confirmar a compra, o sistema recebe essa solicitaçã
 
 Depois que o pedido é registrado, o comprador é direcionado para a cena de pedido confirmado. Nessa etapa, o sistema apresenta uma mensagem de confirmação acompanhada de um resumo do pedido, permitindo que o usuário tenha um retorno sobre a compra realizada.  Por fim, o usuário pode selecionar a opção de sair, encerrando o fluxo de interação. 
 
-esse fluxo permite que o comprador utilize o CAMP FOOD para pesquisar vendedores, consultar produtos e realizar pedidos de forma organizada. A possibilidade de visualizar os detalhes antes da compra ajuda na tomada de decisão, enquanto a opção de desistir ou voltar ao catálogo oferece mais liberdade durante a navegação. Por fim, a confirmação do pedido fornece um retorno ao usuário sobre a conclusão da solicitação.
+Esse fluxo permite que o comprador utilize o CAMP FOOD para pesquisar vendedores, consultar produtos e realizar pedidos de forma organizada. A possibilidade de visualizar os detalhes antes da compra ajuda na tomada de decisão, enquanto a opção de desistir ou voltar ao catálogo oferece mais liberdade durante a navegação. Por fim, a confirmação do pedido fornece um retorno ao usuário sobre a conclusão da solicitação.
 
 
 <img width="3228" height="927" alt="molic drawio (1)" src="https://github.com/user-attachments/assets/03390086-8316-445c-bb88-02de8d2ae4ea" />
