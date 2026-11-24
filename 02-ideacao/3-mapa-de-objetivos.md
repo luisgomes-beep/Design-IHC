@@ -98,7 +98,7 @@ Ressalta-se que essa persona possui caráter hipotético e foi desenvolvida como
   <img src="../assets/mapa%20camila.png" alt="Mapa de Objetivos de Camila Rodrigues" width="100%">
 </p>
 
-*Figura 5 — Mapa de Objetivos de Camila Rodrigues (Usuária Compradora com Necessidades de Acessibilidade).*
+*Figura 6 — Mapa de Objetivos de Camila Rodrigues (Usuária Compradora com Necessidades de Acessibilidade).*
 
 ## 3.3 Considerações sobre os Mapas de Objetivos
 
