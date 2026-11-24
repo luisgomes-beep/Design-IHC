@@ -34,7 +34,24 @@ Após a apresentação da visão geral, foram elaborados mapas individuais para 
 
 Cada mapa apresenta uma estrutura própria, organizada a partir do objetivo principal da persona e de seus respectivos desdobramentos. Dessa maneira, torna-se possível identificar quais resultados cada usuário pretende alcançar e quais objetivos específicos estão associados à sua experiência de interação com o sistema.
 
-### 3.2.1 Mariana Oliveira — Usuária Vendedora (UV)
+### 3.2.1 Mapa de Objetivos — Acesso e Login
+
+O Mapa de Objetivos de Acesso e Login representa os objetivos comuns às três personas do Camp Food: Usuária Vendedora (UV), Usuário Comprador (UC) e Usuária Compradora com Necessidades de Acessibilidade (UCA).
+
+O objetivo final consiste em **acessar o Camp Food para utilizar as funcionalidades da plataforma**. Para alcançá-lo, foram definidos quatro objetivos específicos:
+
+- Criar uma conta para utilizar o Camp Food;
+- Entrar na plataforma com uma conta existente;
+- Recuperar o acesso à conta em caso de esquecimento das credenciais;
+- Manter os dados de acesso associados à conta.
+
+O mapa demonstra que essas funcionalidades são compartilhadas pelas três personas, pois todas precisam de uma forma de acesso à plataforma. Dessa maneira, o diagrama reúne os objetivos necessários para garantir que diferentes usuários consigam acessar o sistema e utilizar seus recursos.
+
+
+<img width="4320" height="2430" alt="Mapa acessar" src="https://github.com/user-attachments/assets/057e6082-4c0b-4314-b56f-8e6aa06b5311" />
+*Figura 2 — Mapa de Objetivos de Acesso e Login do Camp Food, contemplando as três personas.*
+
+### 3.2.2 Mariana Oliveira — Usuária Vendedora (UV)
 
 Mariana Oliveira representa o perfil de usuária responsável pela comercialização de alimentos no ambiente universitário. Sua persona considera as dificuldades enfrentadas por vendedores que utilizam aplicativos de mensagens e redes sociais para divulgar seus produtos, responder aos interessados e informar alterações na disponibilidade dos alimentos. Esse contexto pode tornar o atendimento menos organizado, especialmente quando há diferentes compradores interessados e mudanças frequentes nas quantidades disponíveis.
 
@@ -46,9 +63,9 @@ A representação demonstra como esses objetivos contribuem para uma experiênci
   <img src="../assets/mapa%20mariana.png" alt="Mapa de Objetivos de Mariana Oliveira" width="100%">
 </p>
 
-*Figura 2 — Mapa de Objetivos de Mariana Oliveira (Usuária Vendedora).*
+*Figura  3— Mapa de Objetivos de Mariana Oliveira (Usuária Vendedora).*
 
-### 3.2.2 Gabriel Santos — Usuário Comprador (UC)
+### 3.2.3 Gabriel Santos — Usuário Comprador (UC)
 
 Gabriel Santos representa o perfil de usuário interessado em encontrar e adquirir alimentos comercializados no ambiente universitário. Sua persona considera dificuldades como localizar vendedores, encontrar informações sobre os produtos e confirmar se determinado alimento ainda está disponível antes de se deslocar até o ponto de venda.
 
@@ -60,9 +77,10 @@ A organização desses objetivos evidencia a importância de reunir informaçõe
   <img src="../assets/mapa%20gabriel.png" alt="Mapa de Objetivos de Gabriel Santos" width="100%">
 </p>
 
-*Figura 3 — Mapa de Objetivos de Gabriel Santos (Usuário Comprador).*
+*Figura 4 — Mapa de Objetivos de Gabriel Santos (Usuário Comprador).*
 
-### 3.2.3 Camila Rodrigues — Usuária Compradora com Necessidades de Acessibilidade (UCA)
+### 3.2.4<img width="4320" height="2430" alt="Mapa acessar" src="https://github.com/user-attachments/assets/bfafb6b7-5fa7-42b5-857c-8fa536da896a" />
+ Camila Rodrigues — Usuária Compradora com Necessidades de Acessibilidade (UCA)
 
 Camila Rodrigues representa o perfil de usuária compradora utilizado para orientar a consideração de requisitos de acessibilidade no Camp Food. Sua persona foi elaborada considerando possíveis barreiras encontradas durante a utilização de plataformas digitais, especialmente aquelas relacionadas à visualização de informações, à identificação de elementos da interface e à navegação autônoma.
 
@@ -76,7 +94,7 @@ Ressalta-se que essa persona possui caráter hipotético e foi desenvolvida como
   <img src="../assets/mapa%20camila.png" alt="Mapa de Objetivos de Camila Rodrigues" width="100%">
 </p>
 
-*Figura 4 — Mapa de Objetivos de Camila Rodrigues (Usuária Compradora com Necessidades de Acessibilidade).*
+*Figura 5 — Mapa de Objetivos de Camila Rodrigues (Usuária Compradora com Necessidades de Acessibilidade).*
 
 ## 3.3 Considerações sobre os Mapas de Objetivos
 
